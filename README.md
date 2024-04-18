@@ -1225,6 +1225,7 @@
 
 ## Others 
 
+- [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [jpmvferreira/espanso-mega-pack](https://github.com/jpmvferreira/espanso-mega-pack) - A collection of curated home built packages for the cross-platform text expander Espanso
 - [chadsr/waybar-systemd](https://github.com/chadsr/waybar-systemd) - A Waybar module to display useful metrics from systemd
 - [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report) - Report and track banking app compatibility with GrapheneOS, including which workarounds may be required.
@@ -1564,7 +1565,6 @@
 - [chdsbd/kodiak](https://github.com/chdsbd/kodiak) - 🔮 A bot to automatically update and merge GitHub PRs
 - [fookatchu/SL1toPhoton](https://github.com/fookatchu/SL1toPhoton) - Converter for SL1 to Photon files. Used to slice 3D-Models with Slic3r PE and print on Anycubic Photon
 - [trailofbits/manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool
-- [onejgordon/flow-dashboard](https://github.com/onejgordon/flow-dashboard) - [UNMAINTAINED] A goal, task & habit tracker + personal dashboard to focus on what matters
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [coldfix/udiskie](https://github.com/coldfix/udiskie) - Automounter for removable media
@@ -1574,7 +1574,6 @@
 - [status-im/vyper-debug](https://github.com/status-im/vyper-debug) - Easy to use Vyper debugger | vdb (https://github.com/ethereum/vyper)
 - [eth-brownie/brownie](https://github.com/eth-brownie/brownie) - A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
 - [jafermarq/arXiv2Txt](https://github.com/jafermarq/arXiv2Txt) - Having access to thousands of publications via http://arxiv.org is great but when downloading a paper the title of the .pdf document always comes in the form "1234.56789.pdf" or similar. That file nam
-- [docopt/docopt](https://github.com/docopt/docopt) - This project is no longer maintained. Please see https://github.com/jazzband/docopt-ng
 - [uunicorn/python-validity](https://github.com/uunicorn/python-validity) - Validity fingerprint sensor prototype
 - [MBKraus/Predicting_real_estate_prices_using_scikit-learn](https://github.com/MBKraus/Predicting_real_estate_prices_using_scikit-learn) - Predicting Amsterdam house / real estate prices using Ordinary Least Squares-, XGBoost-, KNN-, Lasso-, Ridge-, Polynomial-, Random Forest-, and Neural Network MLP Regression (via scikit-learn)
 - [tlaplus/PlusPy](https://github.com/tlaplus/PlusPy) - Python interpreter for TLA+ specifications
