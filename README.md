@@ -421,6 +421,7 @@
 
 ## Go 
 
+- [nametake/golangci-lint-langserver](https://github.com/nametake/golangci-lint-langserver) - golangci-lint language server
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [r00tman/corrupter](https://github.com/r00tman/corrupter) - Simple image glitcher suitable for producing nice looking lockscreens
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
@@ -937,6 +938,7 @@
 
 ## JavaScript 
 
+- [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) - Drafts your next release notes as pull requests are merged into master.
 - [zerodytrash/Simple-YouTube-Age-Restriction-Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass) - A simple browser extension to bypass YouTube's age verification, disable content warnings and watch age restricted videos without having to sign in!
 - [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences
 - [wayou/vscode-todo-highlight](https://github.com/wayou/vscode-todo-highlight) - a vscode extension to highlighting todos, fixmes, and any annotations...
@@ -1370,6 +1372,12 @@
 
 ## Python 
 
+- [astral-sh/ruff-lsp](https://github.com/astral-sh/ruff-lsp) - A Language Server Protocol implementation for Ruff.
+- [compilerla/conventional-pre-commit](https://github.com/compilerla/conventional-pre-commit) - A pre-commit hook that checks commit messages for Conventional Commits formatting
+- [python-lsp/python-lsp-server](https://github.com/python-lsp/python-lsp-server) - Fork of the python-language-server project, maintained by the Spyder IDE team and the community
+- [python-rope/rope](https://github.com/python-rope/rope) - a python refactoring library
+- [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
+- [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [AlexxIT/SonoffLAN](https://github.com/AlexxIT/SonoffLAN) - Control Sonoff Devices with eWeLink (original) firmware over LAN and/or Cloud from Home Assistant
 - [anufrievroman/waypaper](https://github.com/anufrievroman/waypaper) - GUI wallpaper manager for Wayland and Xorg Linux systems
@@ -1782,6 +1790,7 @@
 
 ## SCSS 
 
+- [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [catppuccin/swaync](https://github.com/catppuccin/swaync) - 🔔 Soothing pastel theme for SwayNC
 
 ## Sass 
@@ -1899,6 +1908,8 @@
 
 ## TeX 
 
+- [ethersphere/the-book-of-swarm](https://github.com/ethersphere/the-book-of-swarm) - the book of swarm - base-layer infrastructure for self-sovereign digital society
+- [gavofyork/graypaper](https://github.com/gavofyork/graypaper) - The JAM Specification
 - [OpenLogicProject/OpenLogic](https://github.com/OpenLogicProject/OpenLogic) - An open-source, customizable intermediate logic textbook
 - [nicola/decentralized-research](https://github.com/nicola/decentralized-research) - :book: My reading list of academic papers and research notes
 - [gpestana/p2psec](https://github.com/gpestana/p2psec) - research on privacy and security in p2p and decentralised systems
@@ -1910,6 +1921,12 @@
 
 ## TypeScript 
 
+- [DonJayamanne/vscode-python-manager](https://github.com/DonJayamanne/vscode-python-manager) - Python Environment & Package Manager
+- [darrylyeo/blockhead](https://github.com/darrylyeo/blockhead) - An open-source interface for the decentralized web. Track, visualize and explore EVM-based blockchains, onchain accounts, smart contracts, transactions, DeFi apps and web3 protocols in one place – YOU
+- [astral-sh/ruff-vscode](https://github.com/astral-sh/ruff-vscode) - A Visual Studio Code extension with support for the Ruff linter.
+- [fannheyward/coc-pyright](https://github.com/fannheyward/coc-pyright) - Pyright extension for coc.nvim
+- [zeshuaro/vscode-poetry](https://github.com/zeshuaro/vscode-poetry) - Python Poetry support for VS Code to manage Poetry commands
+- [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [hangxingliu/vscode-systemd](https://github.com/hangxingliu/vscode-systemd) - A Visual Studio Code extension that helps you read and write Systemd unit files
 - [vscode-shellcheck/vscode-shellcheck](https://github.com/vscode-shellcheck/vscode-shellcheck) - Integrates ShellCheck into VS Code, a linter for Shell scripts.
 - [yy0931/gitconfig-lsp](https://github.com/yy0931/gitconfig-lsp) - 
