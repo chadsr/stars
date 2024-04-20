@@ -2550,6 +2550,7 @@
 
 ## others 
 
+- [krakenfx/wallet](https://github.com/krakenfx/wallet) - Kraken Wallet is a powerful self-custody wallet built for the decentralized web
 - [DonJayamanne/vscode-python-manager](https://github.com/DonJayamanne/vscode-python-manager) - Python Environment & Package Manager
 - [ethersphere/the-book-of-swarm](https://github.com/ethersphere/the-book-of-swarm) - the book of swarm - base-layer infrastructure for self-sovereign digital society
 - [astral-sh/ruff-vscode](https://github.com/astral-sh/ruff-vscode) - A Visual Studio Code extension with support for the Ruff linter.
