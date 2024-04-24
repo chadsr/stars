@@ -853,7 +853,6 @@
 
 ## HTML 
 
-- [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [tzarc/keyboards](https://github.com/tzarc/keyboards) - @tzarc's custom keyboard designs.
 - [Aposymbiont/split-keyboards](https://github.com/Aposymbiont/split-keyboards) - A collection of ergonomic split keyboards ⌨
 - [w3c/did-core](https://github.com/w3c/did-core) - W3C Decentralized Identifier Specification v1.0
@@ -961,7 +960,7 @@
 - [scottlawsonbc/stldiff](https://github.com/scottlawsonbc/stldiff) - Simple .stl diff tool with 3D viewer
 - [decentralized-identity/peer-did-method-spec](https://github.com/decentralized-identity/peer-did-method-spec) - A rich DID method that has no blockchain dependencies. The verifiable data registry is a synchronization protocol between peers.
 - [pengx17/logseq-publish](https://github.com/pengx17/logseq-publish) - Archived. Please check https://github.com/logseq/publish-spa instead
-- [Awesome-Technologies/synapse-admin](https://github.com/Awesome-Technologies/synapse-admin) - https://hub.docker.com/r/awesometechnologies/synapse-admin
+- [Awesome-Technologies/synapse-admin](https://github.com/Awesome-Technologies/synapse-admin) - Admin console for synapse Matrix homeserver
 - [nodeSolidServer/node-solid-server](https://github.com/nodeSolidServer/node-solid-server) - Solid server on top of the file-system in NodeJS
 - [Trustroots/trustroots](https://github.com/Trustroots/trustroots) - Travellers' community for sharing, hosting and getting people together.
 - [Decentralized-ID/decentralized-id.github.io](https://github.com/Decentralized-ID/decentralized-id.github.io) - Self Sovereign Identity Curated
@@ -1229,7 +1228,6 @@
 
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [jpmvferreira/espanso-mega-pack](https://github.com/jpmvferreira/espanso-mega-pack) - A collection of curated home built packages for the cross-platform text expander Espanso
-- [chadsr/waybar-systemd](https://github.com/chadsr/waybar-systemd) - A Waybar module to display useful metrics from systemd
 - [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report) - Report and track banking app compatibility with GrapheneOS, including which workarounds may be required.
 - [rtlewis1/GTK](https://github.com/rtlewis1/GTK) - GTK, xfwm4, openbox-3, GNOME-Shell, and Cinnamon themes
 - [romkatv/powerlevel10k-media](https://github.com/romkatv/powerlevel10k-media) - Media files for powerlevel10k
@@ -1372,6 +1370,8 @@
 
 ## Python 
 
+- [jaseg/python-mpv](https://github.com/jaseg/python-mpv) - Python interface to the awesome mpv media player
+- [moses-palmer/pystray](https://github.com/moses-palmer/pystray) - 
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [astral-sh/ruff-lsp](https://github.com/astral-sh/ruff-lsp) - A Language Server Protocol implementation for Ruff.
 - [compilerla/conventional-pre-commit](https://github.com/compilerla/conventional-pre-commit) - A pre-commit hook that checks commit messages for Conventional Commits formatting
@@ -1382,6 +1382,7 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [AlexxIT/SonoffLAN](https://github.com/AlexxIT/SonoffLAN) - Control Sonoff Devices with eWeLink (original) firmware over LAN and/or Cloud from Home Assistant
 - [anufrievroman/waypaper](https://github.com/anufrievroman/waypaper) - GUI wallpaper manager for Wayland and Xorg Linux systems
+- [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [pimutils/vdirsyncer](https://github.com/pimutils/vdirsyncer) - 📇 Synchronize calendars and contacts.
 - [pimutils/khal](https://github.com/pimutils/khal) - :calendar: CLI calendar application
 - [quodlibet/mutagen](https://github.com/quodlibet/mutagen) - Python module for handling audio metadata
@@ -1684,6 +1685,7 @@
 
 ## Rust 
 
+- [near/nearcore](https://github.com/near/nearcore) - Reference client for NEAR Protocol
 - [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
 - [ipvm-wg/homestar](https://github.com/ipvm-wg/homestar) - Homestar is the individual node that makes up the Everywhere Computer network (similar to how IPFS Kubo, Iroh, Nabu, or other implementation nodes make up the IPFS network). It's written in Rust and i
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
