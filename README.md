@@ -98,6 +98,7 @@
 
 ## C 
 
+- [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon
 - [aide/aide](https://github.com/aide/aide) - aide source code
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [sjvermeu/cvechecker](https://github.com/sjvermeu/cvechecker) - Command-line utility to scan the system and report on potential vulnerabilities, based on public CVE data
@@ -216,6 +217,7 @@
 
 ## C++ 
 
+- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [houmain/gpupad](https://github.com/houmain/gpupad) - A flexible GLSL shader editor and IDE.
 - [wez/atomicparsley](https://github.com/wez/atomicparsley) - AtomicParsley is a lightweight command line program for reading, parsing and setting metadata into MPEG-4 files, in particular, iTunes-style metadata.
 - [magnus-ISU/selectdefaultapplication](https://github.com/magnus-ISU/selectdefaultapplication) - an ugly hack to be able to select default applications in linux in a better way
@@ -855,6 +857,7 @@
 
 ## HTML 
 
+- [Cryptofonts/cryptofont](https://github.com/Cryptofonts/cryptofont) - Cryptocurrency icon webfont and SVG
 - [tzarc/keyboards](https://github.com/tzarc/keyboards) - @tzarc's custom keyboard designs.
 - [Aposymbiont/split-keyboards](https://github.com/Aposymbiont/split-keyboards) - A collection of ergonomic split keyboards ⌨
 - [w3c/did-core](https://github.com/w3c/did-core) - W3C Decentralized Identifier Specification v1.0
@@ -939,6 +942,7 @@
 
 ## JavaScript 
 
+- [DefiLlama/chainlist](https://github.com/DefiLlama/chainlist) - 
 - [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) - Drafts your next release notes as pull requests are merged into master.
 - [zerodytrash/Simple-YouTube-Age-Restriction-Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass) - A simple browser extension to bypass YouTube's age verification, disable content warnings and watch age restricted videos without having to sign in!
 - [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences
@@ -1146,6 +1150,7 @@
 
 ## Kotlin 
 
+- [ethereum-lists/chains](https://github.com/ethereum-lists/chains) - provides metadata for chains
 - [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is an powerful picture editor, which can crop, apply filters, add some drawing, erase background, edit EXIF or even create PDF file
 - [amoledwatchfaces/Complications-Suite-Wear-OS](https://github.com/amoledwatchfaces/Complications-Suite-Wear-OS) - Complications Suite - Wear OS app
 - [horizontalsystems/unstoppable-wallet-android](https://github.com/horizontalsystems/unstoppable-wallet-android) - A powerful non-custodial multi-wallet for Bitcoin, Ethereum, Binance Smart Chain, Avalanche, Solana and other blockchains. Non-custodial crypto and NFT storage, onchain decentralized exchange, institu
@@ -1372,6 +1377,7 @@
 
 ## Python 
 
+- [termux/termux-language-server](https://github.com/termux/termux-language-server) - 🛠️ A language server for some specific bash scripts
 - [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
