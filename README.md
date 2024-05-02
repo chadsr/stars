@@ -442,7 +442,7 @@
 - [ObolNetwork/charon](https://github.com/ObolNetwork/charon) - Charon (pronounced 'kharon') is a Proof of Stake Ethereum Distributed Validator Client
 - [idena-network/idena-go](https://github.com/idena-network/idena-go) - Idena node
 - [ipdr/ipdr](https://github.com/ipdr/ipdr) - 🐋 IPFS-backed Docker Registry
-- [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
+- [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform filesystem notifications for Go.
 - [bluesky-social/indigo](https://github.com/bluesky-social/indigo) - Go source code for Bluesky's atproto services.
 - [quic-go/webtransport-go](https://github.com/quic-go/webtransport-go) - WebTransport implementation based on quic-go (https://datatracker.ietf.org/doc/draft-ietf-webtrans-http3/)
 - [GoAdminGroup/go-admin](https://github.com/GoAdminGroup/go-admin) - A golang framework helps gopher to build a data visualization and admin panel in ten minutes
@@ -1023,7 +1023,7 @@
 - [jhonalino/polkaview.network](https://github.com/jhonalino/polkaview.network) - 
 - [solokeys/solo-desktop](https://github.com/solokeys/solo-desktop) - Desktop app for customizing and updating your Solo.
 - [complexityexplained/complexityexplained.github.io](https://github.com/complexityexplained/complexityexplained.github.io) - Complexity Explained, a community-driven project to create easy-to-understand documents and materials for Complexity Science education
-- [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of your apps built on top of W3C WebDriver protocol
+- [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
 - [UltimateHackingKeyboard/uhk60v1-electronics](https://github.com/UltimateHackingKeyboard/uhk60v1-electronics) - The schematic and PCBs of the UHK 60 v1
 - [liamzebedee/retrust](https://github.com/liamzebedee/retrust) - Subjective consensus algorithm and value governance protocol 🌎
 - [ZoneMinder/zmNinja](https://github.com/ZoneMinder/zmNinja) - High performance, cross platform ionic app for Home/Commerical Security Surveillance using ZoneMinder
@@ -1382,6 +1382,7 @@
 
 ## Python 
 
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [termux/termux-language-server](https://github.com/termux/termux-language-server) - 🛠️ A language server for some specific bash scripts
 - [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks
@@ -1944,6 +1945,7 @@
 
 ## TypeScript 
 
+- [taye/interact.js](https://github.com/taye/interact.js) - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+)
 - [catppuccin/vscode](https://github.com/catppuccin/vscode) - 🦌 Soothing pastel theme for VSCode & Azure Data Studio
 - [krakenfx/wallet](https://github.com/krakenfx/wallet) - Kraken Wallet is a powerful self-custody wallet built for the decentralized web
 - [DonJayamanne/vscode-python-manager](https://github.com/DonJayamanne/vscode-python-manager) - Python Environment & Package Manager
