@@ -974,7 +974,6 @@
 - [scottlawsonbc/stldiff](https://github.com/scottlawsonbc/stldiff) - Simple .stl diff tool with 3D viewer
 - [decentralized-identity/peer-did-method-spec](https://github.com/decentralized-identity/peer-did-method-spec) - A rich DID method that has no blockchain dependencies. The verifiable data registry is a synchronization protocol between peers.
 - [pengx17/logseq-publish](https://github.com/pengx17/logseq-publish) - Archived. Please check https://github.com/logseq/publish-spa instead
-- [Awesome-Technologies/synapse-admin](https://github.com/Awesome-Technologies/synapse-admin) - Admin console for synapse Matrix homeserver
 - [nodeSolidServer/node-solid-server](https://github.com/nodeSolidServer/node-solid-server) - Solid server on top of the file-system in NodeJS
 - [Trustroots/trustroots](https://github.com/Trustroots/trustroots) - Travellers' community for sharing, hosting and getting people together.
 - [Decentralized-ID/decentralized-id.github.io](https://github.com/Decentralized-ID/decentralized-id.github.io) - Self Sovereign Identity Curated
@@ -1998,6 +1997,7 @@
 - [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky
 - [trashhalo/logseq-graph-analysis](https://github.com/trashhalo/logseq-graph-analysis) - learn more about the relationships between between your notes using network analysis algorithms
 - [haydenull/logseq-plugin-git](https://github.com/haydenull/logseq-plugin-git) - A git plugin for logseq
+- [Awesome-Technologies/synapse-admin](https://github.com/Awesome-Technologies/synapse-admin) - Admin console for synapse Matrix homeserver
 - [shazow/whatsabi](https://github.com/shazow/whatsabi) - Extract the ABI (and other metadata) from Ethereum bytecode, even without source code.
 - [DanilaFe/matrix-highlight](https://github.com/DanilaFe/matrix-highlight) - A decentralized and federated way of annotating the web based on Matrix.
 - [sawhney17/logseq-schrodinger](https://github.com/sawhney17/logseq-schrodinger) - A plugin to export pages in Logseq to Hugo.
