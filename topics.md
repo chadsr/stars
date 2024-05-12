@@ -1422,7 +1422,7 @@
 - [gobwas/ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go.
 - [gorilla/websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
 - [nhooyr/websocket](https://github.com/nhooyr/websocket) - Minimal and idiomatic WebSocket library for Go
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
@@ -1597,7 +1597,7 @@
 - [mvdan/github-actions-golang](https://github.com/mvdan/github-actions-golang) - GitHub Actions as CI for Go
 - [gobwas/ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go.
 - [gorilla/websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) - Official GitHub Action for golangci-lint from its authors
@@ -2834,7 +2834,7 @@
 - [alvr-org/ALVR](https://github.com/alvr-org/ALVR) - Stream VR games from your PC to your headset via Wi-Fi
 - [technik-gegg/SMuFF-1.1](https://github.com/technik-gegg/SMuFF-1.1) - Latest version of the SMuFF firmware to be compiled in PlatformIO
 - [radicle-dev/radicle-cli](https://github.com/radicle-dev/radicle-cli) - Radicle CLI
-- [sunknudsen/privacy-guides](https://github.com/sunknudsen/privacy-guides) - Privacy guides reference material
+- [sunknudsen/privacy-guides](https://github.com/sunknudsen/privacy-guides) - Privacy guides reference material (archived)
 - [SonarSource/sonarlint-vscode](https://github.com/SonarSource/sonarlint-vscode) - SonarLint for Visual Studio Code
 - [coreos/bcrypt-tool](https://github.com/coreos/bcrypt-tool) - 
 - [Flamingo-tech/Xiaomi_air_purifier_modchip](https://github.com/Flamingo-tech/Xiaomi_air_purifier_modchip) - Open source Xiaomi air purifier modchip
