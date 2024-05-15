@@ -349,6 +349,7 @@
 
 ## Cuda 
 
+- [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
 - [mmitalidis/APSP-CUDA](https://github.com/mmitalidis/APSP-CUDA) - All-Pairs Shortest Path implementation on GPU, using CUDA.
 
 ## Cython 
@@ -1156,6 +1157,7 @@
 
 ## Kotlin 
 
+- [morpho-app/Morpho](https://github.com/morpho-app/Morpho) - Fast, flexible native Android client for Bluesky
 - [ethereum-lists/chains](https://github.com/ethereum-lists/chains) - provides metadata for chains
 - [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is an powerful picture editor, which can crop, apply filters, add some drawing, erase background, edit EXIF or even create PDF file
 - [amoledwatchfaces/Complications-Suite-Wear-OS](https://github.com/amoledwatchfaces/Complications-Suite-Wear-OS) - Complications Suite - Wear OS app
@@ -1381,6 +1383,7 @@
 
 ## Python 
 
+- [freelawproject/courtlistener](https://github.com/freelawproject/courtlistener) - A fully-searchable and accessible archive of court data including growing repositories of opinions, oral arguments, judges, judicial financial records, and federal filings.
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
@@ -1690,6 +1693,7 @@
 
 ## Ruby 
 
+- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
@@ -1703,7 +1707,6 @@
 ## Rust 
 
 - [near/nearcore](https://github.com/near/nearcore) - Reference client for NEAR Protocol
-- [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
 - [ipvm-wg/homestar](https://github.com/ipvm-wg/homestar) - Homestar is the individual node that makes up the Everywhere Computer network (similar to how IPFS Kubo, Iroh, Nabu, or other implementation nodes make up the IPFS network). It's written in Rust and i
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [fralonra/wgshadertoy](https://github.com/fralonra/wgshadertoy) - A WGSL playground inspired by Shadertoy.
@@ -2001,7 +2004,7 @@
 - [shazow/whatsabi](https://github.com/shazow/whatsabi) - Extract the ABI (and other metadata) from Ethereum bytecode, even without source code.
 - [DanilaFe/matrix-highlight](https://github.com/DanilaFe/matrix-highlight) - A decentralized and federated way of annotating the web based on Matrix.
 - [sawhney17/logseq-schrodinger](https://github.com/sawhney17/logseq-schrodinger) - A plugin to export pages in Logseq to Hugo.
-- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Like Next.js / Nuxt but as do-one-thing-do-it-well Vite plugin.
+- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Flexible, robust, community-driven, fast Vite-based frontend framework.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [teambit/bit](https://github.com/teambit/bit) - A build system for development of composable software.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
