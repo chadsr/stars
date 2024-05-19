@@ -2516,7 +2516,7 @@
 ## node 
 
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
-- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Flexible, robust, community-driven, fast Vite-based frontend framework.
+- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Flexible, lean, robust, community-driven, fast Vite-based frontend framework.
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
@@ -3805,7 +3805,7 @@
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - 🏗 forkable Ethereum dev stack focused on fast product iterations
 - [Awesome-Technologies/synapse-admin](https://github.com/Awesome-Technologies/synapse-admin) - Admin console for synapse Matrix homeserver
-- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Flexible, robust, community-driven, fast Vite-based frontend framework.
+- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Flexible, lean, robust, community-driven, fast Vite-based frontend framework.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [teambit/bit](https://github.com/teambit/bit) - A build system for development of composable software.
@@ -4333,7 +4333,7 @@
 
 - [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
-- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Flexible, robust, community-driven, fast Vite-based frontend framework.
+- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Flexible, lean, robust, community-driven, fast Vite-based frontend framework.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [teambit/bit](https://github.com/teambit/bit) - A build system for development of composable software.
 - [YousefED/SyncedStore](https://github.com/YousefED/SyncedStore) - SyncedStore CRDT is an easy-to-use library for building live, collaborative applications that sync automatically.
