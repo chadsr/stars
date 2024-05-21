@@ -2616,6 +2616,8 @@
 
 ## others 
 
+- [jsh9/pydoclint](https://github.com/jsh9/pydoclint) - A Python docstring linter that checks arguments, returns, yields, and raises sections
+- [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [smol-dot/smoldot](https://github.com/smol-dot/smoldot) - Lightweight client for Substrate-based chains, such as Polkadot and Kusama.
 - [freelawproject/courtlistener](https://github.com/freelawproject/courtlistener) - A fully-searchable and accessible archive of court data including growing repositories of opinions, oral arguments, judges, judicial financial records, and federal filings.
 - [ipfs/helia-verified-fetch](https://github.com/ipfs/helia-verified-fetch) - A fetch-like API for obtaining verified & trustless IPFS CIDs on the web
@@ -2789,7 +2791,7 @@
 - [greensopinion/flutter-vector-map-tiles](https://github.com/greensopinion/flutter-vector-map-tiles) - A plugin for `flutter_map` that enables the use of vector tiles.
 - [ljwagerfield/crdt](https://github.com/ljwagerfield/crdt) - CRDT Tutorial for Beginners (a digestible explanation with less math!)
 - [nodeSolidServer/node-solid-server](https://github.com/nodeSolidServer/node-solid-server) - Solid server on top of the file-system in NodeJS
-- [karrot-dev/karrot-frontend](https://github.com/karrot-dev/karrot-frontend) - Mirror of https://codeberg.org/karrot/karrot-frontend
+- [karrot-dev/karrot-frontend](https://github.com/karrot-dev/karrot-frontend) - We migrated to https://codeberg.org/karrot/karrot-frontend
 - [gojek/darkroom](https://github.com/gojek/darkroom) - 
 - [rs/cors](https://github.com/rs/cors) - Go net/http configurable handler to handle CORS requests
 - [Sygil-Dev/sygil-webui](https://github.com/Sygil-Dev/sygil-webui) - Stable Diffusion web UI
