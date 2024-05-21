@@ -1269,6 +1269,7 @@
 - [jryans/matrix-limits](https://github.com/jryans/matrix-limits) - A collection of various limits and related factoids about the Matrix specification and implementations.
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [ljwagerfield/crdt](https://github.com/ljwagerfield/crdt) - CRDT Tutorial for Beginners (a digestible explanation with less math!)
+- [karrot-dev/karrot-frontend](https://github.com/karrot-dev/karrot-frontend) - We migrated to https://codeberg.org/karrot/karrot-frontend
 - [BasixKOR/awesome-activitypub](https://github.com/BasixKOR/awesome-activitypub) - Awesome list of ActivityPub based projects
 - [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
 - [Sygil-Dev/stable-diffusion](https://github.com/Sygil-Dev/stable-diffusion) - 
@@ -1384,6 +1385,7 @@
 
 ## Python 
 
+- [jsh9/pydoclint](https://github.com/jsh9/pydoclint) - A Python docstring linter that checks arguments, returns, yields, and raises sections
 - [freelawproject/courtlistener](https://github.com/freelawproject/courtlistener) - A fully-searchable and accessible archive of court data including growing repositories of opinions, oral arguments, judges, judicial financial records, and federal filings.
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
@@ -1708,6 +1710,7 @@
 
 ## Rust 
 
+- [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [smol-dot/smoldot](https://github.com/smol-dot/smoldot) - Lightweight client for Substrate-based chains, such as Polkadot and Kusama.
 - [fossable/goldboot](https://github.com/fossable/goldboot) - Immutable infrastructure for the desktop!
 - [near/nearcore](https://github.com/near/nearcore) - Reference client for NEAR Protocol
@@ -2141,7 +2144,6 @@
 
 - [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [Half-Shot/matrix-presents](https://github.com/Half-Shot/matrix-presents) - A presentation client that reads from a Matrix room and displays it as pretty slides!
-- [karrot-dev/karrot-frontend](https://github.com/karrot-dev/karrot-frontend) - Mirror of https://codeberg.org/karrot/karrot-frontend
 - [Idered/iridium](https://github.com/Idered/iridium) - 💎 VS Code extensions
 - [vinayakkulkarni/v-mapbox](https://github.com/vinayakkulkarni/v-mapbox) - Vue-ish way for interacting with map(box|libre)-gl-js 🧭
 - [TheSpaghettiDetective/obico-server](https://github.com/TheSpaghettiDetective/obico-server) - Obico is a community-built, open-source smart 3D printing platform used by makers, enthusiasts, and tinkerers around the world.
