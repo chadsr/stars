@@ -949,6 +949,7 @@
 
 ## JavaScript 
 
+- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
 - [orbitdb/orbitdb](https://github.com/orbitdb/orbitdb) - Peer-to-Peer Databases for the Decentralized Web
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
@@ -1240,6 +1241,7 @@
 
 ## Others 
 
+- [chadsr/stars](https://github.com/chadsr/stars) - Starred  Repositories
 - [css-modules/css-modules](https://github.com/css-modules/css-modules) - Documentation about css-modules
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [jpmvferreira/espanso-mega-pack](https://github.com/jpmvferreira/espanso-mega-pack) - A collection of curated home built packages for the cross-platform text expander Espanso
@@ -1386,6 +1388,8 @@
 
 ## Python 
 
+- [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
+- [Cryptofonts/cryptoicons](https://github.com/Cryptofonts/cryptoicons) - A collection of cryptocurrency token logos in SVG format
 - [astral-sh/ruff-pre-commit](https://github.com/astral-sh/ruff-pre-commit) - A pre-commit hook for Ruff.
 - [jsh9/pydoclint](https://github.com/jsh9/pydoclint) - A Python docstring linter that checks arguments, returns, yields, and raises sections
 - [freelawproject/courtlistener](https://github.com/freelawproject/courtlistener) - A fully-searchable and accessible archive of court data including growing repositories of opinions, oral arguments, judges, judicial financial records, and federal filings.
@@ -1712,6 +1716,7 @@
 
 ## Rust 
 
+- [coffebar/waybar-module-pacman-updates](https://github.com/coffebar/waybar-module-pacman-updates) - waybar module for Arch to show system updates available
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [smol-dot/smoldot](https://github.com/smol-dot/smoldot) - Lightweight client for Substrate-based chains, such as Polkadot and Kusama.
 - [fossable/goldboot](https://github.com/fossable/goldboot) - Immutable infrastructure for the desktop!
@@ -1958,6 +1963,7 @@
 
 ## TypeScript 
 
+- [claui/vscode-packaging](https://github.com/claui/vscode-packaging) - VS Code extension for package management. Supports PKGBUILDs in the Arch User Repository (AUR).
 - [ipfs/helia-verified-fetch](https://github.com/ipfs/helia-verified-fetch) - A fetch-like API for obtaining verified & trustless IPFS CIDs on the web
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [tabcat/zzzync](https://github.com/tabcat/zzzync) - sync with peers that have gone to sleep 😴
