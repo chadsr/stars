@@ -217,6 +217,7 @@
 
 ## C++ 
 
+- [Acly/krita-ai-tools](https://github.com/Acly/krita-ai-tools) - Krita plugin which adds selection tools to mask objects with a single click, or by drawing a bounding box.
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [houmain/gpupad](https://github.com/houmain/gpupad) - A flexible GLSL shader editor and IDE.
 - [wez/atomicparsley](https://github.com/wez/atomicparsley) - AtomicParsley is a lightweight command line program for reading, parsing and setting metadata into MPEG-4 files, in particular, iTunes-style metadata.
@@ -1717,6 +1718,7 @@
 
 ## Rust 
 
+- [polachok/helix-gpui](https://github.com/polachok/helix-gpui) - helix gpui frontend
 - [coffebar/waybar-module-pacman-updates](https://github.com/coffebar/waybar-module-pacman-updates) - waybar module for Arch to show system updates available
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [smol-dot/smoldot](https://github.com/smol-dot/smoldot) - Lightweight client for Substrate-based chains, such as Polkadot and Kusama.
@@ -1964,6 +1966,7 @@
 
 ## TypeScript 
 
+- [onlyutkarsh/git-config-user-profiles](https://github.com/onlyutkarsh/git-config-user-profiles) - A Visual Studio Code extension to define multiple git config user profiles and switch them easily using status bar
 - [claui/vscode-packaging](https://github.com/claui/vscode-packaging) - VS Code extension for package management. Supports PKGBUILDs in the Arch User Repository (AUR).
 - [ipfs/helia-verified-fetch](https://github.com/ipfs/helia-verified-fetch) - A fetch-like API for obtaining verified & trustless IPFS CIDs on the web
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
@@ -2088,7 +2091,7 @@
 - [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov :open_umbrella:
 - [libp2p/test-plans](https://github.com/libp2p/test-plans) - Interoperability tests for libp2p
 - [wei2912/obsidian-latex](https://github.com/wei2912/obsidian-latex) - 
-- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: 
+- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue 
 - [benawad/vsinder](https://github.com/benawad/vsinder) - Dating App for VSCode
 - [social-dist0rtion-protocol/thc](https://github.com/social-dist0rtion-protocol/thc) - Treasure Hunt Creator
 - [HEmile/juggl](https://github.com/HEmile/juggl) - An interactive, stylable and expandable graph view for Obsidian. Juggl is designed as an advanced 'local' graph view, where you can juggle all your thoughts with ease.
