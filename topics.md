@@ -1174,7 +1174,7 @@
 
 ## firebase 
 
-- [dmotz/trystero](https://github.com/dmotz/trystero) - 🤝 Build instant multiplayer webapps, no server required — Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, and Firebase
+- [dmotz/trystero](https://github.com/dmotz/trystero) - ✨🤝✨ Build instant multiplayer webapps, no server required — Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, and Firebase
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
 
 ## firefox 
@@ -1983,7 +1983,7 @@
 - [applejag/musicforprogramming.ipfs](https://github.com/applejag/musicforprogramming.ipfs) - Unofficial port of musicforprogramming.net to be hosted on IPFS
 - [stateless-minds/cyber-stasis](https://github.com/stateless-minds/cyber-stasis) - Post-money economy simulator in the form of a free fictional game based on gift economy that tests the hypothesis of having a market system without any exchange be it barters or money.
 - [mrusme/superhighway84](https://github.com/mrusme/superhighway84) - USENET-inspired, uncensorable, decentralized internet discussion system running on IPFS & OrbitDB
-- [dmotz/trystero](https://github.com/dmotz/trystero) - 🤝 Build instant multiplayer webapps, no server required — Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, and Firebase
+- [dmotz/trystero](https://github.com/dmotz/trystero) - ✨🤝✨ Build instant multiplayer webapps, no server required — Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, and Firebase
 - [oduwsdl/ipwb](https://github.com/oduwsdl/ipwb) - InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS
 - [ipfs-cluster/ipfs-cluster](https://github.com/ipfs-cluster/ipfs-cluster) - Pinset orchestration for IPFS
 - [ipfs-search/ipfs-search](https://github.com/ipfs-search/ipfs-search) - Search engine for the Interplanetary Filesystem.
@@ -2044,7 +2044,7 @@
 - [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
 - [chiselstrike/chiselstrike](https://github.com/chiselstrike/chiselstrike) - ChiselStrike abstracts common backends components like databases and message queues, and let you drive them from a convenient TypeScript business logic layer
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
-- [dmotz/trystero](https://github.com/dmotz/trystero) - 🤝 Build instant multiplayer webapps, no server required — Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, and Firebase
+- [dmotz/trystero](https://github.com/dmotz/trystero) - ✨🤝✨ Build instant multiplayer webapps, no server required — Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, and Firebase
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
 - [JoinColony/awesome-web3](https://github.com/JoinColony/awesome-web3) - 🚀 A curated list of tools, libs and resources to help you build awesome dapps
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
@@ -3437,7 +3437,7 @@
 - [ipdr/ipdr](https://github.com/ipdr/ipdr) - 🐋 IPFS-backed Docker Registry
 - [stateless-minds/cyber-stasis](https://github.com/stateless-minds/cyber-stasis) - Post-money economy simulator in the form of a free fictional game based on gift economy that tests the hypothesis of having a market system without any exchange be it barters or money.
 - [mrusme/superhighway84](https://github.com/mrusme/superhighway84) - USENET-inspired, uncensorable, decentralized internet discussion system running on IPFS & OrbitDB
-- [dmotz/trystero](https://github.com/dmotz/trystero) - 🤝 Build instant multiplayer webapps, no server required — Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, and Firebase
+- [dmotz/trystero](https://github.com/dmotz/trystero) - ✨🤝✨ Build instant multiplayer webapps, no server required — Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, and Firebase
 - [subconsciousnetwork/noosphere](https://github.com/subconsciousnetwork/noosphere) - Noosphere is a protocol for thought; let's discover it together!
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [soketi/soketi](https://github.com/soketi/soketi) - Next-gen, Pusher-compatible, open-source WebSockets server. Simple, fast, and resilient. 📣
@@ -4057,7 +4057,7 @@
 
 ## serverless 
 
-- [dmotz/trystero](https://github.com/dmotz/trystero) - 🤝 Build instant multiplayer webapps, no server required — Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, and Firebase
+- [dmotz/trystero](https://github.com/dmotz/trystero) - ✨🤝✨ Build instant multiplayer webapps, no server required — Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, and Firebase
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
