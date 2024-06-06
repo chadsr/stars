@@ -2867,7 +2867,6 @@
 - [Supreeeme/vrdio](https://github.com/Supreeeme/vrdio) - Audio controls in VR on Linux
 - [basti564/Oculess](https://github.com/basti564/Oculess) - Removes account requirements and telemetry from Oculus Quest devices
 - [chadsr/logrus-sentry](https://github.com/chadsr/logrus-sentry) - Sentry hook for Logrus
-- [zama-ai/demo_z8z](https://github.com/zama-ai/demo_z8z) - Demo using Concrete library to implement exact homomorphic computation with 3-bit integers
 - [rdragos/awesome-mpc](https://github.com/rdragos/awesome-mpc) - A curated list of multi party computation resources and links.
 - [Huelse/SEAL-Python](https://github.com/Huelse/SEAL-Python) - Microsoft SEAL 4.X For Python
 - [firecat53/bitwarden-menu](https://github.com/firecat53/bitwarden-menu) - Dmenu/Rofi frontend for managing Bitwarden vault using the Bitwarden CLI tool.
@@ -3939,7 +3938,6 @@
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [subconsciousnetwork/noosphere](https://github.com/subconsciousnetwork/noosphere) - Noosphere is a protocol for thought; let's discover it together!
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - A toolkit for building distributed applications
-- [zama-ai/concrete-core](https://github.com/zama-ai/concrete-core) - Concrete Core contains a set of low-level primitives which can be used to implement Fully Homomorphically Encrypted (FHE) programs.
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [matrix-org/matrix-rust-sdk](https://github.com/matrix-org/matrix-rust-sdk) - Matrix Client-Server SDK for Rust
 - [matrix-org/vodozemac](https://github.com/matrix-org/vodozemac) - An implementation of Olm and Megolm in pure Rust.
