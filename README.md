@@ -1768,7 +1768,6 @@
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - A toolkit for building distributed applications
 - [privacy-scaling-explorations/zk-eigentrust](https://github.com/privacy-scaling-explorations/zk-eigentrust) - EigenTrust - A distributed reputation system
 - [h-REA/hREA](https://github.com/h-REA/hREA) - A ValueFlows / REA economic network coordination system implemented on Holochain and with supplied Javascript GraphQL libraries
-- [zama-ai/concrete-core](https://github.com/zama-ai/concrete-core) - Concrete Core contains a set of low-level primitives which can be used to implement Fully Homomorphically Encrypted (FHE) programs.
 - [matrix-org/vodozemac-bindings](https://github.com/matrix-org/vodozemac-bindings) - Language bindings for vodozemac
 - [matrix-org/matrix-rust-sdk](https://github.com/matrix-org/matrix-rust-sdk) - Matrix Client-Server SDK for Rust
 - [matrix-org/vodozemac](https://github.com/matrix-org/vodozemac) - An implementation of Olm and Megolm in pure Rust.
@@ -1779,7 +1778,6 @@
 - [blyssprivacy/sdk](https://github.com/blyssprivacy/sdk) - SDK for private data access, built on homomorphic encryption.
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
-- [zama-ai/demo_z8z](https://github.com/zama-ai/demo_z8z) - Demo using Concrete library to implement exact homomorphic computation with 3-bit integers
 - [Findomain/Findomain](https://github.com/Findomain/Findomain) - The fastest and complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, mul
 - [AleoNet/snarkVM](https://github.com/AleoNet/snarkVM) - A Virtual Machine for Zero-Knowledge Executions
 - [facebookresearch/Cupcake](https://github.com/facebookresearch/Cupcake) - A Rust library for lattice-based additive homomorphic encryption.
