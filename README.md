@@ -427,6 +427,7 @@
 
 ## Go 
 
+- [juju/juju](https://github.com/juju/juju) - Orchestration engine that enables the deployment, integration and lifecycle management of applications at any scale, on any infrastructure (Kubernetes or otherwise).
 - [ChristopherHX/github-act-runner](https://github.com/ChristopherHX/github-act-runner) - act as self-hosted runner
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [nwg-piotr/nwg-drawer](https://github.com/nwg-piotr/nwg-drawer) - Application drawer for wlroots-based Wayland compositors
@@ -1161,6 +1162,7 @@
 ## Just 
 
 - [catppuccin/mpv](https://github.com/catppuccin/mpv) - 📼 Soothing pastel theme for mpv
+- [catppuccin/helix](https://github.com/catppuccin/helix) - ➿ Soothing pastel theme for Helix!
 
 ## Kotlin 
 
@@ -1248,7 +1250,6 @@
 
 ## Others 
 
-- [chadsr/stars](https://github.com/chadsr/stars) - Starred  Repositories
 - [css-modules/css-modules](https://github.com/css-modules/css-modules) - Documentation about css-modules
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [jpmvferreira/espanso-mega-pack](https://github.com/jpmvferreira/espanso-mega-pack) - A collection of curated home built packages for the cross-platform text expander Espanso
@@ -1432,7 +1433,6 @@
 - [pimutils/khal](https://github.com/pimutils/khal) - :calendar: CLI calendar application
 - [quodlibet/mutagen](https://github.com/quodlibet/mutagen) - Python module for handling audio metadata
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
-- [catppuccin/helix](https://github.com/catppuccin/helix) - ➿ Soothing pastel theme for Helix!
 - [chipsec/chipsec](https://github.com/chipsec/chipsec) - Platform Security Assessment Framework
 - [travisghansen/hass-pfsense](https://github.com/travisghansen/hass-pfsense) - pfSense integration with Home Assistant
 - [pop-os/kernelstub](https://github.com/pop-os/kernelstub) - A simple EFI boot manager manager for Linux
@@ -1728,6 +1728,7 @@
 
 ## Rust 
 
+- [timokoesters/conduit](https://github.com/timokoesters/conduit) - A simple, fast and reliable Matrix server (MIRROR, see https://conduit.rs )
 - [polachok/helix-gpui](https://github.com/polachok/helix-gpui) - helix gpui frontend
 - [coffebar/waybar-module-pacman-updates](https://github.com/coffebar/waybar-module-pacman-updates) - waybar module for Arch to show system updates available
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
@@ -1951,6 +1952,7 @@
 
 ## Swift 
 
+- [zkmopro/mopro](https://github.com/zkmopro/mopro) - Making client-side proving on mobile simple.
 - [fwcd/distributed-chat](https://github.com/fwcd/distributed-chat) - Distributed peer-to-peer messaging app using Bluetooth LE mesh networks
 - [Planetable/Planet](https://github.com/Planetable/Planet) - Build and host decentralized blogs and websites on your Mac
 - [SwifterSwift/SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native Swift extensions to boost your productivity.
@@ -2168,6 +2170,7 @@
 
 ## Vue 
 
+- [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail) - Mainsail is the popular web interface for managing and controlling 3D printers with Klipper.
 - [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [Half-Shot/matrix-presents](https://github.com/Half-Shot/matrix-presents) - A presentation client that reads from a Matrix room and displays it as pretty slides!
 - [Idered/iridium](https://github.com/Idered/iridium) - 💎 VS Code extensions
