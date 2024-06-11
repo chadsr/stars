@@ -1166,6 +1166,7 @@
 
 ## Kotlin 
 
+- [KotlinCrypto/secure-random](https://github.com/KotlinCrypto/secure-random) - A Kotlin Multiplatform library for obtaining cryptographically secure random data from system sources
 - [fwcd/kotlin-analysis-server](https://github.com/fwcd/kotlin-analysis-server) - Language server prototype using the new Kotlin analysis API
 - [seedvault-app/seedvault](https://github.com/seedvault-app/seedvault) - A backup application for the Android Open Source Project.
 - [morpho-app/Morpho](https://github.com/morpho-app/Morpho) - Fast, flexible native Android client for Bluesky
@@ -1250,6 +1251,7 @@
 
 ## Others 
 
+- [terrakok/kmp-awesome](https://github.com/terrakok/kmp-awesome) - An awesome list that curates the best Kotlin Multiplatform libraries, tools and more.
 - [css-modules/css-modules](https://github.com/css-modules/css-modules) - Documentation about css-modules
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [jpmvferreira/espanso-mega-pack](https://github.com/jpmvferreira/espanso-mega-pack) - A collection of curated home built packages for the cross-platform text expander Espanso
@@ -2170,6 +2172,7 @@
 
 ## Vue 
 
+- [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) - A modern web client for Jellyfin based on Vue
 - [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail) - Mainsail is the popular web interface for managing and controlling 3D printers with Klipper.
 - [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [Half-Shot/matrix-presents](https://github.com/Half-Shot/matrix-presents) - A presentation client that reads from a Matrix room and displays it as pretty slides!
