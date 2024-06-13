@@ -1012,7 +1012,6 @@
 - [luckydonald/pbft](https://github.com/luckydonald/pbft) - Implementation of the Practical Byzantine Fault Tolerant Algorithm (pbft)
 - [pyouroboros/ouroboros](https://github.com/pyouroboros/ouroboros) - Automatically update running docker containers with newest available image
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
-- [chadsr/ross.ch](https://github.com/chadsr/ross.ch) - My personal website. Front and backend all in one place.
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
 - [Mailu/Mailu](https://github.com/Mailu/Mailu) - Insular email distribution - mail server as Docker images
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
@@ -2595,6 +2594,7 @@
 
 ## nosql 
 
+- [buraksezer/olric](https://github.com/buraksezer/olric) - Distributed in-memory object store. It can be used as an embedded Go library and a language-independent service.
 - [RedisGraph/RedisGraph](https://github.com/RedisGraph/RedisGraph) - A graph database as a Redis module
 - [neo4j/neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
 - [bitnine-oss/agensgraph](https://github.com/bitnine-oss/agensgraph) - AgensGraph, a transactional graph database based on PostgreSQL
@@ -3376,6 +3376,7 @@
 - [bmuller/kademlia](https://github.com/bmuller/kademlia) - A DHT in Python using asyncio
 - [chadsr/WaterBot](https://github.com/chadsr/WaterBot) - ESP32 Controlled Plant Watering System
 - [skeeto/endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
+- [chadsr/ross.ch](https://github.com/chadsr/ross.ch) - My personal website
 - [me-no-dev/ESPAsyncWebServer](https://github.com/me-no-dev/ESPAsyncWebServer) - Async Web Server for ESP8266 and ESP32
 - [max-moser/network-manager-wireguard](https://github.com/max-moser/network-manager-wireguard) - NetworkManager VPN Plugin: Wireguard
 - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
@@ -4356,7 +4357,6 @@
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [loopbackio/loopback-next](https://github.com/loopbackio/loopback-next) - LoopBack makes it easy to build modern API applications that require complex integrations.
 - [privacy-scaling-explorations/maci](https://github.com/privacy-scaling-explorations/maci) - Minimal Anti-Collusion Infrastructure (MACI)
-- [chadsr/ross.ch](https://github.com/chadsr/ross.ch) - My personal website. Front and backend all in one place.
 - [franklintarter/node-medium-feed](https://github.com/franklintarter/node-medium-feed) - Fetches data from the public Medium JSON feed, parses publication and story data into usable JavaScript objects, and creates a Markdown version of the Story
 - [javieraviles/node-typescript-koa-rest](https://github.com/javieraviles/node-typescript-koa-rest) - REST API boilerplate using NodeJS and KOA2, typescript. Logging and JWT as middlewares. TypeORM with class-validator, SQL CRUD. Docker included. Swagger docs, actions CI and valuable README
 - [xf00f/web3x](https://github.com/xf00f/web3x) - Ethereum TypeScript Client Library - for perfect types and tiny builds.
@@ -4471,7 +4471,6 @@
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [shellscape/koa-webpack](https://github.com/shellscape/koa-webpack) - Development and Hot Reload Middleware for Koa2
 - [webpack-contrib/image-minimizer-webpack-plugin](https://github.com/webpack-contrib/image-minimizer-webpack-plugin) - Webpack loader and plugin to compress images using imagemin
-- [chadsr/ross.ch](https://github.com/chadsr/ross.ch) - My personal website. Front and backend all in one place.
 
 ## website 
 
