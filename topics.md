@@ -45,6 +45,7 @@
 - [covid-19](#covid-19)
 - [cpp](#cpp)
 - [cryptocurrency](#cryptocurrency)
+- [cryptography](#cryptography)
 - [csharp](#csharp)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
@@ -766,6 +767,39 @@
 - [AllienWorks/cryptocoins](https://github.com/AllienWorks/cryptocoins) - Cryptocoins is the most complete vector/webfont icon pack of your favourite cryptocurrencies
 - [status-im/status-mobile](https://github.com/status-im/status-mobile) - a free (libre) open source, mobile OS for Ethereum
 - [madnight/bitcoin-chart-cli](https://github.com/madnight/bitcoin-chart-cli) - Bitcoin chart for the terminal as command line util
+
+## cryptography 
+
+- [KotlinCrypto/secure-random](https://github.com/KotlinCrypto/secure-random) - A Kotlin Multiplatform library for obtaining cryptographically secure random data from system sources
+- [trussed-dev/trussed](https://github.com/trussed-dev/trussed) - Modern Cryptographic Firmware
+- [matrix-org/vodozemac](https://github.com/matrix-org/vodozemac) - An implementation of Olm and Megolm in pure Rust.
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - Perform data science on data that remains in someone else's server
+- [pFarb/awesome-crypto-papers](https://github.com/pFarb/awesome-crypto-papers) - A curated list of cryptography papers, articles, tutorials and howtos.
+- [sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) - A curated list of cryptography resources and links.
+- [AleoNet/snarkVM](https://github.com/AleoNet/snarkVM) - A Virtual Machine for Zero-Knowledge Executions
+- [s0l0ist/node-seal](https://github.com/s0l0ist/node-seal) - Homomorphic Encryption for TypeScript or JavaScript - Microsoft SEAL
+- [jonaschn/awesome-he](https://github.com/jonaschn/awesome-he) - ✨ Awesome - A curated list of amazing Homomorphic Encryption libraries, software and resources
+- [freenet/freenet-core](https://github.com/freenet/freenet-core) - Declare your digital independence
+- [drand/drand](https://github.com/drand/drand) - 🎲 A Distributed Randomness Beacon Daemon - Go implementation
+- [zama-ai/concrete](https://github.com/zama-ai/concrete) - Concrete: TFHE Compiler that converts python programs into FHE equivalent
+- [cloudflare/circl](https://github.com/cloudflare/circl) - CIRCL: Cloudflare Interoperable Reusable Cryptographic Library
+- [mimblewimble/grin](https://github.com/mimblewimble/grin) - Minimal implementation of the Mimblewimble protocol.
+- [FiloSottile/yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - yubikey-agent is a seamless ssh-agent for YubiKeys.
+- [tendermint/tendermint](https://github.com/tendermint/tendermint) - ⟁ Tendermint Core (BFT Consensus) in Go
+- [microsoft/SEAL](https://github.com/microsoft/SEAL) - Microsoft SEAL is an easy-to-use and powerful homomorphic encryption library.
+- [homenc/HElib](https://github.com/homenc/HElib) - HElib is an open-source software library that implements homomorphic encryption. It supports the BGV scheme with bootstrapping and the Approximate Number CKKS scheme. HElib also includes optimizations
+- [Consensys/gnark-crypto](https://github.com/Consensys/gnark-crypto) - gnark-crypto provides elliptic curve and pairing-based cryptography on BN, BLS12, BLS24 and BW6 curves. It also provides various algorithms (algebra, crypto) of particular interest to zero knowledge p
+- [cosmos/iavl](https://github.com/cosmos/iavl) - Merkleized IAVL+ Tree implementation in Go
+- [asonnino/coconut](https://github.com/asonnino/coconut) - Coconut: Threshold Issuance Selective Disclosure Credentials with Applications to Distributed Ledgers.
+- [Deadlyelder/Tools-for-Cryptanalysis](https://github.com/Deadlyelder/Tools-for-Cryptanalysis) - A repository that aims to provide tools for cryptography and cryptanalysis
+- [tfhe/tfhe](https://github.com/tfhe/tfhe) - TFHE: Fast Fully Homomorphic Encryption Library over the Torus
+- [xtaci/kcp-go](https://github.com/xtaci/kcp-go) - A Crypto-Secure, Production-Grade Reliable-UDP Library for golang with FEC
+- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。N:M 多重化と FEC を備えた KCP に基づく安定した安全なトンネル。 N:M 다중화 및 FEC를 사용하는 KCP 기반의 안정적이고 안전한 터널입니다.  Un tunn
+- [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
+- [cjdelisle/cjdns](https://github.com/cjdelisle/cjdns) - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.
+- [vuvuzela/vuvuzela](https://github.com/vuvuzela/vuvuzela) - Private messaging system that hides metadata
+- [TokTok/c-toxcore](https://github.com/TokTok/c-toxcore) - The future of online communications.
+- [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 
 ## csharp 
 
@@ -3135,7 +3169,6 @@
 - [alkem-io/alkemio](https://github.com/alkem-io/alkemio) - START HERE! Cross project collaboration and shared documentation.
 - [w3c/vc-use-cases](https://github.com/w3c/vc-use-cases) - Verifiable Credentials Use Cases
 - [Cloudef/bemenu](https://github.com/Cloudef/bemenu) - Dynamic menu library and client program inspired by dmenu
-- [FiloSottile/yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - yubikey-agent is a seamless ssh-agent for YubiKeys.
 - [hwsecurity-sdk/termbot](https://github.com/hwsecurity-sdk/termbot) - SSH client that works with YubiKeys, Nitrokeys, and other OpenPGP cards (based on the Hardware Security SDK)
 - [gre/gre](https://github.com/gre/gre) - https://greweb.me/
 - [joric/jorne](https://github.com/joric/jorne) - Jorne is an extended Corne keyboard with extra keys for brackets and international layouts
@@ -3227,9 +3260,7 @@
 - [Experience-Monks/math-as-code](https://github.com/Experience-Monks/math-as-code) - a cheat-sheet for mathematical notation in code form
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [2020PB/police-brutality](https://github.com/2020PB/police-brutality) - Repository containing evidence of police brutality during the 2020 George Floyd protests
-- [microsoft/SEAL](https://github.com/microsoft/SEAL) - Microsoft SEAL is an easy-to-use and powerful homomorphic encryption library.
 - [nikofil/helib-go](https://github.com/nikofil/helib-go) - 
-- [homenc/HElib](https://github.com/homenc/HElib) - HElib is an open-source software library that implements homomorphic encryption. It supports the BGV scheme with bootstrapping and the Approximate Number CKKS scheme. HElib also includes optimizations
 - [Determinant/snow-bft-demo](https://github.com/Determinant/snow-bft-demo) - Visual demo of the Snow/Avalanche protocol family
 - [herumi/bls](https://github.com/herumi/bls) - 
 - [herumi/bls-wasm](https://github.com/herumi/bls-wasm) - BLS signature for Node.js by WebAssembly
@@ -3245,7 +3276,6 @@
 - [golang/mock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
 - [interlay/compressed-inclusion-proofs](https://github.com/interlay/compressed-inclusion-proofs) - TxChain: Efficient Cryptocurrency Light Clients via Contingent Transaction Aggregation
 - [scipr-lab/libiop](https://github.com/scipr-lab/libiop) - C++ library for IOP-based zkSNARKs
-- [Deadlyelder/Tools-for-Cryptanalysis](https://github.com/Deadlyelder/Tools-for-Cryptanalysis) - A repository that aims to provide tools for cryptography and cryptanalysis
 - [austintgriffith/eth.build](https://github.com/austintgriffith/eth.build) - 🛠🧮 Educational sandbox for building on web3. Visually understand how Ethereum works by doing.
 - [DP-3T/documents](https://github.com/DP-3T/documents) - Decentralized Privacy-Preserving Proximity Tracing -- Documents
 - [in3rsha/sha256-animation](https://github.com/in3rsha/sha256-animation) - Animation of the SHA-256 hash function in your terminal.
@@ -3257,7 +3287,6 @@
 - [ekiden/ekiden](https://github.com/ekiden/ekiden) - Confidentiality-Preserving Smart Contract Platform
 - [cosmos/research](https://github.com/cosmos/research) - 
 - [nucypher/nufhe](https://github.com/nucypher/nufhe) - NuCypher fully homomorphic encryption (NuFHE) library implemented in Python
-- [tfhe/tfhe](https://github.com/tfhe/tfhe) - TFHE: Fast Fully Homomorphic Encryption Library over the Torus
 - [solokeys/openpgp](https://github.com/solokeys/openpgp) - OpenPGP functionality for Solo
 - [saljam/webwormhole](https://github.com/saljam/webwormhole) - Peer authenticated WebRTC.
 - [matter-labs/awesome-zero-knowledge-proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).
@@ -3271,8 +3300,6 @@
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [DistributedSystemsWiki/wiki](https://github.com/DistributedSystemsWiki/wiki) - 
 - [dapphub/klab](https://github.com/dapphub/klab) - K framework proof explorer & smart contract specification format
-- [xtaci/kcp-go](https://github.com/xtaci/kcp-go) - A Crypto-Secure, Production-Grade Reliable-UDP Library for golang with FEC
-- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。N:M 多重化と FEC を備えた KCP に基づく安定した安全なトンネル。 N:M 다중화 및 FEC를 사용하는 KCP 기반의 안정적이고 안전한 터널입니다.  Un tunn
 - [dbieber/fountaincode](https://github.com/dbieber/fountaincode) - Fountain Code demo
 - [sudhirj/pump](https://github.com/sudhirj/pump) - Transmit large files over lossy networks using Raptor fountain codes
 - [ethereum/act](https://github.com/ethereum/act) - Smart contract specification language
@@ -3280,7 +3307,6 @@
 - [yuriykulikov/AlarmClock](https://github.com/yuriykulikov/AlarmClock) - Most popular open source Android Alarm Clock App
 - [friendlyarm/friendlywrt_manifests](https://github.com/friendlyarm/friendlywrt_manifests) - 
 - [danfruehauf/NetworkManager-ssh](https://github.com/danfruehauf/NetworkManager-ssh) - SSH VPN integration for NetworkManager
-- [cjdelisle/cjdns](https://github.com/cjdelisle/cjdns) - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.
 - [yggdrasil-network/yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go) - An experiment in scalable routing as an encrypted IPv6 overlay network
 - [freedomofpress/dangerzone](https://github.com/freedomofpress/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs
 - [godbus/dbus](https://github.com/godbus/dbus) - Native Go bindings for D-Bus
