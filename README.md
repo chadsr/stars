@@ -958,6 +958,8 @@
 
 ## JavaScript 
 
+- [postcss/postcss-scss](https://github.com/postcss/postcss-scss) - SCSS parser for PostCSS.
+- [stylelint-scss/stylelint-scss](https://github.com/stylelint-scss/stylelint-scss) - A collection of SCSS specific linting rules for Stylelint
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [iancoleman/slip39](https://github.com/iancoleman/slip39) - A web tool for SLIP39 mnemonic shares
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
@@ -1739,6 +1741,7 @@
 
 ## Rust 
 
+- [ErikReider/SwayOSD](https://github.com/ErikReider/SwayOSD) - A GTK based on screen display for keyboard shortcuts like caps-lock and volume
 - [replydev/cotp](https://github.com/replydev/cotp) - Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality.
 - [timokoesters/conduit](https://github.com/timokoesters/conduit) - A simple, fast and reliable Matrix server (MIRROR, see https://conduit.rs )
 - [polachok/helix-gpui](https://github.com/polachok/helix-gpui) - helix gpui frontend
