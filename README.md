@@ -98,6 +98,7 @@
 
 ## C 
 
+- [francma/wob](https://github.com/francma/wob) - A lightweight overlay volume/backlight/progress/anything bar for Wayland.
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 - [aido/app-seed-tool](https://github.com/aido/app-seed-tool) - A Ledger application that provides some useful seed management utilities
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon
@@ -1993,6 +1994,7 @@
 
 ## TypeScript 
 
+- [FullHuman/purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
