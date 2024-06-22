@@ -2717,6 +2717,7 @@
 
 ## others 
 
+- [hadolint/hadolint-action](https://github.com/hadolint/hadolint-action) - GitHub action for Hadolint, A  Dockerfile linting tool
 - [francma/wob](https://github.com/francma/wob) - A lightweight overlay volume/backlight/progress/anything bar for Wayland.
 - [ErikReider/SwayOSD](https://github.com/ErikReider/SwayOSD) - A GTK based on screen display for keyboard shortcuts like caps-lock and volume
 - [postcss/postcss-scss](https://github.com/postcss/postcss-scss) - SCSS parser for PostCSS.
