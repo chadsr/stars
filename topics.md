@@ -2718,6 +2718,9 @@
 
 ## others 
 
+- [muratgozel/MIMEText](https://github.com/muratgozel/MIMEText) - RFC-2822, RFC-2045 and RFC-2049 compliant raw email message generator.
+- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
+- [postcss/postcss-calc](https://github.com/postcss/postcss-calc) - PostCSS plugin to reduce calc()
 - [hadolint/hadolint-action](https://github.com/hadolint/hadolint-action) - GitHub action for Hadolint, A  Dockerfile linting tool
 - [francma/wob](https://github.com/francma/wob) - A lightweight overlay volume/backlight/progress/anything bar for Wayland.
 - [ErikReider/SwayOSD](https://github.com/ErikReider/SwayOSD) - A GTK based on screen display for keyboard shortcuts like caps-lock and volume
