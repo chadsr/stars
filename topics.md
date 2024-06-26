@@ -1797,6 +1797,7 @@
 
 ## hacktoberfest 
 
+- [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) - A modern web client for Jellyfin based on Vue
 - [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail) - Mainsail is the popular web interface for managing and controlling 3D printers with Klipper.
 - [firecamp-dev/firecamp](https://github.com/firecamp-dev/firecamp) - Developer-first OpenSource API DevTool, Postman/Insomnia alternative.
@@ -2112,6 +2113,8 @@
 
 ## javascript 
 
+- [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
+- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
@@ -2625,6 +2628,7 @@
 
 ## nodejs 
 
+- [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
@@ -2680,6 +2684,7 @@
 
 ## open-source 
 
+- [gov4git/gov4git](https://github.com/gov4git/gov4git) - Decentralized governance for Git communities
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
@@ -2718,6 +2723,7 @@
 
 ## others 
 
+- [pluralitybook/plurality](https://github.com/pluralitybook/plurality) - Root repository for ⿻數位 Plurality: The Future of Collaborative Technology and Democracy by E. Glen Weyl, Audrey Tang and the Plurality Community
 - [muratgozel/MIMEText](https://github.com/muratgozel/MIMEText) - RFC-2822, RFC-2045 and RFC-2049 compliant raw email message generator.
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [postcss/postcss-calc](https://github.com/postcss/postcss-calc) - PostCSS plugin to reduce calc()
@@ -4087,6 +4093,7 @@
 
 ## security 
 
+- [gov4git/gov4git](https://github.com/gov4git/gov4git) - Decentralized governance for Git communities
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [chipsec/chipsec](https://github.com/chipsec/chipsec) - Platform Security Assessment Framework
 - [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report) - Report and track banking app compatibility with GrapheneOS, including which workarounds may be required.
@@ -4385,6 +4392,7 @@
 
 ## typescript 
 
+- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [taye/interact.js](https://github.com/taye/interact.js) - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+)
 - [zeshuaro/vscode-poetry](https://github.com/zeshuaro/vscode-poetry) - Python Poetry support for VS Code to manage Poetry commands
 - [lost-pixel/lost-pixel](https://github.com/lost-pixel/lost-pixel) - Open source alternative to Percy, Chromatic, Applitools.
@@ -4536,6 +4544,7 @@
 
 ## webpack 
 
+- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [shellscape/koa-webpack](https://github.com/shellscape/koa-webpack) - Development and Hot Reload Middleware for Koa2
 - [webpack-contrib/image-minimizer-webpack-plugin](https://github.com/webpack-contrib/image-minimizer-webpack-plugin) - Webpack loader and plugin to compress images using imagemin
