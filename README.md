@@ -430,6 +430,7 @@
 
 ## Go 
 
+- [gov4git/gov4git](https://github.com/gov4git/gov4git) - Decentralized governance for Git communities
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 - [juju/juju](https://github.com/juju/juju) - Orchestration engine that enables the deployment, integration and lifecycle management of applications at any scale, on any infrastructure (Kubernetes or otherwise).
 - [ChristopherHX/github-act-runner](https://github.com/ChristopherHX/github-act-runner) - act as self-hosted runner
@@ -960,6 +961,7 @@
 
 ## JavaScript 
 
+- [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [muratgozel/MIMEText](https://github.com/muratgozel/MIMEText) - RFC-2822, RFC-2045 and RFC-2049 compliant raw email message generator.
 - [postcss/postcss-calc](https://github.com/postcss/postcss-calc) - PostCSS plugin to reduce calc()
 - [postcss/postcss-scss](https://github.com/postcss/postcss-scss) - SCSS parser for PostCSS.
@@ -1150,6 +1152,7 @@
 
 ## Jupyter Notebook 
 
+- [pluralitybook/plurality](https://github.com/pluralitybook/plurality) - Root repository for ⿻數位 Plurality: The Future of Collaborative Technology and Democracy by E. Glen Weyl, Audrey Tang and the Plurality Community
 - [pycaret/pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
@@ -1746,6 +1749,7 @@
 
 ## Rust 
 
+- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [ErikReider/SwayOSD](https://github.com/ErikReider/SwayOSD) - A GTK based on screen display for keyboard shortcuts like caps-lock and volume
 - [replydev/cotp](https://github.com/replydev/cotp) - Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality.
 - [zkmopro/mopro](https://github.com/zkmopro/mopro) - Making client-side proving on mobile simple.
