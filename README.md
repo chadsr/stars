@@ -31,6 +31,7 @@
 - [HTML](#html)
 - [Haskell](#haskell)
 - [Io](#io)
+- [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
@@ -917,6 +918,10 @@
 ## Io 
 
 - [ethereum/execution-apis](https://github.com/ethereum/execution-apis) - Collection of APIs provided by Ethereum execution layer clients
+
+## JSON 
+
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 ## Java 
 
