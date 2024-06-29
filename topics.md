@@ -68,6 +68,7 @@
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
+- [education](#education)
 - [electron](#electron)
 - [elixir](#elixir)
 - [emacs](#emacs)
@@ -513,6 +514,7 @@
 ## bitcoin 
 
 - [pjkundert/python-slip39](https://github.com/pjkundert/python-slip39) - Generate Ethereum, Bitcoin, etc. account seed and backup Mnemonics in SLIP-39 format (Trezor & Ledger compatible), with details in printable PDF format.  Optionally, also print encrypted JSON and BIP-
+- [aido/app-seed-tool](https://github.com/aido/app-seed-tool) - A Ledger application that provides some useful seed management utilities
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [horizontalsystems/unstoppable-wallet-android](https://github.com/horizontalsystems/unstoppable-wallet-android) - A powerful non-custodial multi-wallet for Bitcoin, Ethereum, Binance Smart Chain, Avalanche, Solana and other blockchains. Non-custodial crypto and NFT storage, onchain decentralized exchange, institu
 - [mirgj/cryptocurrency-icons-font](https://github.com/mirgj/cryptocurrency-icons-font) - A webfont for cryptocurrency symbols
@@ -679,6 +681,7 @@
 
 ## code 
 
+- [elsevierlabs-os/linked-data](https://github.com/elsevierlabs-os/linked-data) - Linked Data Extension for VSCode
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [EPMatt/reviewdog-action-tsc](https://github.com/EPMatt/reviewdog-action-tsc) - Run tsc with reviewdog :dog:
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
@@ -758,6 +761,7 @@
 ## cryptocurrency 
 
 - [pjkundert/python-slip39](https://github.com/pjkundert/python-slip39) - Generate Ethereum, Bitcoin, etc. account seed and backup Mnemonics in SLIP-39 format (Trezor & Ledger compatible), with details in printable PDF format.  Optionally, also print encrypted JSON and BIP-
+- [aido/app-seed-tool](https://github.com/aido/app-seed-tool) - A Ledger application that provides some useful seed management utilities
 - [Cryptofonts/cryptoicons](https://github.com/Cryptofonts/cryptoicons) - A collection of cryptocurrency token logos in SVG format
 - [MinaProtocol/mina](https://github.com/MinaProtocol/mina) - Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralization and security.
 - [Cryptofonts/cryptofont](https://github.com/Cryptofonts/cryptofont) - Cryptocurrency icon webfont and SVG
@@ -779,6 +783,7 @@
 ## cryptography 
 
 - [KotlinCrypto/secure-random](https://github.com/KotlinCrypto/secure-random) - A Kotlin Multiplatform library for obtaining cryptographically secure random data from system sources
+- [aido/app-seed-tool](https://github.com/aido/app-seed-tool) - A Ledger application that provides some useful seed management utilities
 - [trussed-dev/trussed](https://github.com/trussed-dev/trussed) - Modern Cryptographic Firmware
 - [matrix-org/vodozemac](https://github.com/matrix-org/vodozemac) - An implementation of Olm and Megolm in pure Rust.
 - [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - Perform data science on data that remains in someone else's server
@@ -1087,6 +1092,10 @@
 
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
+
+## education 
+
+- [elsevierlabs-os/linked-data](https://github.com/elsevierlabs-os/linked-data) - Linked Data Extension for VSCode
 
 ## electron 
 
@@ -1838,7 +1847,7 @@
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
-- [element-hq/element-android](https://github.com/element-hq/element-android) - A glossy Matrix collaboration client for Android.
+- [element-hq/element-android](https://github.com/element-hq/element-android) - A Matrix collaboration client for Android.
 - [signal-golang/textsecure](https://github.com/signal-golang/textsecure) - TextSecure(signal)  client package for Go
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
@@ -2740,7 +2749,6 @@
 - [NordicSemiconductor/Android-BLE-Library](https://github.com/NordicSemiconductor/Android-BLE-Library) - A library that makes working with Bluetooth LE on Android a pleasure. Seriously.
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [iancoleman/slip39](https://github.com/iancoleman/slip39) - A web tool for SLIP39 mnemonic shares
-- [aido/app-seed-tool](https://github.com/aido/app-seed-tool) - A Ledger application that provides some useful seed management utilities
 - [ponty/PyVirtualDisplay](https://github.com/ponty/PyVirtualDisplay) - Python wrapper for Xvfb, Xephyr and Xvnc
 - [Acly/krita-ai-tools](https://github.com/Acly/krita-ai-tools) - Krita plugin which adds selection tools to mask objects with a single click, or by drawing a bounding box.
 - [polachok/helix-gpui](https://github.com/polachok/helix-gpui) - helix gpui frontend
@@ -3448,7 +3456,6 @@
 - [bmuller/kademlia](https://github.com/bmuller/kademlia) - A DHT in Python using asyncio
 - [chadsr/WaterBot](https://github.com/chadsr/WaterBot) - ESP32 Controlled Plant Watering System
 - [skeeto/endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
-- [chadsr/ross.ch](https://github.com/chadsr/ross.ch) - My personal website
 - [me-no-dev/ESPAsyncWebServer](https://github.com/me-no-dev/ESPAsyncWebServer) - Async Web Server for ESP8266 and ESP32
 - [max-moser/network-manager-wireguard](https://github.com/max-moser/network-manager-wireguard) - NetworkManager VPN Plugin: Wireguard
 - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
@@ -4435,6 +4442,7 @@
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [loopbackio/loopback-next](https://github.com/loopbackio/loopback-next) - LoopBack makes it easy to build modern API applications that require complex integrations.
 - [privacy-scaling-explorations/maci](https://github.com/privacy-scaling-explorations/maci) - Minimal Anti-Collusion Infrastructure (MACI)
+- [chadsr/ross.ch](https://github.com/chadsr/ross.ch) - My personal website
 - [franklintarter/node-medium-feed](https://github.com/franklintarter/node-medium-feed) - Fetches data from the public Medium JSON feed, parses publication and story data into usable JavaScript objects, and creates a Markdown version of the Story
 - [javieraviles/node-typescript-koa-rest](https://github.com/javieraviles/node-typescript-koa-rest) - REST API boilerplate using NodeJS and KOA2, typescript. Logging and JWT as middlewares. TypeORM with class-validator, SQL CRUD. Docker included. Swagger docs, actions CI and valuable README
 - [xf00f/web3x](https://github.com/xf00f/web3x) - Ethereum TypeScript Client Library - for perfect types and tiny builds.
