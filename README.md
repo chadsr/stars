@@ -2206,7 +2206,7 @@
 ## Vala 
 
 - [ErikReider/SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) - A simple GTK based notification daemon for SwayWM
-- [misterdanb/avizo](https://github.com/misterdanb/avizo) - A neat notification daemon
+- [heyjuvi/avizo](https://github.com/heyjuvi/avizo) - A neat notification daemon
 - [teejee2008/timeshift](https://github.com/teejee2008/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be resto
 
 ## Vue 
