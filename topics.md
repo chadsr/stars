@@ -2806,7 +2806,7 @@
 - [sjvermeu/cvechecker](https://github.com/sjvermeu/cvechecker) - Command-line utility to scan the system and report on potential vulnerabilities, based on public CVE data
 - [pop-os/kernelstub](https://github.com/pop-os/kernelstub) - A simple EFI boot manager manager for Linux
 - [amlweems/xzbot](https://github.com/amlweems/xzbot) - notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094)
-- [misterdanb/avizo](https://github.com/misterdanb/avizo) - A neat notification daemon
+- [heyjuvi/avizo](https://github.com/heyjuvi/avizo) - A neat notification daemon
 - [ivandokov/phockup](https://github.com/ivandokov/phockup) - Media sorting tool to organize photos and videos from your camera in folders by year, month and day.
 - [rtlewis1/GTK](https://github.com/rtlewis1/GTK) - GTK, xfwm4, openbox-3, GNOME-Shell, and Cinnamon themes
 - [bbernhard/signal-cli-rest-api](https://github.com/bbernhard/signal-cli-rest-api) - Dockerized Signal Messenger REST API
