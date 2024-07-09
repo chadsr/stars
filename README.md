@@ -99,6 +99,7 @@
 
 ## C 
 
+- [eiln/ane](https://github.com/eiln/ane) - Reverse engineered Linux driver for the Apple Neural Engine (ANE).
 - [francma/wob](https://github.com/francma/wob) - A lightweight overlay volume/backlight/progress/anything bar for Wayland.
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 - [aido/app-seed-tool](https://github.com/aido/app-seed-tool) - A Ledger application that provides some useful seed management utilities
@@ -150,7 +151,6 @@
 - [RedisGraph/RedisGraph](https://github.com/RedisGraph/RedisGraph) - A graph database as a Redis module
 - [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
 - [RedBearLab/CCLoader](https://github.com/RedBearLab/CCLoader) - Burn BLE Mini (CC2540) firmware using Blend Micro board.
-- [meshtastic/firmware](https://github.com/meshtastic/firmware) - Meshtastic device firmware
 - [LilyGO/TTGO-LORA32](https://github.com/LilyGO/TTGO-LORA32) - ESP32-TTGO-T3
 - [adrianlopezroche/fdupes](https://github.com/adrianlopezroche/fdupes) - FDUPES is a program for identifying or deleting duplicate files residing within specified directories.
 - [nelhage/reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
@@ -266,6 +266,7 @@
 - [dashesy/cc-tool](https://github.com/dashesy/cc-tool) - Mirror of cc-tool from SourceForge
 - [system-pclub/GCatch](https://github.com/system-pclub/GCatch) - Statically Detecting Go Concurrency Bugs
 - [efficient/cuckoofilter](https://github.com/efficient/cuckoofilter) - 
+- [meshtastic/firmware](https://github.com/meshtastic/firmware) - Meshtastic device firmware
 - [fcgdam/TTGO_LoRa32](https://github.com/fcgdam/TTGO_LoRa32) - Some sample code for the TTGO ESP32 Oled Lora board.
 - [apple/turicreate](https://github.com/apple/turicreate) - Turi Create simplifies the development of custom machine learning models.
 - [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
@@ -400,7 +401,7 @@
 - [phoenixframework/phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) - Rich, real-time user experiences with server-rendered HTML
 - [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code & data workflows with interactive Elixir notebooks
 - [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero-trust access platform with OIDC auth, identity sync, and NAT traversal.
+- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 - [supabase/realtime](https://github.com/supabase/realtime) - Broadcast, Presence, and Postgres Changes via WebSockets
 - [blockscout/blockscout](https://github.com/blockscout/blockscout) - Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.
 
@@ -2125,7 +2126,7 @@
 - [jaywcjlove/svgtofont](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
 - [octokit/graphql.js](https://github.com/octokit/graphql.js) - GitHub GraphQL API client for browsers and Node
 - [jakebailey/pyright-action](https://github.com/jakebailey/pyright-action) - GitHub Action for pyright
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [Mastermindzh/tidal-hifi](https://github.com/Mastermindzh/tidal-hifi) - The web version of Tidal running in electron with hifi support thanks to widevine.
 - [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content. Docs: https://viewtube.wiki, Status: https://uptime.viewtube.io
 - [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter) - VS Code Jupyter extension
@@ -2164,7 +2165,7 @@
 - [clrfund/monorepo](https://github.com/clrfund/monorepo) - clr.fund dapp
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
-- [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git
+- [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic backup and other advanced features in Obsidian.md
 - [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE.
 - [earthstar-project/earthstar](https://github.com/earthstar-project/earthstar) - Storage for private, distributed, offline-first applications.
 - [Cody2333/koa-swagger-decorator](https://github.com/Cody2333/koa-swagger-decorator) - using decorator to automatically generate swagger doc for koa-router
