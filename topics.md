@@ -1143,6 +1143,7 @@
 
 ## emoji 
 
+- [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [carpedm20/emoji](https://github.com/carpedm20/emoji) - emoji terminal output for Python
 
@@ -2875,7 +2876,7 @@
 - [jhelvy/splitKbCompare](https://github.com/jhelvy/splitKbCompare) - An interactive tool for comparing layouts of different split mechanical keyboards
 - [Bastardkb/Scylla](https://github.com/Bastardkb/Scylla) - Ergonomic mechanical keyboard
 - [libp2p/js-libp2p-webrtc](https://github.com/libp2p/js-libp2p-webrtc) - 
-- [MintterHypermedia/mintter](https://github.com/MintterHypermedia/mintter) - Mintter: an app for knowledge communities. Powered by the Hypermedia protocol.
+- [seed-hypermedia/mintter](https://github.com/seed-hypermedia/mintter) - Mintter: an app for knowledge communities. Powered by the Hypermedia protocol.
 - [ethereum/pos-evolution](https://github.com/ethereum/pos-evolution) - Evolution of the Ethereum Proof-of-Stake Consensus Protocol
 - [ChainAgnostic/CASA](https://github.com/ChainAgnostic/CASA) - Chain Agnostic Standards Alliance organizational homebase
 - [uport-project/ethr-did-registry](https://github.com/uport-project/ethr-did-registry) - Ethereum registry for ERC-1056 ethr did methods
@@ -3373,7 +3374,7 @@
 - [DistributedSystemsWiki/wiki](https://github.com/DistributedSystemsWiki/wiki) - 
 - [dapphub/klab](https://github.com/dapphub/klab) - K framework proof explorer & smart contract specification format
 - [xtaci/kcp-go](https://github.com/xtaci/kcp-go) - A Crypto-Secure, Production-Grade Reliable-UDP Library for golang with FEC
-- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Quantum Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.
+- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Quantum-Safe Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.
 - [dbieber/fountaincode](https://github.com/dbieber/fountaincode) - Fountain Code demo
 - [sudhirj/pump](https://github.com/sudhirj/pump) - Transmit large files over lossy networks using Raptor fountain codes
 - [ethereum/act](https://github.com/ethereum/act) - Smart contract specification language
