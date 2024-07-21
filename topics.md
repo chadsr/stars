@@ -3492,7 +3492,7 @@
 - [ethhub-io/ethhub](https://github.com/ethhub-io/ethhub) - The essential Ethereum information hub.
 - [nolash/ethereum-samples](https://github.com/nolash/ethereum-samples) - Some code examples from different parts of the ethereum stack
 - [grote/Transportr](https://github.com/grote/Transportr) - Free Public Transport Assistant without Ads or Tracking
-- [HigherOrderCO/Kind1](https://github.com/HigherOrderCO/Kind1) - A next-gen functional language
+- [HigherOrderCO/Kind1](https://github.com/HigherOrderCO/Kind1) - A modern proof language
 - [Mainframe-Archive/onyx-server](https://github.com/Mainframe-Archive/onyx-server) - Mailboxing & data service for the Onyx app
 - [jasonrohrer/OneLife](https://github.com/jasonrohrer/OneLife) - a multiplayer survival game of parenting and civilization building
 - [mimirblockchainsolutions/flutter-rust-middleware](https://github.com/mimirblockchainsolutions/flutter-rust-middleware) - Flutter middleware for Rust on iOS and Android
