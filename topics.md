@@ -2972,7 +2972,7 @@
 - [matrix-org/vodozemac-bindings](https://github.com/matrix-org/vodozemac-bindings) - Language bindings for vodozemac
 - [Etaash-mathamsetty/trigger-control](https://github.com/Etaash-mathamsetty/trigger-control) - control the dualsense's triggers on Linux (and Windows) with a gui and C++ api!
 - [Wattenberger/footsteps-vscode](https://github.com/Wattenberger/footsteps-vscode) - Keep your place when jumping between a different parts of your code. This is a vscode extension that will highlight lines as you edit them, fading as you move away.
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [jeremija/wl-gammarelay](https://github.com/jeremija/wl-gammarelay) - A client and daemon for changing color temperature and brightness under Wayland via keybindings.
 - [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch) - A collection of Arch Linux PKGBUILDS for the ROCm platform
