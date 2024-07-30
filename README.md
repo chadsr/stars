@@ -223,6 +223,7 @@
 
 ## C++ 
 
+- [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [Acly/krita-ai-tools](https://github.com/Acly/krita-ai-tools) - Krita plugin which adds selection tools to mask objects with a single click, or by drawing a bounding box.
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
@@ -1167,6 +1168,7 @@
 
 ## Jupyter Notebook 
 
+- [ionworks/how-to-debug-your-battery](https://github.com/ionworks/how-to-debug-your-battery) - A guide on how to understand the performance of your battery with modelling and improve it
 - [pluralitybook/plurality](https://github.com/pluralitybook/plurality) - Root repository for ⿻數位 Plurality: The Future of Collaborative Technology and Democracy by E. Glen Weyl, Audrey Tang and the Plurality Community
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [pycaret/pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python
@@ -1435,6 +1437,7 @@
 
 ## Python 
 
+- [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [juftin/hatch-pip-compile](https://github.com/juftin/hatch-pip-compile) - hatch plugin to use pip-compile (or uv) to manage project dependencies and lockfiles
@@ -1529,7 +1532,7 @@
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
 - [matrix-org/synapse](https://github.com/matrix-org/synapse) - Synapse: Matrix homeserver written in Python/Twisted.
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [Shawn-Shan/fawkes](https://github.com/Shawn-Shan/fawkes) - Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes
 - [tremc/tremc](https://github.com/tremc/tremc) - Curses interface for transmission
