@@ -475,7 +475,7 @@
 - [ipni/storetheindex](https://github.com/ipni/storetheindex) - A directory of CIDs
 - [ipld/go-storethehash](https://github.com/ipld/go-storethehash) - Storage for hashes, targeted at content addressable systems
 - [opensearch-project/opensearch-go](https://github.com/opensearch-project/opensearch-go) - Go Client for OpenSearch
-- [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
+- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [kisielk/errcheck](https://github.com/kisielk/errcheck) - errcheck checks that you checked errors.
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [ucan-wg/go-ucan](https://github.com/ucan-wg/go-ucan) - User-Controlled Authorization Network (UCAN) tokens in go
@@ -643,7 +643,7 @@
 - [micro/micro](https://github.com/micro/micro) - An API first development platform
 - [stefanwichmann/kelvin](https://github.com/stefanwichmann/kelvin) - Kelvin - The hue bot
 - [dgraph-io/dgo](https://github.com/dgraph-io/dgo) - Official Dgraph Go client
-- [encoredev/encore](https://github.com/encoredev/encore) - Encore is the Backend Development Platform purpose-built to help you create event-driven and distributed systems.
+- [encoredev/encore](https://github.com/encoredev/encore) - Encore is the Backend Development Platform for building distributed systems and event-driven applications.
 - [esimov/caire](https://github.com/esimov/caire) - Content aware image resize library
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [willnorris/imageproxy](https://github.com/willnorris/imageproxy) - A caching, resizing image proxy written in Go
@@ -1068,7 +1068,7 @@
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [teddit-net/teddit](https://github.com/teddit-net/teddit) - alternative Reddit front-end focused on privacy https://teddit.net
 - [klaudiosinani/taskbook](https://github.com/klaudiosinani/taskbook) - Tasks, boards & notes for the command-line habitat
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [openpgpjs/openpgpjs](https://github.com/openpgpjs/openpgpjs) - OpenPGP implementation for JavaScript
 - [digitalbazaar/jsonld-signatures](https://github.com/digitalbazaar/jsonld-signatures) - An implementation of the Linked Data Signatures specification for JSON-LD. Works in the browser and Node.js.
 - [ipld/js-ipld](https://github.com/ipld/js-ipld) - The JavaScript Implementation of IPLD
@@ -2013,6 +2013,7 @@
 
 ## Swift 
 
+- [apple/swift-homomorphic-encryption](https://github.com/apple/swift-homomorphic-encryption) - Homomorphic Encryption library and applications in Swift
 - [zkmopro/mopro](https://github.com/zkmopro/mopro) - Making client-side proving on mobile simple.
 - [fwcd/distributed-chat](https://github.com/fwcd/distributed-chat) - Distributed peer-to-peer messaging app using Bluetooth LE mesh networks
 - [Planetable/Planet](https://github.com/Planetable/Planet) - Build and host decentralized blogs and websites on your Mac
