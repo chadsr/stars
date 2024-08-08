@@ -3207,7 +3207,6 @@
 - [dgraph-io/pydgraph](https://github.com/dgraph-io/pydgraph) - Official Dgraph Python client
 - [system-pclub/GCatch](https://github.com/system-pclub/GCatch) - Statically Detecting Go Concurrency Bugs
 - [ilap/slip39-js](https://github.com/ilap/slip39-js) - The javascript implementation of the SLIP39 for Shamir's Secret-Sharing for Mnemonic Codes.
-- [paxelpixel/polkaview.network](https://github.com/paxelpixel/polkaview.network) - 
 - [vishr/web-framework-benchmark](https://github.com/vishr/web-framework-benchmark) - Web framework benchmark
 - [hashicorp/go-multierror](https://github.com/hashicorp/go-multierror) - A Go (golang) package for representing a list of errors as a single error.
 - [efficient/cuckoofilter](https://github.com/efficient/cuckoofilter) - 
