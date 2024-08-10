@@ -709,7 +709,7 @@
 - [mvdan/github-actions-golang](https://github.com/mvdan/github-actions-golang) - GitHub Actions as CI for Go
 - [gobwas/ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go.
 - [gorilla/websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
-- [nhooyr/websocket](https://github.com/nhooyr/websocket) - Minimal and idiomatic WebSocket library for Go
+- [coder/websocket](https://github.com/coder/websocket) - Minimal and idiomatic WebSocket library for Go
 - [GDGVIT/mombot](https://github.com/GDGVIT/mombot) - A privacy oriented discord bot for recording minutes of meeting (MoM)
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
@@ -1664,7 +1664,7 @@
 - [SolidCode/SolidPython](https://github.com/SolidCode/SolidPython) - A python frontend for solid modelling that compiles to OpenSCAD
 - [wolph/numpy-stl](https://github.com/wolph/numpy-stl) - Simple library to make working with STL files (and 3D objects in general) fast and easy.
 - [vikstrous/pirate-get](https://github.com/vikstrous/pirate-get) - A command line interface for The Pirate Bay
-- [nexB/scancode-toolkit](https://github.com/nexB/scancode-toolkit) - :mag: ScanCode detects licenses, copyrights, dependencies by "scanning code" ... to discover and inventory open source and third-party packages used in your code. Sponsored by NLnet project https://nl
+- [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) - :mag: ScanCode detects licenses, copyrights, dependencies by "scanning code" ... to discover and inventory open source and third-party packages used in your code. Sponsored by NLnet project https://nl
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [chdsbd/kodiak](https://github.com/chdsbd/kodiak) - 🔮 A bot to automatically update and merge GitHub PRs
 - [fookatchu/SL1toPhoton](https://github.com/fookatchu/SL1toPhoton) - Converter for SL1 to Photon files. Used to slice 3D-Models with Slic3r PE and print on Anycubic Photon
