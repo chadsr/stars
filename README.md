@@ -434,6 +434,7 @@
 
 ## Go 
 
+- [WICG/webpackage](https://github.com/WICG/webpackage) - Web packaging format
 - [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
 - [beeper/bridge-manager](https://github.com/beeper/bridge-manager) - A tool for running self-hosted bridges with the Beeper Matrix server.
 - [pion/turn](https://github.com/pion/turn) - Pion TURN, an API for building TURN clients and servers
