@@ -634,7 +634,7 @@
 - [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework
 - [nytimes/gizmo](https://github.com/nytimes/gizmo) - A Microservice Toolkit from The New York Times
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
-- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
+- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 - [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
