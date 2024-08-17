@@ -616,7 +616,7 @@
 - [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
 - [didip/tollbooth](https://github.com/didip/tollbooth) - Simple middleware to rate-limit HTTP requests.
 - [getgort/gort](https://github.com/getgort/gort) - Gort is a chatbot framework designed from the ground up for chatops.
-- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) - Community maintained clone of https://github.com/dgrijalva/jwt-go
+- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) - Go implementation of JSON Web Tokens (JWT).
 - [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
 - [securego/gosec](https://github.com/securego/gosec) - Go security checker
 - [gomodule/redigo](https://github.com/gomodule/redigo) - Go client for Redis
@@ -2039,6 +2039,7 @@
 
 ## TypeScript 
 
+- [espressif/esptool-js](https://github.com/espressif/esptool-js) - Javascript implementation of flasher tool for Espressif chips, running in web browser using WebSerial.
 - [jakearchibald/idb](https://github.com/jakearchibald/idb) - IndexedDB, but with promises
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 - [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works with modern frameworks, and even just Vanilla JS
