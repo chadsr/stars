@@ -131,7 +131,7 @@
 - [jeremija/wl-gammarelay](https://github.com/jeremija/wl-gammarelay) - A client and daemon for changing color temperature and brightness under Wayland via keybindings.
 - [olikraus/u8g2](https://github.com/olikraus/u8g2) - U8glib library for monochrome displays, version 2
 - [lz4/lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
 - [dlr-eoc/pgh3](https://github.com/dlr-eoc/pgh3) - PostgreSQL extension for the H3 hierarchical geospatial indexing system
 - [o-gs/dji-firmware-tools](https://github.com/o-gs/dji-firmware-tools) - Tools for handling firmwares of DJI products, with focus on quadcopters.
 - [uber/h3](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system
