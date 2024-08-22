@@ -1438,6 +1438,7 @@
 
 ## Python 
 
+- [alstr/todo-to-issue-action](https://github.com/alstr/todo-to-issue-action) - Action that converts TODO comments to GitHub issues on push.
 - [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
@@ -1595,7 +1596,6 @@
 - [d4nj1/TLPUI](https://github.com/d4nj1/TLPUI) - A GTK user interface for TLP written in Python
 - [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling
 - [pyutils/line_profiler](https://github.com/pyutils/line_profiler) - Line-by-line profiling for Python
-- [EndeavourOS-Community-Editions/sway](https://github.com/EndeavourOS-Community-Editions/sway) - EndeavourOS Community Edition setup for sway
 - [DimitrisAlivas/StarQE](https://github.com/DimitrisAlivas/StarQE) - Code for the paper "Query Embedding on Hyper-relational Knowledge Graphs"
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [mpi4py/mpi4py](https://github.com/mpi4py/mpi4py) - Python bindings for MPI
@@ -1935,6 +1935,7 @@
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
 - [kchristensen/udm-le](https://github.com/kchristensen/udm-le) - Let's Encrypt support for Ubiquiti UniFi OS
 - [unifi-utilities/unifios-utilities](https://github.com/unifi-utilities/unifios-utilities) - A collection of  enhancements for UnifiOS based devices
+- [EndeavourOS-Community-Editions/sway](https://github.com/EndeavourOS-Community-Editions/sway) - EndeavourOS Community Edition setup for sway
 - [reviewdog/action-pytest](https://github.com/reviewdog/action-pytest) - (WIP) Run pytest with Reviewdog :dog:
 - [chadsr/action-pyright](https://github.com/chadsr/action-pyright) - A GitHub Action to run pyright
 - [reviewdog/action-flake8](https://github.com/reviewdog/action-flake8) - Runs flake8 with Reviewdog :dog:
@@ -2039,6 +2040,7 @@
 
 ## TypeScript 
 
+- [voodoocreation/ts-deepmerge](https://github.com/voodoocreation/ts-deepmerge) - A TypeScript deep merge function with automatically inferred types.
 - [espressif/esptool-js](https://github.com/espressif/esptool-js) - Javascript implementation of flasher tool for Espressif chips, running in web browser using WebSerial.
 - [jakearchibald/idb](https://github.com/jakearchibald/idb) - IndexedDB, but with promises
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
