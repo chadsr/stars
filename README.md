@@ -644,7 +644,7 @@
 - [micro/micro](https://github.com/micro/micro) - An API first development platform
 - [stefanwichmann/kelvin](https://github.com/stefanwichmann/kelvin) - Kelvin - The hue bot
 - [dgraph-io/dgo](https://github.com/dgraph-io/dgo) - Official Dgraph Go client
-- [encoredev/encore](https://github.com/encoredev/encore) - The Backend Development Platform for building distributed systems with automated infrastructure.
+- [encoredev/encore](https://github.com/encoredev/encore) - Development Platform for building robust type-safe distributed systems with declarative infrastructure
 - [esimov/caire](https://github.com/esimov/caire) - Content aware image resize library
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [willnorris/imageproxy](https://github.com/willnorris/imageproxy) - A caching, resizing image proxy written in Go
