@@ -879,6 +879,7 @@
 
 ## HTML 
 
+- [WICG/private-network-access](https://github.com/WICG/private-network-access) - 
 - [WICG/direct-sockets](https://github.com/WICG/direct-sockets) - Direct Sockets API for the web platform
 - [hugomods/seo](https://github.com/hugomods/seo) - :mag: Hugo SEO Module
 - [Cryptofonts/cryptofont](https://github.com/Cryptofonts/cryptofont) - Cryptocurrency icon webfont and SVG
