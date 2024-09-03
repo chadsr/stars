@@ -2835,6 +2835,8 @@
 
 ## others 
 
+- [chadsr/cryptoshot](https://github.com/chadsr/cryptoshot) - Retrieve cryptocurrency balances and values at a specific point in time
+- [chadsr/todo-to-issue-action](https://github.com/chadsr/todo-to-issue-action) - Action that converts TODO comments to GitHub issues on push.
 - [chadsr/action-user-repos-json](https://github.com/chadsr/action-user-repos-json) - A Github Action to output a user's repositories as a JSON file.
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
 - [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - Next generation testing framework powered by Vite.
