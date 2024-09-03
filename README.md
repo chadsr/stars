@@ -1439,6 +1439,8 @@
 
 ## Python 
 
+- [chadsr/cryptoshot](https://github.com/chadsr/cryptoshot) - Retrieve cryptocurrency balances and values at a specific point in time
+- [chadsr/todo-to-issue-action](https://github.com/chadsr/todo-to-issue-action) - Action that converts TODO comments to GitHub issues on push.
 - [esphome/build-action](https://github.com/esphome/build-action) - 
 - [alstr/todo-to-issue-action](https://github.com/alstr/todo-to-issue-action) - Action that converts TODO comments to GitHub issues on push.
 - [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
