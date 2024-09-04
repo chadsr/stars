@@ -509,6 +509,7 @@
 
 ## bash 
 
+- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [vscode-shellcheck/vscode-shellcheck](https://github.com/vscode-shellcheck/vscode-shellcheck) - Integrates ShellCheck into VS Code, a linter for Shell scripts.
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
@@ -679,6 +680,7 @@
 
 ## cli 
 
+- [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - A complete design system and component solution, built on Tailwind.
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
@@ -782,6 +784,7 @@
 
 ## continuous-integration 
 
+- [fjogeleit/yaml-update-action](https://github.com/fjogeleit/yaml-update-action) - Update YAML property with dynamic values
 - [ChristopherHX/github-act-runner](https://github.com/ChristopherHX/github-act-runner) - act as self-hosted runner
 - [EPMatt/reviewdog-action-tsc](https://github.com/EPMatt/reviewdog-action-tsc) - Run tsc with reviewdog :dog:
 - [testground/testground](https://github.com/testground/testground) - 🧪 A platform for testing, benchmarking, and simulating distributed and p2p systems at scale.
@@ -1060,6 +1063,7 @@
 
 ## docker 
 
+- [fjogeleit/yaml-update-action](https://github.com/fjogeleit/yaml-update-action) - Update YAML property with dynamic values
 - [ChristopherHX/github-act-runner](https://github.com/ChristopherHX/github-act-runner) - act as self-hosted runner
 - [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
@@ -1452,6 +1456,7 @@
 
 ## go 
 
+- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
 - [pion/turn](https://github.com/pion/turn) - Pion TURN, an API for building TURN clients and servers
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
@@ -2274,6 +2279,8 @@
 
 ## json 
 
+- [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
+- [fjogeleit/yaml-update-action](https://github.com/fjogeleit/yaml-update-action) - Update YAML property with dynamic values
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [unrolled/render](https://github.com/unrolled/render) - Go package for easily rendering JSON, XML, binary data, and HTML templates responses.
@@ -4350,6 +4357,7 @@
 
 ## shell 
 
+- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [vscode-shellcheck/vscode-shellcheck](https://github.com/vscode-shellcheck/vscode-shellcheck) - Integrates ShellCheck into VS Code, a linter for Shell scripts.
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
@@ -4780,6 +4788,7 @@
 
 ## xml 
 
+- [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [unrolled/render](https://github.com/unrolled/render) - Go package for easily rendering JSON, XML, binary data, and HTML templates responses.
 
 ## zig 
