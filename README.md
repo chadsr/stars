@@ -433,6 +433,7 @@
 
 ## Go 
 
+- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [WICG/webpackage](https://github.com/WICG/webpackage) - Web packaging format
 - [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
 - [beeper/bridge-manager](https://github.com/beeper/bridge-manager) - A tool for running self-hosted bridges with the Beeper Matrix server.
@@ -1267,6 +1268,7 @@
 ## Markdown 
 
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## Modelica 
@@ -1338,7 +1340,6 @@
 - [sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) - A curated list of cryptography resources and links.
 - [jonaschn/awesome-he](https://github.com/jonaschn/awesome-he) - ✨ Awesome - A curated list of amazing Homomorphic Encryption libraries, software and resources
 - [Flamingo-tech/Xiaomi_air_purifier_modchip](https://github.com/Flamingo-tech/Xiaomi_air_purifier_modchip) - Open source Xiaomi air purifier modchip
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [valpackett/micloudfaker](https://github.com/valpackett/micloudfaker) - Use Xiaomi qmi.powerstrip.v1 offline | now on https://codeberg.org/valpackett/micloudfaker
 - [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme) - 🏠🤖 Theme by @basnijholt based on iOS Dark Mode for Lovelace Home Assistant
 - [hypercore-protocol/hypercore-next](https://github.com/hypercore-protocol/hypercore-next) - Hypercore 10 is an append only log with multi-writer primitives built in.
@@ -1439,6 +1440,7 @@
 
 ## Python 
 
+- [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [chadsr/cryptoshot](https://github.com/chadsr/cryptoshot) - Retrieve cryptocurrency balances and values at a specific point in time
 - [chadsr/todo-to-issue-action](https://github.com/chadsr/todo-to-issue-action) - Action that converts TODO comments to GitHub issues on push.
 - [esphome/build-action](https://github.com/esphome/build-action) - 
@@ -2048,6 +2050,7 @@
 
 ## TypeScript 
 
+- [fjogeleit/yaml-update-action](https://github.com/fjogeleit/yaml-update-action) - Update YAML property with dynamic values
 - [chadsr/action-user-repos-json](https://github.com/chadsr/action-user-repos-json) - A Github Action to output a user's repositories as a JSON file.
 - [dimaMachina/graphql-eslint](https://github.com/dimaMachina/graphql-eslint) - ESLint parser, plugin and set rules for GraphQL (for schema and operations). Easily customizable with custom rules. Integrates with IDEs and modern GraphQL tools.
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
