@@ -968,7 +968,6 @@
 - [TheAkki/Synctool](https://github.com/TheAkki/Synctool) - Syncronize between Smartphone and Server
 - [VladThodo/behe-keyboard](https://github.com/VladThodo/behe-keyboard) - A lightweight hacking & programming keyboard with material design
 - [me-no-dev/EspExceptionDecoder](https://github.com/me-no-dev/EspExceptionDecoder) - Exception Stack Trace Decoder for ESP8266 and ESP32
-- [typedb/typedb](https://github.com/typedb/typedb) - TypeDB: one giant leap for databases
 - [SmartDataAnalytics/OWL2SPARQL](https://github.com/SmartDataAnalytics/OWL2SPARQL) - OWL To SPARQL Query Rewriter
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [tinkerpop/gremlin](https://github.com/tinkerpop/gremlin) - A Graph Traversal Language (no longer active - see Apache TinkerPop)
@@ -1901,6 +1900,7 @@
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [mimirblockchainsolutions/flutter-rust-middleware](https://github.com/mimirblockchainsolutions/flutter-rust-middleware) - Flutter middleware for Rust on iOS and Android
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
+- [typedb/typedb](https://github.com/typedb/typedb) - TypeDB: one giant leap for databases
 
 ## SCSS 
 
@@ -2051,6 +2051,7 @@
 
 ## TypeScript 
 
+- [chadsr/eventsource](https://github.com/chadsr/eventsource) - EventSource implementation that is fully compliant with the WHATWG Server-Sent Events specification but takes more arguments.
 - [lukas-reining/eventsource](https://github.com/lukas-reining/eventsource) - EventSource implementation that is fully compliant with the WHATWG Server-Sent Events specification but takes more arguments.
 - [fjogeleit/yaml-update-action](https://github.com/fjogeleit/yaml-update-action) - Update YAML property with dynamic values
 - [chadsr/action-user-repos-json](https://github.com/chadsr/action-user-repos-json) - A Github Action to output a user's repositories as a JSON file.
