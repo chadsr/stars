@@ -1909,7 +1909,6 @@
 - [ilyakaznacheev/cleanenv](https://github.com/ilyakaznacheev/cleanenv) - ✨Clean and minimalistic environment configuration reader for Golang
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [rrousselGit/riverpod](https://github.com/rrousselGit/riverpod) - A reactive caching and data-binding framework.   Riverpod makes working with asynchronous code a breeze.
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [matrix-org/matrix-js-sdk](https://github.com/matrix-org/matrix-js-sdk) - Matrix Client-Server SDK for JavaScript
 - [soketi/soketi](https://github.com/soketi/soketi) - Next-gen, Pusher-compatible, open-source WebSockets server. Simple, fast, and resilient. 📣
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
@@ -2842,6 +2841,7 @@
 
 ## others 
 
+- [chadsr/eventsource](https://github.com/chadsr/eventsource) - EventSource implementation that is fully compliant with the WHATWG Server-Sent Events specification but takes more arguments.
 - [lukas-reining/eventsource](https://github.com/lukas-reining/eventsource) - EventSource implementation that is fully compliant with the WHATWG Server-Sent Events specification but takes more arguments.
 - [chadsr/cryptoshot](https://github.com/chadsr/cryptoshot) - Retrieve cryptocurrency balances and values at a specific point in time
 - [chadsr/todo-to-issue-action](https://github.com/chadsr/todo-to-issue-action) - Action that converts TODO comments to GitHub issues on push.
@@ -4752,7 +4752,6 @@
 ## webpack 
 
 - [unplugin/unplugin-icons](https://github.com/unplugin/unplugin-icons) - 🤹 Access thousands of icons as components on-demand universally.
-- [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [shellscape/koa-webpack](https://github.com/shellscape/koa-webpack) - Development and Hot Reload Middleware for Koa2
 - [webpack-contrib/image-minimizer-webpack-plugin](https://github.com/webpack-contrib/image-minimizer-webpack-plugin) - Webpack loader and plugin to compress images using imagemin
