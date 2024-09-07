@@ -1241,7 +1241,6 @@
 - [meshenger-app/meshenger-android](https://github.com/meshenger-app/meshenger-android) - P2P Voice/Video phone App for local networks.
 - [ligi/PassAndroid](https://github.com/ligi/PassAndroid) - Android App to view passes
 - [grote/Transportr](https://github.com/grote/Transportr) - Free Public Transport Assistant without Ads or Tracking
-- [TheRedSpy15/LTECleanerFOSS](https://github.com/TheRedSpy15/LTECleanerFOSS) - The last Android cleaner you'll ever need!
 - [ligi/IPFSDroid](https://github.com/ligi/IPFSDroid) - Android App for the InterPlanetary File System(IPFS)
 
 ## Lua 
@@ -2051,6 +2050,7 @@
 
 ## TypeScript 
 
+- [sveltejs/eslint-plugin-svelte](https://github.com/sveltejs/eslint-plugin-svelte) - ESLint plugin for Svelte using AST
 - [chadsr/eventsource](https://github.com/chadsr/eventsource) - EventSource implementation that is fully compliant with the WHATWG Server-Sent Events specification but takes more arguments.
 - [lukas-reining/eventsource](https://github.com/lukas-reining/eventsource) - EventSource implementation that is fully compliant with the WHATWG Server-Sent Events specification but takes more arguments.
 - [fjogeleit/yaml-update-action](https://github.com/fjogeleit/yaml-update-action) - Update YAML property with dynamic values
