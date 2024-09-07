@@ -333,7 +333,6 @@
 - [hashbang/os](https://github.com/hashbang/os) - Open source security/privacy focused AOSP rom
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [TheAkki/Synctool](https://github.com/TheAkki/Synctool) - Syncronize between Smartphone and Server
-- [TheRedSpy15/LTECleanerFOSS](https://github.com/TheRedSpy15/LTECleanerFOSS) - The last Android cleaner you'll ever need!
 - [VladThodo/behe-keyboard](https://github.com/VladThodo/behe-keyboard) - A lightweight hacking & programming keyboard with material design
 - [dan-v/rattlesnakeos-stack](https://github.com/dan-v/rattlesnakeos-stack) - Build your own privacy and security focused Android OS in the cloud.
 - [status-im/status-mobile](https://github.com/status-im/status-mobile) - a free (libre) open source, mobile OS for Ethereum
@@ -1208,6 +1207,7 @@
 
 ## eslint 
 
+- [sveltejs/eslint-plugin-svelte](https://github.com/sveltejs/eslint-plugin-svelte) - ESLint plugin for Svelte using AST
 - [dimaMachina/graphql-eslint](https://github.com/dimaMachina/graphql-eslint) - ESLint parser, plugin and set rules for GraphQL (for schema and operations). Easily customizable with custom rules. Integrates with IDEs and modern GraphQL tools.
 - [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run linters on git staged files
 - [reviewdog/action-eslint](https://github.com/reviewdog/action-eslint) - Run eslint with reviewdog
@@ -2193,7 +2193,6 @@
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 - [square/leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android.
 - [TheAkki/Synctool](https://github.com/TheAkki/Synctool) - Syncronize between Smartphone and Server
-- [TheRedSpy15/LTECleanerFOSS](https://github.com/TheRedSpy15/LTECleanerFOSS) - The last Android cleaner you'll ever need!
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 
 ## javascript 
@@ -2327,7 +2326,6 @@
 - [msfjarvis/viscerion](https://github.com/msfjarvis/viscerion) - [RETIRED] Beautiful and feature filled Android client for the WireGuard™️ protocol
 - [square/leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android.
 - [ligi/PassAndroid](https://github.com/ligi/PassAndroid) - Android App to view passes
-- [TheRedSpy15/LTECleanerFOSS](https://github.com/TheRedSpy15/LTECleanerFOSS) - The last Android cleaner you'll ever need!
 - [ligi/IPFSDroid](https://github.com/ligi/IPFSDroid) - Android App for the InterPlanetary File System(IPFS)
 
 ## kubernetes 
@@ -4461,6 +4459,7 @@
 
 ## svelte 
 
+- [sveltejs/eslint-plugin-svelte](https://github.com/sveltejs/eslint-plugin-svelte) - ESLint plugin for Svelte using AST
 - [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works with modern frameworks, and even just Vanilla JS
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - A complete design system and component solution, built on Tailwind.
 - [sveltekit-i18n/lib](https://github.com/sveltekit-i18n/lib) - Internationalization library built for SvelteKit.
