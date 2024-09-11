@@ -99,6 +99,7 @@
 
 ## C 
 
+- [OLIMEX/ESP32-EVB](https://github.com/OLIMEX/ESP32-EVB) - ESP32 WiFi / BLE Development board with Ethernet interface, Relays, microSD card
 - [BlockchainCommons/bc-sskr](https://github.com/BlockchainCommons/bc-sskr) - Sharded Secret Key Reconstruction (SSKR) reference library in C
 - [eiln/ane](https://github.com/eiln/ane) - Reverse engineered Linux driver for the Apple Neural Engine (ANE).
 - [francma/wob](https://github.com/francma/wob) - A lightweight overlay volume/backlight/progress/anything bar for Wayland.
@@ -1666,7 +1667,7 @@
 - [lbryio/lbry-sdk](https://github.com/lbryio/lbry-sdk) - The LBRY SDK for building decentralized, censorship resistant, monetized, digital content apps.
 - [marthendalnunes/covid-simulation](https://github.com/marthendalnunes/covid-simulation) - COVID-19 SEIR model using cadCAD and Streamlit.
 - [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
-- [globaleaks/GlobaLeaks](https://github.com/globaleaks/GlobaLeaks) - GlobaLeaks is free, open-source software enabling anyone to easily set up and maintain a secure whistleblowing platform.
+- [globaleaks/GLOBALEAKS](https://github.com/globaleaks/GLOBALEAKS) - GlobaLeaks is free, open-source software enabling anyone to easily set up and maintain a secure whistleblowing platform.
 - [cbyn/bitpredict](https://github.com/cbyn/bitpredict) - Machine learning for high frequency bitcoin price prediction
 - [SolidCode/SolidPython](https://github.com/SolidCode/SolidPython) - A python frontend for solid modelling that compiles to OpenSCAD
 - [wolph/numpy-stl](https://github.com/wolph/numpy-stl) - Simple library to make working with STL files (and 3D objects in general) fast and easy.
