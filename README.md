@@ -1667,7 +1667,7 @@
 - [lbryio/lbry-sdk](https://github.com/lbryio/lbry-sdk) - The LBRY SDK for building decentralized, censorship resistant, monetized, digital content apps.
 - [marthendalnunes/covid-simulation](https://github.com/marthendalnunes/covid-simulation) - COVID-19 SEIR model using cadCAD and Streamlit.
 - [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
-- [globaleaks/GLOBALEAKS](https://github.com/globaleaks/GLOBALEAKS) - GlobaLeaks is free, open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.
+- [globaleaks/whistleblowing-software](https://github.com/globaleaks/whistleblowing-software) - GlobaLeaks is free, open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.
 - [cbyn/bitpredict](https://github.com/cbyn/bitpredict) - Machine learning for high frequency bitcoin price prediction
 - [SolidCode/SolidPython](https://github.com/SolidCode/SolidPython) - A python frontend for solid modelling that compiles to OpenSCAD
 - [wolph/numpy-stl](https://github.com/wolph/numpy-stl) - Simple library to make working with STL files (and 3D objects in general) fast and easy.
@@ -1784,6 +1784,7 @@
 
 ## Rust 
 
+- [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
 - [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
