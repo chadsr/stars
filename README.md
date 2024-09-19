@@ -434,6 +434,7 @@
 
 ## Go 
 
+- [signintech/gopdf](https://github.com/signintech/gopdf) - A simple library for generating PDF written in Go lang
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [WICG/webpackage](https://github.com/WICG/webpackage) - Web packaging format
 - [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
@@ -1785,6 +1786,7 @@
 
 ## Rust 
 
+- [redlib-org/redlib](https://github.com/redlib-org/redlib) - Private front-end for Reddit
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
 - [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux
@@ -2059,6 +2061,8 @@
 
 ## TypeScript 
 
+- [RebeccaStevens/deepmerge-ts](https://github.com/RebeccaStevens/deepmerge-ts) - Deeply merge 2 or more objects respecting type information.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [joshnuss/svelte-persisted-store](https://github.com/joshnuss/svelte-persisted-store) - A Svelte store that persists to localStorage
 - [sveltejs/eslint-plugin-svelte](https://github.com/sveltejs/eslint-plugin-svelte) - ESLint plugin for Svelte using AST
 - [chadsr/eventsource](https://github.com/chadsr/eventsource) - EventSource implementation that is fully compliant with the WHATWG Server-Sent Events specification but takes more arguments.
