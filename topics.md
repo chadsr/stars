@@ -1886,6 +1886,7 @@
 - [firecamp-dev/firecamp](https://github.com/firecamp-dev/firecamp) - Developer-first OpenSource API DevTool, Postman/Insomnia alternative.
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [ethereum-lists/chains](https://github.com/ethereum-lists/chains) - provides metadata for chains
+- [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
 - [catppuccin/vscode](https://github.com/catppuccin/vscode) - 🦌 Soothing pastel theme for VSCode & Azure Data Studio
 - [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) - Drafts your next release notes as pull requests are merged into master.
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
