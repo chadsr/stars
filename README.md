@@ -1605,6 +1605,7 @@
 - [d4nj1/TLPUI](https://github.com/d4nj1/TLPUI) - A GTK user interface for TLP written in Python
 - [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling
 - [pyutils/line_profiler](https://github.com/pyutils/line_profiler) - Line-by-line profiling for Python
+- [EndeavourOS-Community-Editions/sway](https://github.com/EndeavourOS-Community-Editions/sway) - EndeavourOS Community Edition setup for sway
 - [DimitrisAlivas/StarQE](https://github.com/DimitrisAlivas/StarQE) - Code for the paper "Query Embedding on Hyper-relational Knowledge Graphs"
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [mpi4py/mpi4py](https://github.com/mpi4py/mpi4py) - Python bindings for MPI
@@ -1957,7 +1958,6 @@
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
 - [kchristensen/udm-le](https://github.com/kchristensen/udm-le) - Let's Encrypt support for Ubiquiti UniFi OS
 - [unifi-utilities/unifios-utilities](https://github.com/unifi-utilities/unifios-utilities) - A collection of  enhancements for UnifiOS based devices
-- [EndeavourOS-Community-Editions/sway](https://github.com/EndeavourOS-Community-Editions/sway) - EndeavourOS Community Edition setup for sway
 - [reviewdog/action-pytest](https://github.com/reviewdog/action-pytest) - (WIP) Run pytest with Reviewdog :dog:
 - [chadsr/action-pyright](https://github.com/chadsr/action-pyright) - A GitHub Action to run pyright
 - [reviewdog/action-flake8](https://github.com/reviewdog/action-flake8) - Runs flake8 with Reviewdog :dog:
