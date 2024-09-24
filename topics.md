@@ -26,6 +26,7 @@
 - [bash](#bash)
 - [bitcoin](#bitcoin)
 - [blockchain](#blockchain)
+- [bootstrap](#bootstrap)
 - [bot](#bot)
 - [bugbounty](#bugbounty)
 - [c](#c)
@@ -592,6 +593,10 @@
 - [embarklabs/embark](https://github.com/embarklabs/embark) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms
 - [ethereum/mist](https://github.com/ethereum/mist) - [DEPRECATED] Mist. Browse and use Ðapps on the Ethereum network.
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Go implementation of the Ethereum protocol
+
+## bootstrap 
+
+- [globaleaks/whistleblowing-software](https://github.com/globaleaks/whistleblowing-software) - GlobaLeaks is free, open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.
 
 ## bot 
 
@@ -2859,6 +2864,8 @@
 
 ## others 
 
+- [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch) - Next generation Cosmic desktop environment
+- [ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver) - Successor of Undetected-Chromedriver. Providing a blazing fast framework for web automation, webscraping, bots and any other creative ideas which are normally hindered by annoying anti bot systems lik
 - [chadsr/invoice](https://github.com/chadsr/invoice) - Command line invoice generator
 - [RebeccaStevens/deepmerge-ts](https://github.com/RebeccaStevens/deepmerge-ts) - Deeply merge 2 or more objects respecting type information.
 - [signintech/gopdf](https://github.com/signintech/gopdf) - A simple library for generating PDF written in Go lang
