@@ -258,6 +258,7 @@
 
 ## ai 
 
+- [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for your AI apps
 - [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
@@ -992,6 +993,7 @@
 
 ## deep-learning 
 
+- [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [run-ai/genv](https://github.com/run-ai/genv) - GPU environment and cluster management with LLM support
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
@@ -1068,6 +1070,7 @@
 
 ## docker 
 
+- [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [fjogeleit/yaml-update-action](https://github.com/fjogeleit/yaml-update-action) - Update YAML property with dynamic values
 - [ChristopherHX/github-act-runner](https://github.com/ChristopherHX/github-act-runner) - act as self-hosted runner
 - [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx
@@ -1223,6 +1226,7 @@
 
 ## ethereum 
 
+- [RevokeCash/revoke.cash](https://github.com/RevokeCash/revoke.cash) - ❌ Revoke or update your token approvals
 - [pjkundert/python-slip39](https://github.com/pjkundert/python-slip39) - Generate Ethereum, Bitcoin, etc. account seed and backup Mnemonics in SLIP-39 format (Trezor & Ledger compatible), with details in printable PDF format.  Optionally, also print encrypted JSON and BIP-
 - [ethereum-lists/chains](https://github.com/ethereum-lists/chains) - provides metadata for chains
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
@@ -1883,6 +1887,7 @@
 
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [stylelint/vscode-stylelint](https://github.com/stylelint/vscode-stylelint) - The official Visual Studio Code extension for Stylelint
@@ -1920,6 +1925,7 @@
 - [ilyakaznacheev/cleanenv](https://github.com/ilyakaznacheev/cleanenv) - ✨Clean and minimalistic environment configuration reader for Golang
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [rrousselGit/riverpod](https://github.com/rrousselGit/riverpod) - A reactive caching and data-binding framework.   Riverpod makes working with asynchronous code a breeze.
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [matrix-org/matrix-js-sdk](https://github.com/matrix-org/matrix-js-sdk) - Matrix Client-Server SDK for JavaScript
 - [soketi/soketi](https://github.com/soketi/soketi) - Next-gen, Pusher-compatible, open-source WebSockets server. Simple, fast, and resilient. 📣
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
@@ -2001,7 +2007,6 @@
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [org-roam/org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [nisrulz/flutter-examples](https://github.com/nisrulz/flutter-examples) - [Examples] Simple basic isolated apps, for budding flutter devs.
 - [loopbackio/loopback-next](https://github.com/loopbackio/loopback-next) - LoopBack makes it easy to build modern API applications that require complex integrations.
@@ -2528,6 +2533,7 @@
 
 ## machine-learning 
 
+- [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [chadsr/marktplaats-scraper](https://github.com/chadsr/marktplaats-scraper) - Marktplaats.nl (Dutch Classifieds) Listing Scraper
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [CrayLabs/SmartRedis](https://github.com/CrayLabs/SmartRedis) - SmartSim Infrastructure Library Clients.
@@ -2867,6 +2873,8 @@
 
 ## others 
 
+- [iden3/circom](https://github.com/iden3/circom) - zkSnark circuit compiler
+- [privacy-scaling-explorations/chiquito](https://github.com/privacy-scaling-explorations/chiquito) - DSL for Halo2 circuits
 - [Nexus-Mods/NexusMods.App](https://github.com/Nexus-Mods/NexusMods.App) - Home of the development of the Nexus Mods App
 - [starkware-libs/cairo](https://github.com/starkware-libs/cairo) - Cairo is the first Turing-complete language for creating provable programs for general computation.
 - [zkCollective/zk-Harness](https://github.com/zkCollective/zk-Harness) - Benchmarking framework for general purpose zero-knowledge proofs languages and libraries
@@ -4093,6 +4101,7 @@
 
 ## pytorch 
 
+- [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
@@ -4288,7 +4297,7 @@
 - [google/autocxx](https://github.com/google/autocxx) - Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
 - [spacemeshos/svm](https://github.com/spacemeshos/svm) - SVM - Spacemesh Virtual Machine
 - [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p) - The Rust Implementation of the libp2p networking stack.
@@ -4320,6 +4329,7 @@
 
 ## security 
 
+- [RevokeCash/revoke.cash](https://github.com/RevokeCash/revoke.cash) - ❌ Revoke or update your token approvals
 - [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux
 - [gov4git/gov4git](https://github.com/gov4git/gov4git) - Decentralized governance for Git communities
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
@@ -4576,6 +4586,7 @@
 
 ## tensorflow 
 
+- [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
