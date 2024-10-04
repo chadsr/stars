@@ -75,6 +75,7 @@
 - [V](#v)
 - [Vala](#vala)
 - [Vue](#vue)
+- [WebAssembly](#webassembly)
 - [YAML](#yaml)
 - [Zig](#zig)
 - [hoon](#hoon)
@@ -1459,6 +1460,7 @@
 
 ## Python 
 
+- [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [zkCollective/zk-Harness](https://github.com/zkCollective/zk-Harness) - Benchmarking framework for general purpose zero-knowledge proofs languages and libraries
 - [bulletmark/libinput-gestures](https://github.com/bulletmark/libinput-gestures) - Actions gestures on your touchpad using libinput
 - [ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver) - Successor of Undetected-Chromedriver. Providing a blazing fast framework for web automation, webscraping, bots and any other creative ideas which are normally hindered by annoying anti bot systems lik
@@ -1806,6 +1808,7 @@
 
 ## Rust 
 
+- [privacy-scaling-explorations/chiquito](https://github.com/privacy-scaling-explorations/chiquito) - DSL for Halo2 circuits
 - [starkware-libs/cairo](https://github.com/starkware-libs/cairo) - Cairo is the first Turing-complete language for creating provable programs for general computation.
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [juicebox-systems/juicebox-sdk](https://github.com/juicebox-systems/juicebox-sdk) - 
@@ -1915,7 +1918,7 @@
 - [google/autocxx](https://github.com/google/autocxx) - Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers
 - [facebookresearch/Private-ID](https://github.com/facebookresearch/Private-ID) - A collection of algorithms that can do join between two parties while preserving the privacy of keys on which the join happens
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [manuels/wireguard-p2p](https://github.com/manuels/wireguard-p2p) - A tool for setting up WireGuard connections from peer to peer.
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
 - [spacemeshos/svm](https://github.com/spacemeshos/svm) - SVM - Spacemesh Virtual Machine
@@ -2087,6 +2090,7 @@
 
 ## TypeScript 
 
+- [RevokeCash/revoke.cash](https://github.com/RevokeCash/revoke.cash) - ❌ Revoke or update your token approvals
 - [RebeccaStevens/deepmerge-ts](https://github.com/RebeccaStevens/deepmerge-ts) - Deeply merge 2 or more objects respecting type information.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [joshnuss/svelte-persisted-store](https://github.com/joshnuss/svelte-persisted-store) - A Svelte store that persists to localStorage
@@ -2326,6 +2330,10 @@
 - [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
 - [anthonybudd/VIPFS](https://github.com/anthonybudd/VIPFS) - Vue.js + IPFS = VIPFS. Create unstoppable applications
 - [dj-zombie/hashpass](https://github.com/dj-zombie/hashpass) - Hash cracking WebApp & Server for hashcat
+
+## WebAssembly 
+
+- [iden3/circom](https://github.com/iden3/circom) - zkSnark circuit compiler
 
 ## YAML 
 
