@@ -1885,6 +1885,7 @@
 
 ## hacktoberfest 
 
+- [bokub/rgb-light-card](https://github.com/bokub/rgb-light-card) - 💡 A Home Assistant card for RGB lights
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
@@ -2037,6 +2038,9 @@
 
 ## home-assistant 
 
+- [Sebclem/hassio-nextcloud-backup](https://github.com/Sebclem/hassio-nextcloud-backup) - Hass.io Add-on: Backup your snapshots to Nextcloud
+- [hassio-addons/addon-adguard-home](https://github.com/hassio-addons/addon-adguard-home) - AdGuard Home - Home Assistant Community Add-ons
+- [bokub/rgb-light-card](https://github.com/bokub/rgb-light-card) - 💡 A Home Assistant card for RGB lights
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 - [AlexxIT/SonoffLAN](https://github.com/AlexxIT/SonoffLAN) - Control Sonoff Devices with eWeLink (original) firmware over LAN and/or Cloud from Home Assistant
 - [travisghansen/hass-pfsense](https://github.com/travisghansen/hass-pfsense) - pfSense integration with Home Assistant
@@ -2556,7 +2560,7 @@
 - [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
 - [RedisAI/RedisAI](https://github.com/RedisAI/RedisAI) - A Redis module for serving tensors and executing deep learning graphs
 - [benedekrozemberczki/karateclub](https://github.com/benedekrozemberczki/karateclub) - Karate Club: An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs (CIKM 2020)
-- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video/GIF/image upscaler achieved with waifu2x, Anime4K, SRMD and RealSR. Started in Hack the Valley II, 2018.
+- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video upscaling framework. Est. Hack the Valley II, 2018.
 - [jina-ai/jina](https://github.com/jina-ai/jina) - ☁️ Build multimodal AI applications with cloud-native stack
 - [tvdboom/ATOM](https://github.com/tvdboom/ATOM) - Automated Tool for Optimized Modelling
 - [chadsr/MAD-EUParl](https://github.com/chadsr/MAD-EUParl) - European Parliament data mining/analytics, utilising linked data.
@@ -2727,7 +2731,6 @@
 ## neural-network 
 
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
-- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video/GIF/image upscaler achieved with waifu2x, Anime4K, SRMD and RealSR. Started in Hack the Valley II, 2018.
 - [MBKraus/Predicting_real_estate_prices_using_scikit-learn](https://github.com/MBKraus/Predicting_real_estate_prices_using_scikit-learn) - Predicting Amsterdam house / real estate prices using Ordinary Least Squares-, XGBoost-, KNN-, Lasso-, Ridge-, Polynomial-, Random Forest-, and Neural Network MLP Regression (via scikit-learn)
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 
@@ -2873,6 +2876,8 @@
 
 ## others 
 
+- [mercenaruss/zigstar_addons](https://github.com/mercenaruss/zigstar_addons) - Home Assistant add-ons for Flashing ZigStar Devices
+- [jcwillox/hass-auto-backup](https://github.com/jcwillox/hass-auto-backup) - 🗃️ Improved Backup Service for Home Assistant that can Automatically Remove Backups and Supports Generational Backup Schemes.
 - [iden3/circom](https://github.com/iden3/circom) - zkSnark circuit compiler
 - [privacy-scaling-explorations/chiquito](https://github.com/privacy-scaling-explorations/chiquito) - DSL for Halo2 circuits
 - [Nexus-Mods/NexusMods.App](https://github.com/Nexus-Mods/NexusMods.App) - Home of the development of the Nexus Mods App
@@ -4014,7 +4019,6 @@
 - [reviewdog/action-flake8](https://github.com/reviewdog/action-flake8) - Runs flake8 with Reviewdog :dog:
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [mpi4py/mpi4py](https://github.com/mpi4py/mpi4py) - Python bindings for MPI
-- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video/GIF/image upscaler achieved with waifu2x, Anime4K, SRMD and RealSR. Started in Hack the Valley II, 2018.
 - [CadQuery/CQ-editor](https://github.com/CadQuery/CQ-editor) - CadQuery GUI editor based on PyQT
 - [CadQuery/cadquery](https://github.com/CadQuery/cadquery) - A python parametric CAD scripting framework based on OCCT
 - [jordemort/action-pyright](https://github.com/jordemort/action-pyright) - A GitHub Action to run pyright
