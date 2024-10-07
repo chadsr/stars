@@ -953,7 +953,7 @@
 
 - [NordicSemiconductor/Android-BLE-Library](https://github.com/NordicSemiconductor/Android-BLE-Library) - A library that makes working with Bluetooth LE on Android a pleasure. Seriously.
 - [AsamK/signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.
-- [threethan/LightningLauncher](https://github.com/threethan/LightningLauncher) - App launcher for Oculus Quest and Android TV devices with a focus on speed and flexibility. Thanks for 60K sidequest downloads!
+- [threethan/LightningLauncher](https://github.com/threethan/LightningLauncher) - App launcher for Oculus Quest and Android TV devices with a focus on speed and flexibility. Thanks for 70K sidequest downloads!
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 - [gephi/gephi](https://github.com/gephi/gephi) - Gephi - The Open Graph Viz Platform
 - [OpenNative/open-native](https://github.com/OpenNative/open-native) - Open Native brings cross-platform communities together to help them collaborate and strengthen each other through development diversity.
