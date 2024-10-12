@@ -2095,6 +2095,7 @@
 
 ## TypeScript 
 
+- [daun/playwright-report-summary](https://github.com/daun/playwright-report-summary) - A GitHub action to report Playwright test results as pull request comments
 - [Sebclem/hassio-nextcloud-backup](https://github.com/Sebclem/hassio-nextcloud-backup) - Hass.io Add-on: Backup your snapshots to Nextcloud
 - [RevokeCash/revoke.cash](https://github.com/RevokeCash/revoke.cash) - ❌ Revoke or update your token approvals
 - [RebeccaStevens/deepmerge-ts](https://github.com/RebeccaStevens/deepmerge-ts) - Deeply merge 2 or more objects respecting type information.
