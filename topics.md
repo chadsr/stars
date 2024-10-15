@@ -363,6 +363,7 @@
 
 ## api 
 
+- [kwhitley/itty-router](https://github.com/kwhitley/itty-router) - A little router.
 - [firecamp-dev/firecamp](https://github.com/firecamp-dev/firecamp) - Developer-first OpenSource API DevTool, Postman/Insomnia alternative.
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [opnsense/core](https://github.com/opnsense/core) - OPNsense GUI, API and systems backend
@@ -845,6 +846,7 @@
 - [KotlinCrypto/secure-random](https://github.com/KotlinCrypto/secure-random) - A Kotlin Multiplatform library for obtaining cryptographically secure random data from system sources
 - [aido/app-seed-tool](https://github.com/aido/app-seed-tool) - A Ledger application that provides some useful seed management utilities
 - [trussed-dev/trussed](https://github.com/trussed-dev/trussed) - Modern Cryptographic Firmware
+- [drand/tlock](https://github.com/drand/tlock) - Timelock Encryption made practical. The Go `tlock` library and the `tle` cmd line tool home to encrypt towards the future.
 - [matrix-org/vodozemac](https://github.com/matrix-org/vodozemac) - An implementation of Olm and Megolm in pure Rust.
 - [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - Perform data science on data that remains in someone else's server
 - [pFarb/awesome-crypto-papers](https://github.com/pFarb/awesome-crypto-papers) - A curated list of cryptography papers, articles, tutorials and howtos.
@@ -1681,7 +1683,7 @@
 - [gmhafiz/golang-database-library-orm-example](https://github.com/gmhafiz/golang-database-library-orm-example) - Examples of using various popular database libraries and ORM in Go.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [mautrix/go](https://github.com/mautrix/go) - A Golang Matrix framework.
-- [tulir/gomuks](https://github.com/tulir/gomuks) - A terminal based Matrix client written in Go.
+- [tulir/gomuks](https://github.com/tulir/gomuks) - A Matrix client written in Go.
 - [gonum/gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [ssbc/go-ssb](https://github.com/ssbc/go-ssb) - Go implementation of ssb (work in progress!)
@@ -1896,6 +1898,7 @@
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) - A modern web client for Jellyfin based on Vue
 - [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail) - Mainsail is the popular web interface for managing and controlling 3D printers with Klipper.
+- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [firecamp-dev/firecamp](https://github.com/firecamp-dev/firecamp) - Developer-first OpenSource API DevTool, Postman/Insomnia alternative.
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [ethereum-lists/chains](https://github.com/ethereum-lists/chains) - provides metadata for chains
@@ -1934,6 +1937,7 @@
 - [soketi/soketi](https://github.com/soketi/soketi) - Next-gen, Pusher-compatible, open-source WebSockets server. Simple, fast, and resilient. 📣
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
+- [drand/tlock](https://github.com/drand/tlock) - Timelock Encryption made practical. The Go `tlock` library and the `tle` cmd line tool home to encrypt towards the future.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [element-hq/element-android](https://github.com/element-hq/element-android) - A Matrix collaboration client for Android.
 - [signal-golang/textsecure](https://github.com/signal-golang/textsecure) - TextSecure(signal)  client package for Go
@@ -2224,6 +2228,7 @@
 
 ## javascript 
 
+- [kwhitley/itty-router](https://github.com/kwhitley/itty-router) - A little router.
 - [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [ipfs/ipfs-webui](https://github.com/ipfs/ipfs-webui) - A frontend for an IPFS Kubo and IPFS Desktop
@@ -3134,7 +3139,6 @@
 - [rs/cors](https://github.com/rs/cors) - Go net/http configurable handler to handle CORS requests
 - [Sygil-Dev/sygil-webui](https://github.com/Sygil-Dev/sygil-webui) - Stable Diffusion web UI
 - [pgRouting/pgrouting](https://github.com/pgRouting/pgrouting) - Repository contains pgRouting library. Development branch is "develop", stable branch is "master"
-- [drand/tlock](https://github.com/drand/tlock) - Timelock Encryption made practical. The Go `tlock` library and the `tle` cmd line tool home to encrypt towards the future.
 - [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
 - [uber-go/goleak](https://github.com/uber-go/goleak) - Goroutine leak detector
 - [Sygil-Dev/stable-diffusion](https://github.com/Sygil-Dev/stable-diffusion) - 
@@ -4426,6 +4430,7 @@
 
 ## serverless 
 
+- [kwhitley/itty-router](https://github.com/kwhitley/itty-router) - A little router.
 - [dmotz/trystero](https://github.com/dmotz/trystero) - ✨🤝✨ Build instant multiplayer webapps, no server required — Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, Supabase, and Firebase
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
