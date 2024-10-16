@@ -229,6 +229,7 @@
 
 ## C++ 
 
+- [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
 - [jstkdng/ueberzugpp](https://github.com/jstkdng/ueberzugpp) - Drop in replacement for ueberzug written in C++
 - [hyprwm/hyprpicker](https://github.com/hyprwm/hyprpicker) - A wlroots-compatible Wayland color picker that does not suck.
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
@@ -1695,7 +1696,7 @@
 - [lbryio/lbry-sdk](https://github.com/lbryio/lbry-sdk) - The LBRY SDK for building decentralized, censorship resistant, monetized, digital content apps.
 - [marthendalnunes/covid-simulation](https://github.com/marthendalnunes/covid-simulation) - COVID-19 SEIR model using cadCAD and Streamlit.
 - [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
-- [globaleaks/whistleblowing-software](https://github.com/globaleaks/whistleblowing-software) - GlobaLeaks is free, open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.
+- [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is free, open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.
 - [cbyn/bitpredict](https://github.com/cbyn/bitpredict) - Machine learning for high frequency bitcoin price prediction
 - [SolidCode/SolidPython](https://github.com/SolidCode/SolidPython) - A python frontend for solid modelling that compiles to OpenSCAD
 - [wolph/numpy-stl](https://github.com/wolph/numpy-stl) - Simple library to make working with STL files (and 3D objects in general) fast and easy.
@@ -1941,7 +1942,7 @@
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [mimirblockchainsolutions/flutter-rust-middleware](https://github.com/mimirblockchainsolutions/flutter-rust-middleware) - Flutter middleware for Rust on iOS and Android
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-- [typedb/typedb](https://github.com/typedb/typedb) - TypeDB: one giant leap for databases
+- [typedb/typedb](https://github.com/typedb/typedb) - TypeDB: the power of programming, in your database
 
 ## SCSS 
 
@@ -2095,6 +2096,7 @@
 
 ## TypeScript 
 
+- [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
 - [kwhitley/itty-router](https://github.com/kwhitley/itty-router) - A little router.
 - [daun/playwright-report-summary](https://github.com/daun/playwright-report-summary) - A GitHub action to report Playwright test results as pull request comments
 - [Sebclem/hassio-nextcloud-backup](https://github.com/Sebclem/hassio-nextcloud-backup) - Hass.io Add-on: Backup your snapshots to Nextcloud
