@@ -2885,6 +2885,7 @@
 
 ## others 
 
+- [davelosert/vitest-coverage-report-action](https://github.com/davelosert/vitest-coverage-report-action) - A GitHub Action to report vitest test coverage results
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
 - [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
 - [daun/playwright-report-summary](https://github.com/daun/playwright-report-summary) - A GitHub action to report Playwright test results as pull request comments
