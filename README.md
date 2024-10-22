@@ -981,7 +981,7 @@
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [ipfs-shipyard/gomobile-ipfs](https://github.com/ipfs-shipyard/gomobile-ipfs) - IPFS and libp2p on Mobile, with Gomobile
 - [traccar/traccar](https://github.com/traccar/traccar) - Traccar GPS Tracking System
-- [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
+- [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 - [wesaphzt/privatelocation](https://github.com/wesaphzt/privatelocation) - 
 - [oversecio/oversec](https://github.com/oversecio/oversec) - 
 - [citiususc/calendula](https://github.com/citiususc/calendula) - An Android assistant for personal medication management
