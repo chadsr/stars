@@ -871,7 +871,7 @@
 - [asonnino/coconut](https://github.com/asonnino/coconut) - Coconut: Threshold Issuance Selective Disclosure Credentials with Applications to Distributed Ledgers.
 - [Deadlyelder/Tools-for-Cryptanalysis](https://github.com/Deadlyelder/Tools-for-Cryptanalysis) - A repository that aims to provide tools for cryptography and cryptanalysis
 - [tfhe/tfhe](https://github.com/tfhe/tfhe) - TFHE: Fast Fully Homomorphic Encryption Library over the Torus
-- [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
+- [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 - [cjdelisle/cjdns](https://github.com/cjdelisle/cjdns) - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.
 - [vuvuzela/vuvuzela](https://github.com/vuvuzela/vuvuzela) - Private messaging system that hides metadata
 - [TokTok/c-toxcore](https://github.com/TokTok/c-toxcore) - The future of online communications.
@@ -2229,7 +2229,7 @@
 - [nisrulz/flutter-examples](https://github.com/nisrulz/flutter-examples) - [Examples] Simple basic isolated apps, for budding flutter devs.
 - [luckydonald/pbft](https://github.com/luckydonald/pbft) - Implementation of the Practical Byzantine Fault Tolerant Algorithm (pbft)
 - [traccar/traccar](https://github.com/traccar/traccar) - Traccar GPS Tracking System
-- [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
+- [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 - [square/leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android.
 - [TheAkki/Synctool](https://github.com/TheAkki/Synctool) - Syncronize between Smartphone and Server
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
@@ -3929,7 +3929,7 @@
 - [CEA-LIST/Cingulata](https://github.com/CEA-LIST/Cingulata) - Cingulata (pronounced "tchingulata") is a compiler toolchain and RTE for running C++ programs over encrypted data by means of fully homomorphic encryption techniques.
 - [vacp2p/awesome-secure-messaging](https://github.com/vacp2p/awesome-secure-messaging) - A curated collection of links for secure messaging.
 - [asonnino/coconut](https://github.com/asonnino/coconut) - Coconut: Threshold Issuance Selective Disclosure Credentials with Applications to Distributed Ledgers.
-- [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
+- [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 - [privacylab/talek](https://github.com/privacylab/talek) - a Private Publish Subscribe System
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
@@ -4394,7 +4394,7 @@
 - [vacp2p/awesome-secure-messaging](https://github.com/vacp2p/awesome-secure-messaging) - A curated collection of links for secure messaging.
 - [solokeys/solo1](https://github.com/solokeys/solo1) - Solo 1 firmware in C
 - [arkime/arkime](https://github.com/arkime/arkime) - Arkime is an open source, large scale, full packet capturing, indexing, and database system.
-- [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
+- [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [Ullaakut/camerattack](https://github.com/Ullaakut/camerattack) - An attack tool designed to remotely disable CCTV camera streams (like in spy movies)
