@@ -1469,6 +1469,7 @@
 
 ## Python 
 
+- [nayarsystems/posix_tz_db](https://github.com/nayarsystems/posix_tz_db) - Generates POSIX timezones strings
 - [jcwillox/hass-auto-backup](https://github.com/jcwillox/hass-auto-backup) - 🗃️ Improved Backup Service for Home Assistant that can Automatically Remove Backups and Supports Generational Backup Schemes.
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [zkCollective/zk-Harness](https://github.com/zkCollective/zk-Harness) - Benchmarking framework for general purpose zero-knowledge proofs languages and libraries
