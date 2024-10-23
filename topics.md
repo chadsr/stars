@@ -2892,6 +2892,7 @@
 
 ## others 
 
+- [nayarsystems/posix_tz_db](https://github.com/nayarsystems/posix_tz_db) - Generates POSIX timezones strings
 - [davelosert/vitest-coverage-report-action](https://github.com/davelosert/vitest-coverage-report-action) - A GitHub Action to report vitest test coverage results
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
 - [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
