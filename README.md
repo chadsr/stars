@@ -679,7 +679,6 @@
 - [lestrrat-go/jwx](https://github.com/lestrrat-go/jwx) - Implementation of various JWx (Javascript Object Signing and Encryption/JOSE) technologies
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 - [filecoin-project/lotus](https://github.com/filecoin-project/lotus) - Reference implementation of the Filecoin protocol, written in Go
-- [elastic/beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications
 - [eko/pihole-exporter](https://github.com/eko/pihole-exporter) - A Prometheus exporter for PI-Hole's Raspberry PI ad blocker
@@ -967,10 +966,8 @@
 - [openboard-team/openboard](https://github.com/openboard-team/openboard) - 
 - [GrapheneOS/Camera](https://github.com/GrapheneOS/Camera) - Modern camera app focused on privacy and security with QR & barcode scanning.
 - [debezium/debezium](https://github.com/debezium/debezium) - Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.
-- [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
 - [neo4j/neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
 - [CategoricalData/CQL](https://github.com/CategoricalData/CQL) - Categorical Query Language IDE
-- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [hwsecurity-sdk/termbot](https://github.com/hwsecurity-sdk/termbot) - SSH client that works with YubiKeys, Nitrokeys, and other OpenPGP cards (based on the Hardware Security SDK)
 - [airsonic/airsonic](https://github.com/airsonic/airsonic) - :satellite: :cloud: :notes:Airsonic, a Free and Open Source community driven media server (fork of Subsonic and Libresonic)
 - [devgianlu/Aria2App](https://github.com/devgianlu/Aria2App) - Aria2App is an advanced download manager based on aria2 that can handle remote servers too.
@@ -1045,7 +1042,7 @@
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
 - [ipfs-shipyard/ipfs-deploy](https://github.com/ipfs-shipyard/ipfs-deploy) - Zero-Config CLI to Deploy Static Websites to IPFS
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [Consensys/vscode-solidity-auditor](https://github.com/Consensys/vscode-solidity-auditor) - Solidity language support and visual security auditor for Visual Studio Code
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository
@@ -1161,7 +1158,6 @@
 - [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
 - [ro31337/bigoposter](https://github.com/ro31337/bigoposter) - Big-O Complexities / Poster of common algorithms used in Computer Science
 - [DemocracyEarth/wallet](https://github.com/DemocracyEarth/wallet) - Censorship resistant democracies.
-- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [beakerbrowser/beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser
 - [AdrianClv/ethereum-ipfs](https://github.com/AdrianClv/ethereum-ipfs) - A simple Ethereum + IPFS JavaScript web application
 - [dapphub/dapple](https://github.com/dapphub/dapple) - EVM contract system developer multitool
@@ -1230,6 +1226,7 @@
 - [GitLiveApp/firebase-kotlin-sdk](https://github.com/GitLiveApp/firebase-kotlin-sdk) - A Kotlin-first SDK for Firebase
 - [InsertKoinIO/koin](https://github.com/InsertKoinIO/koin) - Koin - a pragmatic lightweight dependency injection framework for Kotlin & Kotlin Multiplatform
 - [KotlinCrypto/secure-random](https://github.com/KotlinCrypto/secure-random) - A Kotlin Multiplatform library for obtaining cryptographically secure random data from system sources
+- [zkmopro/mopro](https://github.com/zkmopro/mopro) - Making client-side proving on mobile simple.
 - [fwcd/kotlin-analysis-server](https://github.com/fwcd/kotlin-analysis-server) - Language server prototype using the new Kotlin analysis API
 - [seedvault-app/seedvault](https://github.com/seedvault-app/seedvault) - A backup application for the Android Open Source Project.
 - [morpho-app/Morpho](https://github.com/morpho-app/Morpho) - Fast, flexible Kotlin Multiplatform client for Bluesky
@@ -1630,7 +1627,7 @@
 - [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting) - Adaptive Lighting custom component for Home Assistant
 - [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer!
 - [mohammed-elkomy/low-poly-image-evolution](https://github.com/mohammed-elkomy/low-poly-image-evolution) - a multi-processing image evolution using dual-annealing optimization algorithm.
-- [ionelmc/pytest-benchmark](https://github.com/ionelmc/pytest-benchmark) - py.test fixture for benchmarking code
+- [ionelmc/pytest-benchmark](https://github.com/ionelmc/pytest-benchmark) - pytest fixture for benchmarking code
 - [numba/numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
 - [chaychoong/coveragepy-lcov](https://github.com/chaychoong/coveragepy-lcov) - A simple .coverage to LCOV converter
 - [d4nj1/TLPUI](https://github.com/d4nj1/TLPUI) - A GTK user interface for TLP written in Python
@@ -1647,7 +1644,7 @@
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [fdw/rofi-rbw](https://github.com/fdw/rofi-rbw) - Rofi frontend for Bitwarden
 - [nwg-piotr/azote](https://github.com/nwg-piotr/azote) - Wallpaper manager for wlroots-based compositors and some other WMs
-- [jina-ai/jina](https://github.com/jina-ai/jina) - ☁️ Build multimodal AI applications with cloud-native stack
+- [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 - [jordemort/action-pyright](https://github.com/jordemort/action-pyright) - A GitHub Action to run pyright
 - [RobertCraigie/pyright-python](https://github.com/RobertCraigie/pyright-python) - Python command line wrapper for pyright, a static type checker
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
@@ -1699,7 +1696,7 @@
 - [lbryio/lbry-sdk](https://github.com/lbryio/lbry-sdk) - The LBRY SDK for building decentralized, censorship resistant, monetized, digital content apps.
 - [marthendalnunes/covid-simulation](https://github.com/marthendalnunes/covid-simulation) - COVID-19 SEIR model using cadCAD and Streamlit.
 - [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
-- [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is free, open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.
+- [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is a free and open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.
 - [cbyn/bitpredict](https://github.com/cbyn/bitpredict) - Machine learning for high frequency bitcoin price prediction
 - [SolidCode/SolidPython](https://github.com/SolidCode/SolidPython) - A python frontend for solid modelling that compiles to OpenSCAD
 - [wolph/numpy-stl](https://github.com/wolph/numpy-stl) - Simple library to make working with STL files (and 3D objects in general) fast and easy.
@@ -2058,6 +2055,7 @@
 - [reflexer-labs/geb](https://github.com/reflexer-labs/geb) - Core smart contracts for GEB
 - [Consensys/anonymous-zether](https://github.com/Consensys/anonymous-zether) - A private payment system for Ethereum-based blockchains, with no trusted setup.
 - [starkware-libs/starkex-contracts](https://github.com/starkware-libs/starkex-contracts) - 
+- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 
 ## Svelte 
 
@@ -2074,7 +2072,6 @@
 ## Swift 
 
 - [apple/swift-homomorphic-encryption](https://github.com/apple/swift-homomorphic-encryption) - Homomorphic Encryption library and applications in Swift
-- [zkmopro/mopro](https://github.com/zkmopro/mopro) - Making client-side proving on mobile simple.
 - [fwcd/distributed-chat](https://github.com/fwcd/distributed-chat) - Distributed peer-to-peer messaging app using Bluetooth LE mesh networks
 - [Planetable/Planet](https://github.com/Planetable/Planet) - Build and host decentralized blogs and websites on your Mac
 - [SwifterSwift/SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native Swift extensions to boost your productivity.
@@ -2099,6 +2096,8 @@
 
 ## TypeScript 
 
+- [espressif/vscode-esp-idf-extension](https://github.com/espressif/vscode-esp-idf-extension) - Visual Studio Code extension for ESP-IDF projects
+- [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - A GitHub action to create a pull request for changes to your repository in the actions workspace
 - [davelosert/vitest-coverage-report-action](https://github.com/davelosert/vitest-coverage-report-action) - A GitHub Action to report vitest test coverage results
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
 - [kwhitley/itty-router](https://github.com/kwhitley/itty-router) - A little router.
