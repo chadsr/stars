@@ -6,6 +6,7 @@
 ## Contents
 
 - [Agda](#agda)
+- [AppleScript](#applescript)
 - [Arduino](#arduino)
 - [Assembly](#assembly)
 - [Batchfile](#batchfile)
@@ -83,6 +84,10 @@
 ## Agda 
 
 - [omelkonian/formal-utxo](https://github.com/omelkonian/formal-utxo) - Formalization of the UTxO abstract model for (bitcoin-style) blockchain transactions.
+
+## AppleScript 
+
+- [theseal/ssh-askpass](https://github.com/theseal/ssh-askpass) - ssh-askpass for macOS
 
 ## Arduino 
 
@@ -507,7 +512,7 @@
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [whyrusleeping/gosky](https://github.com/whyrusleeping/gosky) - Some bluesky code
 - [eminetto/clean-architecture-go-v2](https://github.com/eminetto/clean-architecture-go-v2) - Clean Architecture sample
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server.
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. WE'RE ON HOLIDAY! &lt;3 Repo is read-only until Jan 2, 2025. See you in the new year!
 - [ipfs/go-ipfs-blockstore](https://github.com/ipfs/go-ipfs-blockstore) - [ARCHIVED] This module provides a thin wrapper over a datastore and provides caching strategies.
 - [planetary-social/scuttlego](https://github.com/planetary-social/scuttlego) - A Go implementation of the Secure Scuttlebutt protocol.
 - [ipfs-shipyard/git-remote-ipld](https://github.com/ipfs-shipyard/git-remote-ipld) - 
