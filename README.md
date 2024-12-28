@@ -1015,6 +1015,7 @@
 - [postcss/postcss-scss](https://github.com/postcss/postcss-scss) - SCSS parser for PostCSS.
 - [stylelint-scss/stylelint-scss](https://github.com/stylelint-scss/stylelint-scss) - A collection of SCSS specific linting rules for Stylelint
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [iancoleman/slip39](https://github.com/iancoleman/slip39) - A web tool for SLIP39 mnemonic shares
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
@@ -1348,7 +1349,7 @@
 - [web3privacy/web3privacy](https://github.com/web3privacy/web3privacy) - Web3Privacy Now is a research project aimed at building a culture of privacy industry in web3: the most extensive database of privacy-enhancing solutions, the framework for PEDApps ideation, use-cases
 - [chobeat/awesome-critical-tech-reading-list](https://github.com/chobeat/awesome-critical-tech-reading-list) - A reading list for the modern critical programmer
 - [Bastardkb/Scylla](https://github.com/Bastardkb/Scylla) - Ergonomic mechanical keyboard
-- [shobrook/adrenaline](https://github.com/shobrook/adrenaline) - Chat with and visualize any codebase
+- [shobrook/adrenaline](https://github.com/shobrook/adrenaline) - Chat with (and visualize) any codebase
 - [ethereum/pos-evolution](https://github.com/ethereum/pos-evolution) - Evolution of the Ethereum Proof-of-Stake Consensus Protocol
 - [ChainAgnostic/CASA](https://github.com/ChainAgnostic/CASA) - Chain Agnostic Standards Alliance organizational homebase
 - [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
@@ -1907,7 +1908,7 @@
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [blyssprivacy/sdk](https://github.com/blyssprivacy/sdk) - SDK for private data access, built on homomorphic encryption.
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX and WASI
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [Findomain/Findomain](https://github.com/Findomain/Findomain) - The fastest and complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, mul
 - [AleoNet/snarkVM](https://github.com/AleoNet/snarkVM) - A Virtual Machine for Zero-Knowledge Executions
 - [facebookresearch/Cupcake](https://github.com/facebookresearch/Cupcake) - A Rust library for lattice-based additive homomorphic encryption.
@@ -2075,7 +2076,6 @@
 
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - An adaptive design system and component solution built around Tailwind.
 - [Figma-Linux/figma-linux](https://github.com/Figma-Linux/figma-linux) - Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [oddsdk/odd-app-template](https://github.com/oddsdk/odd-app-template) - A sveltekit web app template for the ODD SDK.
 - [ucan-wg/ucan-community-web](https://github.com/ucan-wg/ucan-community-web) - UCAN community site
 - [WelcometoMyGarden/welcometomygarden](https://github.com/WelcometoMyGarden/welcometomygarden) - Web app of Welcome To My Garden, a not-for-profit network of citizens offering free camping spots in their gardens to slow travellers.
