@@ -1010,7 +1010,6 @@
 - [ipfs/ipfs-webui](https://github.com/ipfs/ipfs-webui) - A frontend for an IPFS Kubo and IPFS Desktop
 - [stylelint-scss/stylelint-config-standard-scss](https://github.com/stylelint-scss/stylelint-config-standard-scss) - The standard shareable SCSS config for Stylelint.
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
-- [muratgozel/MIMEText](https://github.com/muratgozel/MIMEText) - RFC-2822, RFC-2045 and RFC-2049 compliant raw email message generator.
 - [postcss/postcss-calc](https://github.com/postcss/postcss-calc) - PostCSS plugin to reduce calc()
 - [postcss/postcss-scss](https://github.com/postcss/postcss-scss) - SCSS parser for PostCSS.
 - [stylelint-scss/stylelint-scss](https://github.com/stylelint-scss/stylelint-scss) - A collection of SCSS specific linting rules for Stylelint
@@ -2150,6 +2149,7 @@
 - [bmatcuk/stylelint-lsp](https://github.com/bmatcuk/stylelint-lsp) - A stylelint Language Server
 - [stylelint/vscode-stylelint](https://github.com/stylelint/vscode-stylelint) - The official Visual Studio Code extension for Stylelint
 - [elsevierlabs-os/linked-data](https://github.com/elsevierlabs-os/linked-data) - Linked Data Extension for VSCode
+- [muratgozel/MIMEText](https://github.com/muratgozel/MIMEText) - RFC-5322 compliant, fully typed and documented email message generator for javascript runtimes.
 - [FullHuman/purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
@@ -2173,7 +2173,7 @@
 - [fannheyward/coc-pyright](https://github.com/fannheyward/coc-pyright) - Pyright extension for coc.nvim
 - [zeshuaro/vscode-poetry](https://github.com/zeshuaro/vscode-poetry) - Python Poetry support for VS Code to manage Poetry commands
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
-- [hangxingliu/vscode-systemd](https://github.com/hangxingliu/vscode-systemd) - A Visual Studio Code extension that helps you read and write Systemd unit files
+- [hangxingliu/vscode-systemd](https://github.com/hangxingliu/vscode-systemd) - A Visual Studio Code extension to help you read and write Systemd unit config, mkosi config and Podman Quadlet unit files
 - [vscode-shellcheck/vscode-shellcheck](https://github.com/vscode-shellcheck/vscode-shellcheck) - Integrates ShellCheck into VS Code, a linter for Shell scripts.
 - [yy0931/gitconfig-lsp](https://github.com/yy0931/gitconfig-lsp) - 
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
@@ -2184,7 +2184,7 @@
 - [RomRider/apexcharts-card](https://github.com/RomRider/apexcharts-card) - 📈 A Lovelace card to display advanced graphs and charts based on ApexChartsJS for Home Assistant
 - [nielsfaber/alarmo](https://github.com/nielsfaber/alarmo) - Easy to use alarm system integration for Home Assistant
 - [redhat-developer/vscode-yaml](https://github.com/redhat-developer/vscode-yaml) - YAML support for VS Code with built-in kubernetes syntax support
-- [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr) - Fork of overseerr for jellyfin support.
+- [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr) - Fork of overseerr that adds additional media server support.
 - [mamba-org/vscode-micromamba](https://github.com/mamba-org/vscode-micromamba) - A VSCode extension to generate development environments using micromamba and conda-forge package repository
 - [ninoseki/vscode-pylens](https://github.com/ninoseki/vscode-pylens) - A VS Code extension to show the latest version of a dependency in pyproject.toml or requirements.txt
 - [sigp/siren](https://github.com/sigp/siren) - User interface for Lighthouse
