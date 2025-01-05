@@ -142,6 +142,7 @@
 - [olikraus/u8g2](https://github.com/olikraus/u8g2) - U8glib library for monochrome displays, version 2
 - [lz4/lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm
 - [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
+- [zachasme/h3-pg](https://github.com/zachasme/h3-pg) - PostgreSQL bindings for H3, a hierarchical hexagonal geospatial indexing system
 - [dlr-eoc/pgh3](https://github.com/dlr-eoc/pgh3) - PostgreSQL extension for the H3 hierarchical geospatial indexing system
 - [o-gs/dji-firmware-tools](https://github.com/o-gs/dji-firmware-tools) - Tools for handling firmwares of DJI products, with focus on quadcopters.
 - [uber/h3](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system
@@ -888,7 +889,7 @@
 - [mysteriumnetwork/node](https://github.com/mysteriumnetwork/node) - Mysterium Network Node -  official implementation of distributed VPN network (dVPN) protocol
 - [linkeddata/gold](https://github.com/linkeddata/gold) - Linked Data server for Go
 - [google/badwolf](https://github.com/google/badwolf) - Temporal graph store abstraction layer.
-- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - The database for modern applications. Common use cases: knowledge graphs for AI, fraud detection, personalization, and search. Built and maintained by @HypermodeInc.
+- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - high-performance graph database for powering real-time use cases
 - [Consensys/quorum](https://github.com/Consensys/quorum) - A permissioned implementation of Ethereum supporting data privacy
 - [joernweissenborn/eventual2go](https://github.com/joernweissenborn/eventual2go) - Streams and Futures for Go.
 - [xlab/android-go](https://github.com/xlab/android-go) - The android-go project provides a platform for writing native Android apps in Go programming language.
@@ -1087,7 +1088,6 @@
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [manojVivek/medium-unlimited](https://github.com/manojVivek/medium-unlimited) - A browser extension to read medium.com articles for free without membership.
 - [automerge/automerge-classic](https://github.com/automerge/automerge-classic) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
-- [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [stevermeister/dutch-tax-income-calculator-old](https://github.com/stevermeister/dutch-tax-income-calculator-old) - Dutch Tax Income Calculator with AngularJS
 - [ilap/slip39-js](https://github.com/ilap/slip39-js) - The javascript implementation of the SLIP39 for Shamir's Secret-Sharing for Mnemonic Codes.
 - [solokeys/solo-desktop](https://github.com/solokeys/solo-desktop) - Desktop app for customizing and updating your Solo.
@@ -1349,7 +1349,7 @@
 - [web3privacy/web3privacy](https://github.com/web3privacy/web3privacy) - Web3Privacy Now is a research project aimed at building a culture of privacy industry in web3: the most extensive database of privacy-enhancing solutions, the framework for PEDApps ideation, use-cases
 - [chobeat/awesome-critical-tech-reading-list](https://github.com/chobeat/awesome-critical-tech-reading-list) - A reading list for the modern critical programmer
 - [Bastardkb/Scylla](https://github.com/Bastardkb/Scylla) - Ergonomic mechanical keyboard
-- [shobrook/adrenaline](https://github.com/shobrook/adrenaline) - Chat with (and visualize) any codebase
+- [shobrook/adrenaline](https://github.com/shobrook/adrenaline) - Chat with (and visualize) your codebase
 - [ethereum/pos-evolution](https://github.com/ethereum/pos-evolution) - Evolution of the Ethereum Proof-of-Stake Consensus Protocol
 - [ChainAgnostic/CASA](https://github.com/ChainAgnostic/CASA) - Chain Agnostic Standards Alliance organizational homebase
 - [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
@@ -1456,7 +1456,6 @@
 ## PLpgSQL 
 
 - [postgis/postgis](https://github.com/postgis/postgis) - PostGIS spatial database extension to PostgreSQL [mirror]
-- [zachasme/h3-pg](https://github.com/zachasme/h3-pg) - PostgreSQL bindings for H3, a hierarchical hexagonal geospatial indexing system
 - [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it's 2023
 
 ## Pascal 
@@ -2275,6 +2274,7 @@
 - [workadventure/workadventure](https://github.com/workadventure/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game
 - [ethersphere/swarm-cli](https://github.com/ethersphere/swarm-cli) - Manage your Bee node and interact with the Swarm network via the CLI
 - [ethersphere/bee-dashboard](https://github.com/ethersphere/bee-dashboard) - An app which helps users to setup their Bee node and do actions like cash out cheques
+- [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [moonbeam-foundation/moonbeam](https://github.com/moonbeam-foundation/moonbeam) - An Ethereum-compatible smart contract parachain on Polkadot
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [TrueFiEng/Mars](https://github.com/TrueFiEng/Mars) - Mars is an infrastructure-as-code tool for Ethereum
