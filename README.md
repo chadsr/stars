@@ -465,7 +465,7 @@
 - [beeper/bridge-manager](https://github.com/beeper/bridge-manager) - A tool for running self-hosted bridges with the Beeper Matrix server.
 - [pion/turn](https://github.com/pion/turn) - Pion TURN, an API for building TURN clients and servers
 - [gov4git/gov4git](https://github.com/gov4git/gov4git) - Decentralized governance for Git communities
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
 - [juju/juju](https://github.com/juju/juju) - Orchestration engine that enables the deployment, integration and lifecycle management of applications at any scale, on any infrastructure (Kubernetes or otherwise).
 - [ChristopherHX/github-act-runner](https://github.com/ChristopherHX/github-act-runner) - act as self-hosted runner
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -909,7 +909,7 @@
 - [Cryptofonts/cryptofont](https://github.com/Cryptofonts/cryptofont) - Cryptocurrency icon webfont and SVG
 - [tzarc/keyboards](https://github.com/tzarc/keyboards) - @tzarc's custom keyboard designs.
 - [Aposymbiont/split-keyboards](https://github.com/Aposymbiont/split-keyboards) - A collection of ergonomic split keyboards ⌨
-- [w3c/did-core](https://github.com/w3c/did-core) - W3C Decentralized Identifier Specification
+- [w3c/did](https://github.com/w3c/did) - W3C Decentralized Identifier Specification
 - [valueflows/valueflows](https://github.com/valueflows/valueflows) - valueflows repo has moved to https://lab.allmende.io/valueflows/valueflows
 - [allo-/ffprofile](https://github.com/allo-/ffprofile) - A tool to create firefox profiles with personalized defaults.
 - [sambacha/openevm](https://github.com/sambacha/openevm) - Open Ethereum Virtual Machine - Knowledgebase, Documentation, etc
@@ -1001,7 +1001,7 @@
 - [bokub/rgb-light-card](https://github.com/bokub/rgb-light-card) - 💡 A Home Assistant card for RGB lights
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [mvllow/tailwindcss-safe-area](https://github.com/mvllow/tailwindcss-safe-area) - Tailwind CSS utilities for safe areas
-- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run linters on git staged files
+- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run tasks like formatters and linters against staged git files
 - [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
@@ -1331,6 +1331,7 @@
 
 ## Others 
 
+- [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [PricelessToolkit/Droplet](https://github.com/PricelessToolkit/Droplet) - ALL-IN-ONE Irrigation and monitoring system for ESPHome and Home Assistant.
 - [jplaui/web3knowledge](https://github.com/jplaui/web3knowledge) - A collection of links, research papers, tools, researchers, events, ... every web3 follower should know.
 - [0xalpharush/awesome-MEV-resources](https://github.com/0xalpharush/awesome-MEV-resources) - Get up to speed on Maximum Extractable Value
@@ -1909,7 +1910,7 @@
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [Findomain/Findomain](https://github.com/Findomain/Findomain) - The fastest and complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, mul
-- [ProvableHQ/snarkVM](https://github.com/ProvableHQ/snarkVM) - A Virtual Machine for Zero-Knowledge Executions
+- [ProvableHQ/snarkVM](https://github.com/ProvableHQ/snarkVM) - A zkVM for Decentralized Private Computations (DPC)
 - [facebookresearch/Cupcake](https://github.com/facebookresearch/Cupcake) - A Rust library for lattice-based additive homomorphic encryption.
 - [DNSCrypt/encrypted-dns-server](https://github.com/DNSCrypt/encrypted-dns-server) - An easy to install, high-performance, zero maintenance proxy to run an encrypted DNS server.
 - [alvr-org/ALVR](https://github.com/alvr-org/ALVR) - Stream VR games from your PC to your headset via Wi-Fi
