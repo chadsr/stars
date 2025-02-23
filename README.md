@@ -147,7 +147,7 @@
 - [uber/h3](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system
 - [mariusae/trickle](https://github.com/mariusae/trickle) - Trickle is a userland bandwidth shaper for Unix-like systems.
 - [rbaron/b-parasite](https://github.com/rbaron/b-parasite) - 🌱💧 An open source DIY soil moisture sensor
-- [RedisAI/RedisAI](https://github.com/RedisAI/RedisAI) - A Redis module for serving tensors and executing deep learning graphs
+- [RedisAI/redis-inference-optimization](https://github.com/RedisAI/redis-inference-optimization) - A Redis module for serving tensors and executing deep learning graphs
 - [pikvm/ustreamer](https://github.com/pikvm/ustreamer) - µStreamer - Lightweight and fast MJPEG-HTTP streamer
 - [electrickite/batsignal](https://github.com/electrickite/batsignal) - Lightweight battery daemon written in C
 - [daniel5151/qmk_firmware](https://github.com/daniel5151/qmk_firmware) - keyboard controller firmware for Atmel AVR and ARM USB families
@@ -157,7 +157,7 @@
 - [sentriz/wlr-sunclock](https://github.com/sentriz/wlr-sunclock) - wayland desktop widget to show to the sun's shadows on earth
 - [agalakhov/xiccd](https://github.com/agalakhov/xiccd) - X color profile daemon
 - [liquidctl/liquidtux](https://github.com/liquidctl/liquidtux) - Linux kernel hwmon drivers for AIO liquid coolers and other devices
-- [audiohacked/OpenCorsairLink](https://github.com/audiohacked/OpenCorsairLink) - Linux and Mac OS support for the CorsairLink Devices
+- [hyperkineticnerd/OpenCorsairLink](https://github.com/hyperkineticnerd/OpenCorsairLink) - Linux and Mac OS support for the CorsairLink Devices
 - [kennylevinsen/wlsunset](https://github.com/kennylevinsen/wlsunset) - [mirror] Day/night gamma adjustments for Wayland (https://sr.ht/~kennylevinsen/wlsunset)
 - [RedisGraph/RedisGraph](https://github.com/RedisGraph/RedisGraph) - A graph database as a Redis module
 - [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
@@ -283,7 +283,7 @@
 - [dashesy/cc-tool](https://github.com/dashesy/cc-tool) - Mirror of cc-tool from SourceForge
 - [system-pclub/GCatch](https://github.com/system-pclub/GCatch) - Statically Detecting Go Concurrency Bugs
 - [efficient/cuckoofilter](https://github.com/efficient/cuckoofilter) - 
-- [meshtastic/firmware](https://github.com/meshtastic/firmware) - Meshtastic device firmware
+- [meshtastic/firmware](https://github.com/meshtastic/firmware) - This repository contains the official firmware for Meshtastic, an open-source, off-grid mesh communication system.
 - [fcgdam/TTGO_LoRa32](https://github.com/fcgdam/TTGO_LoRa32) - Some sample code for the TTGO ESP32 Oled Lora board.
 - [apple/turicreate](https://github.com/apple/turicreate) - Turi Create simplifies the development of custom machine learning models.
 - [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
@@ -903,6 +903,7 @@
 
 ## HTML 
 
+- [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 - [WICG/private-network-access](https://github.com/WICG/private-network-access) - 
 - [WICG/direct-sockets](https://github.com/WICG/direct-sockets) - Direct Sockets API for the web platform
 - [hugomods/seo](https://github.com/hugomods/seo) - :mag: Hugo SEO Module
@@ -1284,7 +1285,6 @@
 ## MDX 
 
 - [helium/docs](https://github.com/helium/docs) - Helium Documentation
-- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 
 ## Makefile 
 
@@ -1483,6 +1483,7 @@
 
 ## Python 
 
+- [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
 - [nayarsystems/posix_tz_db](https://github.com/nayarsystems/posix_tz_db) - Generates POSIX timezones strings
 - [jcwillox/hass-auto-backup](https://github.com/jcwillox/hass-auto-backup) - 🗃️ Improved Backup Service for Home Assistant that can Automatically Remove Backups and Supports Generational Backup Schemes.
@@ -1932,6 +1933,7 @@
 - [informalsystems/tendermint-rs](https://github.com/informalsystems/tendermint-rs) - Client libraries for Tendermint/CometBFT in Rust!
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [mimblewimble/grin](https://github.com/mimblewimble/grin) - Minimal implementation of the Mimblewimble protocol.
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [openmls/openmls](https://github.com/openmls/openmls) - Rust implementation of the Messaging Layer Security (MLS) protocol
 - [radicle-dev/radicle-link](https://github.com/radicle-dev/radicle-link) - The second iteration of the Radicle code collaboration protocol.
 - [gre/gre](https://github.com/gre/gre) - https://greweb.me/
@@ -2125,7 +2127,7 @@
 - [Sebclem/hassio-nextcloud-backup](https://github.com/Sebclem/hassio-nextcloud-backup) - Hass.io Add-on: Backup your snapshots to Nextcloud
 - [RevokeCash/revoke.cash](https://github.com/RevokeCash/revoke.cash) - ❌ Revoke or update your token approvals
 - [RebeccaStevens/deepmerge-ts](https://github.com/RebeccaStevens/deepmerge-ts) - Deeply merge 2 or more objects respecting type information.
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible, and customizable components to help you build your component library. Open Source.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [joshnuss/svelte-persisted-store](https://github.com/joshnuss/svelte-persisted-store) - A Svelte store that persists to localStorage
 - [sveltejs/eslint-plugin-svelte](https://github.com/sveltejs/eslint-plugin-svelte) - ESLint plugin for Svelte using AST
 - [chadsr/eventsource](https://github.com/chadsr/eventsource) - EventSource implementation that is fully compliant with the WHATWG Server-Sent Events specification but takes more arguments.
