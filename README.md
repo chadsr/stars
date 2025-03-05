@@ -754,7 +754,7 @@
 - [FiloSottile/yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - yubikey-agent is a seamless ssh-agent for YubiKeys.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [gorilla/mux](https://github.com/gorilla/mux) - Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
-- [goadesign/goa](https://github.com/goadesign/goa) - 🌟 Goa: Elevate Go API development! 🚀 Streamlined design, automatic code generation, and seamless HTTP/gRPC support. ✨
+- [goadesign/goa](https://github.com/goadesign/goa) - Design-first Go framework that generates API code, documentation, and clients. Define once in an elegant DSL, deploy as HTTP and gRPC services with zero drift between code and docs.
 - [google/gofountain](https://github.com/google/gofountain) - 
 - [arangodb/go-driver](https://github.com/arangodb/go-driver) - The official ArangoDB go driver.
 - [cayleygraph/cayley](https://github.com/cayleygraph/cayley) - An open-source graph database
@@ -911,7 +911,7 @@
 - [tzarc/keyboards](https://github.com/tzarc/keyboards) - @tzarc's custom keyboard designs.
 - [Aposymbiont/split-keyboards](https://github.com/Aposymbiont/split-keyboards) - A collection of ergonomic split keyboards ⌨
 - [w3c/did](https://github.com/w3c/did) - W3C Decentralized Identifier Specification
-- [valueflows/valueflows](https://github.com/valueflows/valueflows) - valueflows repo has moved to https://lab.allmende.io/valueflows/valueflows
+- [valueflows/valueflows](https://github.com/valueflows/valueflows) - valueflows repo has moved to https://codeberg.org/valueflows/valueflows
 - [allo-/ffprofile](https://github.com/allo-/ffprofile) - A tool to create firefox profiles with personalized defaults.
 - [sambacha/openevm](https://github.com/sambacha/openevm) - Open Ethereum Virtual Machine - Knowledgebase, Documentation, etc
 - [Consensys/smart-contract-best-practices](https://github.com/Consensys/smart-contract-best-practices) - A guide to smart contract security best practices
@@ -2112,6 +2112,7 @@
 
 ## TypeScript 
 
+- [r0adkll/upload-google-play](https://github.com/r0adkll/upload-google-play) - A GitHub action to upload an Android .apk or .aab file to the Google Play Console
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
 - [al1abb/invoify](https://github.com/al1abb/invoify) - An invoice generator app built using Next.js, Typescript, and Shadcn
 - [onlxltd/bonjour-service](https://github.com/onlxltd/bonjour-service) - A Bonjour/Zeroconf protocol implementation in TypeScript
@@ -2144,7 +2145,7 @@
 - [espressif/esptool-js](https://github.com/espressif/esptool-js) - Javascript implementation of flasher tool for Espressif chips, running in web browser using WebSerial.
 - [jakearchibald/idb](https://github.com/jakearchibald/idb) - IndexedDB, but with promises
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
-- [chakra-ui/zag](https://github.com/chakra-ui/zag) - Build accessible design systems and component library using finite state machines. Compatible with React, Vue, Svelte, Solid, and Preact.
+- [chakra-ui/zag](https://github.com/chakra-ui/zag) - Build your design system in React, Solid, Vue or Svelte. Powered by finite state machines
 - [unplugin/unplugin-icons](https://github.com/unplugin/unplugin-icons) - 🤹 Access thousands of icons as components on-demand universally.
 - [AdrianGonz97/vite-plugin-tailwind-purgecss](https://github.com/AdrianGonz97/vite-plugin-tailwind-purgecss) - A simple Vite plugin that thoroughly purges excess TailwindCSS styles.
 - [opral/monorepo](https://github.com/opral/monorepo) - lix (change control system) && inlang (globalization ecosystem for software built on lix)
@@ -2257,7 +2258,7 @@
 - [swdotcom/swdc-vscode](https://github.com/swdotcom/swdc-vscode) - Time-tracking plugin for Visual Studio Code
 - [damienaicheh/update-ios-version-info-plist-action](https://github.com/damienaicheh/update-ios-version-info-plist-action) - 
 - [gradle-update/update-gradle-wrapper-action](https://github.com/gradle-update/update-gradle-wrapper-action) - Keep Gradle Wrapper up-to-date with this action.
-- [ionic-team/stencil](https://github.com/ionic-team/stencil) - A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and tradi
+- [stenciljs/core](https://github.com/stenciljs/core) - A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and tradi
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [fwcd/vscode-kotlin](https://github.com/fwcd/vscode-kotlin) - Kotlin code completion, debugging, linting and more for VSCode
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
