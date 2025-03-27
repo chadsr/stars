@@ -599,7 +599,7 @@
 - [miguelmota/ethereum-development-with-go-book](https://github.com/miguelmota/ethereum-development-with-go-book) - 📖 A little guide book on Ethereum Development with Go (golang)
 - [spacemeshos/go-spacemesh](https://github.com/spacemeshos/go-spacemesh) - Go Implementation of the Spacemesh protocol full node. 💾⏰💪
 - [paritytech/substrate](https://github.com/paritytech/substrate) - Substrate: The platform for blockchain innovators
-- [Consensys/mythril](https://github.com/Consensys/mythril) - Mythril is a symbolic-execution-based securty analysis tool for EVM bytecode. It detects security vulnerabilities in smart contracts built for Ethereum and other EVM-compatible blockchains.
+- [ConsenSysDiligence/mythril](https://github.com/ConsenSysDiligence/mythril) - Mythril is a symbolic-execution-based securty analysis tool for EVM bytecode. It detects security vulnerabilities in smart contracts built for Ethereum and other EVM-compatible blockchains.
 - [ethersphere/swarm](https://github.com/ethersphere/swarm) - Swarm: Censorship resistant storage and communication infrastructure for a truly sovereign digital society
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [liamzebedee/awesome-solidity-patterns](https://github.com/liamzebedee/awesome-solidity-patterns) - 🚀Awesome Solidity patterns to make life easier ✌️
@@ -1316,7 +1316,7 @@
 - [miguelmota/ethereum-development-with-go-book](https://github.com/miguelmota/ethereum-development-with-go-book) - 📖 A little guide book on Ethereum Development with Go (golang)
 - [hunterlong/gethexporter](https://github.com/hunterlong/gethexporter) - Monitor your Geth Ethereum Server with Prometheus and Grafana
 - [Zokrates/ZoKrates](https://github.com/Zokrates/ZoKrates) - A toolbox for zkSNARKs on Ethereum
-- [Consensys/mythril](https://github.com/Consensys/mythril) - Mythril is a symbolic-execution-based securty analysis tool for EVM bytecode. It detects security vulnerabilities in smart contracts built for Ethereum and other EVM-compatible blockchains.
+- [ConsenSysDiligence/mythril](https://github.com/ConsenSysDiligence/mythril) - Mythril is a symbolic-execution-based securty analysis tool for EVM bytecode. It detects security vulnerabilities in smart contracts built for Ethereum and other EVM-compatible blockchains.
 - [ethersphere/swarm](https://github.com/ethersphere/swarm) - Swarm: Censorship resistant storage and communication infrastructure for a truly sovereign digital society
 - [chadsr/waybar-crypto](https://github.com/chadsr/waybar-crypto) - A Waybar module for displaying cryptocurrency market information
 - [xf00f/web3x](https://github.com/xf00f/web3x) - Ethereum TypeScript Client Library - for perfect types and tiny builds.
@@ -1382,7 +1382,7 @@
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - A source-available invoice, quote, project and time-tracking app built with Laravel
 - [ionorg/ion](https://github.com/ionorg/ion) - Real-Distributed  RTC System by pure Go and Flutter
 - [nisrulz/flutter-examples](https://github.com/nisrulz/flutter-examples) - [Examples] Simple basic isolated apps, for budding flutter devs.
-- [fleaflet/flutter_map](https://github.com/fleaflet/flutter_map) - A versatile mapping package for Flutter. Simple and easy to learn, yet completely customizable and configurable, it's the best choice for mapping in your Flutter app.
+- [fleaflet/flutter_map](https://github.com/fleaflet/flutter_map) - Flutter's №1 non-commercially aimed map client: it's easy-to-use, versatile, vendor-free, and 100% pure-Flutter
 
 ## flutter-apps 
 
@@ -2484,7 +2484,7 @@
 - [studio-b12/gowebdav](https://github.com/studio-b12/gowebdav) - A golang WebDAV client library and command line tool.
 - [kyroy/kdtree](https://github.com/kyroy/kdtree) - A k-d tree implementation in Go.
 - [MainframeOS/erebos](https://github.com/MainframeOS/erebos) - JavaScript client and CLI for Swarm
-- [fleaflet/flutter_map](https://github.com/fleaflet/flutter_map) - A versatile mapping package for Flutter. Simple and easy to learn, yet completely customizable and configurable, it's the best choice for mapping in your Flutter app.
+- [fleaflet/flutter_map](https://github.com/fleaflet/flutter_map) - Flutter's №1 non-commercially aimed map client: it's easy-to-use, versatile, vendor-free, and 100% pure-Flutter
 - [carrascoacd/ArduinoSIM800L](https://github.com/carrascoacd/ArduinoSIM800L) - Arduino HTTP & FTP client for SIM800L/SIM800 boards to perform GET and POST requests to a JSON API as well as FTP uploads.
 
 ## linux 
@@ -4478,7 +4478,7 @@
 - [Ullaakut/camerattack](https://github.com/Ullaakut/camerattack) - An attack tool designed to remotely disable CCTV camera streams (like in spy movies)
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
-- [Consensys/mythril](https://github.com/Consensys/mythril) - Mythril is a symbolic-execution-based securty analysis tool for EVM bytecode. It detects security vulnerabilities in smart contracts built for Ethereum and other EVM-compatible blockchains.
+- [ConsenSysDiligence/mythril](https://github.com/ConsenSysDiligence/mythril) - Mythril is a symbolic-execution-based securty analysis tool for EVM bytecode. It detects security vulnerabilities in smart contracts built for Ethereum and other EVM-compatible blockchains.
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [nextcloud/end_to_end_encryption](https://github.com/nextcloud/end_to_end_encryption) - :closed_lock_with_key: Server API to support End-to-End Encryption
@@ -4579,7 +4579,7 @@
 - [lorenzb/libsubmarine](https://github.com/lorenzb/libsubmarine) - Implementation of a novel practical scheme for submarine commitments
 - [privacy-scaling-explorations/maci](https://github.com/privacy-scaling-explorations/maci) - Minimal Anti-Collusion Infrastructure (MACI)
 - [miguelmota/ethereum-development-with-go-book](https://github.com/miguelmota/ethereum-development-with-go-book) - 📖 A little guide book on Ethereum Development with Go (golang)
-- [Consensys/mythril](https://github.com/Consensys/mythril) - Mythril is a symbolic-execution-based securty analysis tool for EVM bytecode. It detects security vulnerabilities in smart contracts built for Ethereum and other EVM-compatible blockchains.
+- [ConsenSysDiligence/mythril](https://github.com/ConsenSysDiligence/mythril) - Mythril is a symbolic-execution-based securty analysis tool for EVM bytecode. It detects security vulnerabilities in smart contracts built for Ethereum and other EVM-compatible blockchains.
 - [liamzebedee/awesome-solidity-patterns](https://github.com/liamzebedee/awesome-solidity-patterns) - 🚀Awesome Solidity patterns to make life easier ✌️
 - [dapphub/dappsys](https://github.com/dapphub/dappsys) - Composable building blocks for Ethereum contracts
 - [duaraghav8/Ethlint](https://github.com/duaraghav8/Ethlint) - (Formerly Solium) Code quality & Security Linter for Solidity
