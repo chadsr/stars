@@ -256,7 +256,7 @@
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [sandeepmistry/arduino-LoRa](https://github.com/sandeepmistry/arduino-LoRa) - An Arduino library for sending and receiving data using LoRa radios.
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - This is a mirror, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps
 - [korejan/ALVR](https://github.com/korejan/ALVR) - Stream VR games from your PC to your headset via Wi-Fi
 - [Supreeeme/vrdio](https://github.com/Supreeeme/vrdio) - Audio controls in VR on Linux
 - [Huelse/SEAL-Python](https://github.com/Huelse/SEAL-Python) - Microsoft SEAL 4.X For Python
@@ -398,7 +398,7 @@
 - [firstfloorsoftware/flutter_sodium](https://github.com/firstfloorsoftware/flutter_sodium) - Flutter bindings for libsodium
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
 - [nisrulz/flutter-examples](https://github.com/nisrulz/flutter-examples) - [Examples] Simple basic isolated apps, for budding flutter devs.
-- [fleaflet/flutter_map](https://github.com/fleaflet/flutter_map) - Flutter's №1 non-commercially aimed map client: it's easy-to-use, versatile, vendor-free, and 100% pure-Flutter
+- [fleaflet/flutter_map](https://github.com/fleaflet/flutter_map) - Flutter's №1 non-commercially aimed map client: it's easy-to-use, versatile, vendor-free, fully cross-platform, and 100% pure-Flutter
 
 ## Dockerfile 
 
@@ -681,7 +681,7 @@
 - [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client
 - [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
-- [lestrrat-go/jwx](https://github.com/lestrrat-go/jwx) - Implementation of various JWx (Javascript Object Signing and Encryption/JOSE) technologies
+- [lestrrat-go/jwx](https://github.com/lestrrat-go/jwx) - Complete implementation of JWx (Javascript Object Signing and Encryption/JOSE) technologies for Go. #golang #jwt #jws #jwk #jwe
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 - [filecoin-project/lotus](https://github.com/filecoin-project/lotus) - Reference implementation of the Filecoin protocol, written in Go
 - [elastic/beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
@@ -914,7 +914,7 @@
 - [valueflows/valueflows](https://github.com/valueflows/valueflows) - valueflows repo has moved to https://codeberg.org/valueflows/valueflows
 - [allo-/ffprofile](https://github.com/allo-/ffprofile) - A tool to create firefox profiles with personalized defaults.
 - [sambacha/openevm](https://github.com/sambacha/openevm) - Open Ethereum Virtual Machine - Knowledgebase, Documentation, etc
-- [Consensys/smart-contract-best-practices](https://github.com/Consensys/smart-contract-best-practices) - A guide to smart contract security best practices
+- [ConsenSysDiligence/smart-contract-best-practices](https://github.com/ConsenSysDiligence/smart-contract-best-practices) - A guide to smart contract security best practices
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [mpsq/arewewaylandyet](https://github.com/mpsq/arewewaylandyet) - Sources for https://arewewaylandyet.com
 - [tvdboom/ATOM](https://github.com/tvdboom/ATOM) - Automated Tool for Optimized Modelling
@@ -1053,7 +1053,7 @@
 - [ipfs-shipyard/ipfs-deploy](https://github.com/ipfs-shipyard/ipfs-deploy) - Zero-Config CLI to Deploy Static Websites to IPFS
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
-- [Consensys/vscode-solidity-auditor](https://github.com/Consensys/vscode-solidity-auditor) - Solidity language support and visual security auditor for Visual Studio Code
+- [ConsenSysDiligence/vscode-solidity-auditor](https://github.com/ConsenSysDiligence/vscode-solidity-auditor) - Solidity language support and visual security auditor for Visual Studio Code
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
@@ -2307,7 +2307,7 @@
 - [go-semantic-release/action](https://github.com/go-semantic-release/action) - :octocat: semantic-release GitHub Action
 - [mrjackphil/obsidian-backlinks-in-document](https://github.com/mrjackphil/obsidian-backlinks-in-document) - A hacky workaround which put backlinks section into the document
 - [lukeleppan/better-word-count](https://github.com/lukeleppan/better-word-count) - Counts the words of selected text in the editor.
-- [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
+- [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [perryrh0dan/taskline](https://github.com/perryrh0dan/taskline) - Tasks, boards & notes for the command-line habitat
 - [huytd/pomoday-v2](https://github.com/huytd/pomoday-v2) - A keyboard only task management web app
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) - Official GitHub Action for golangci-lint from its authors
