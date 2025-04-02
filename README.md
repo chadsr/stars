@@ -482,7 +482,7 @@
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [bbernhard/signal-cli-rest-api](https://github.com/bbernhard/signal-cli-rest-api) - Dockerized Signal Messenger REST API
 - [ludviglundgren/qbittorrent-cli](https://github.com/ludviglundgren/qbittorrent-cli) - Cli to manage qBittorrent
-- [darkhz/bluetuith](https://github.com/darkhz/bluetuith) - A TUI bluetooth manager for Linux.
+- [bluetuith-org/bluetuith](https://github.com/bluetuith-org/bluetuith) - A TUI bluetooth manager for Linux.
 - [christianselig/apollo-backend](https://github.com/christianselig/apollo-backend) - Apollo backend server
 - [tomarrell/wrapcheck](https://github.com/tomarrell/wrapcheck) - A Go linter to check that errors from external packages are wrapped
 - [ObolNetwork/charon](https://github.com/ObolNetwork/charon) - Charon (pronounced 'kharon') is a Proof of Stake Ethereum Distributed Validator Client
