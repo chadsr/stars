@@ -1934,7 +1934,7 @@
 - [brandur/redis-cell](https://github.com/brandur/redis-cell) - A Redis module that provides rate limiting in Redis as a single command.
 - [signalapp/libsignal](https://github.com/signalapp/libsignal) - Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.
 - [ethereum-mousse/mousse](https://github.com/ethereum-mousse/mousse) - An Ethereum 2.0 Emulator for Local Testing of Eth2 Applications
-- [informalsystems/tendermint-rs](https://github.com/informalsystems/tendermint-rs) - Client libraries for Tendermint/CometBFT in Rust!
+- [cometbft/tendermint-rs](https://github.com/cometbft/tendermint-rs) - Client libraries for Tendermint/CometBFT in Rust!
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [mimblewimble/grin](https://github.com/mimblewimble/grin) - Minimal implementation of the Mimblewimble protocol.
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
