@@ -112,7 +112,7 @@
 - [OLIMEX/ESP32-EVB](https://github.com/OLIMEX/ESP32-EVB) - ESP32 WiFi / BLE Development board with Ethernet interface, Relays, microSD card
 - [BlockchainCommons/bc-sskr](https://github.com/BlockchainCommons/bc-sskr) - Sharded Secret Key Reconstruction (SSKR) reference library in C
 - [eiln/ane](https://github.com/eiln/ane) - Reverse engineered Linux driver for the Apple Neural Engine (ANE).
-- [francma/wob](https://github.com/francma/wob) - A lightweight overlay volume/backlight/progress/anything bar for Wayland.
+- [francma/wob](https://github.com/francma/wob) - Lightweight overlay volume, brightness (or anything) bar for Wayland
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 - [aido/app-seed-tool](https://github.com/aido/app-seed-tool) - A Ledger application that provides some useful seed management utilities
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon
@@ -353,7 +353,7 @@
 - [Roboron3042/Cyberpunk-Neon](https://github.com/Roboron3042/Cyberpunk-Neon) - Cyberpunk Neon Themes for KDE Plasma, GTK, Telegram, Tilix, Vim, Zim and more.
 - [mipatterson/typedoc-plugin-pages](https://github.com/mipatterson/typedoc-plugin-pages) - A TypeDoc plugin that lets you integrate your own pages into the documentation output
 - [DistributedSystemsWiki/wiki](https://github.com/DistributedSystemsWiki/wiki) - 
-- [EliverLara/Sweet](https://github.com/EliverLara/Sweet) - Light and dark colorful Gtk3.20+ theme
+- [EliverLara/Sweet](https://github.com/EliverLara/Sweet) - Light and dark theme with neon vibes for GNOME
 - [AllienWorks/cryptocoins](https://github.com/AllienWorks/cryptocoins) - Cryptocoins is the most complete vector/webfont icon pack of your favourite cryptocurrencies
 
 ## Clojure 
@@ -1029,7 +1029,7 @@
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
 - [orbitdb/orbitdb](https://github.com/orbitdb/orbitdb) - Peer-to-Peer Databases for the Decentralized Web
-- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [DefiLlama/chainlist](https://github.com/DefiLlama/chainlist) - 
 - [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) - Drafts your next release notes as pull requests are merged into master.
 - [zerodytrash/Simple-YouTube-Age-Restriction-Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass) - A simple browser extension to bypass YouTube's age verification, disable content warnings and watch age restricted videos without having to sign in!
@@ -1241,6 +1241,7 @@
 
 ## Kotlin 
 
+- [android/androidify](https://github.com/android/androidify) - Sample app for Androidify
 - [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
 - [p-lr/MapCompose](https://github.com/p-lr/MapCompose) - A fast, memory efficient Jetpack Compose library to display tiled maps, with support for markers, paths, and rotation.
 - [longforus/MyRomoteControl](https://github.com/longforus/MyRomoteControl) - using esp8266 and aliyun implementation simple remote control for DAC(SMSL SU-9)
@@ -1494,6 +1495,7 @@
 
 ## Python 
 
+- [OKUA1/juvio](https://github.com/OKUA1/juvio) - UV kernel for Jupyter
 - [YUZongmin/semantic-scholar-fastmcp-mcp-server](https://github.com/YUZongmin/semantic-scholar-fastmcp-mcp-server) - A FastMCP server implementation for the Semantic Scholar API, providing comprehensive access to academic paper data, author information, and citation networks.
 - [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) - A Model Context Protocol server for searching and analyzing arXiv papers
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
@@ -1858,7 +1860,7 @@
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [redlib-org/redlib](https://github.com/redlib-org/redlib) - Private front-end for Reddit
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
+- [versotile-org/verso](https://github.com/versotile-org/verso) - Mirror of https://gitlab.com/verso-browser/verso
 - [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
@@ -2130,6 +2132,9 @@
 
 ## TypeScript 
 
+- [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
+- [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
+- [changesets/action](https://github.com/changesets/action) - 
 - [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) - A Model Context Protocol server for converting almost anything to Markdown
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
 - [0xbow-io/privacy-pools-core](https://github.com/0xbow-io/privacy-pools-core) - Privacy Pools by 0xbow is a compliant way to anonymously transact on Ethereum. 0xbow blocks illicit actors to ensure pool integrity.
