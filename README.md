@@ -232,6 +232,7 @@
 
 ## C++ 
 
+- [hyprwm/hyprsunset](https://github.com/hyprwm/hyprsunset) - An application to enable a blue-light filter on Hyprland
 - [bblanchon/ArduinoJson](https://github.com/bblanchon/ArduinoJson) - 📟 JSON library for Arduino and embedded C++. Simple and efficient.
 - [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
 - [jstkdng/ueberzugpp](https://github.com/jstkdng/ueberzugpp) - Drop in replacement for ueberzug written in C++
@@ -267,7 +268,6 @@
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [jellyfin/jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Jellyfin Desktop Client
 - [CrealityOfficial/Ender-3S1](https://github.com/CrealityOfficial/Ender-3S1) - This Source code for Creality Ender-3S1 Series,MCU and Screen
-- [mriscoc/Ender3V2S1](https://github.com/mriscoc/Ender3V2S1) - This is optimized firmware for Ender3 V2/S1 3D printers.
 - [JasonRJ/RAK7200_Helium_Mapper](https://github.com/JasonRJ/RAK7200_Helium_Mapper) - RAK7200 Helium Mapper - S76G SiP (STM32l073RX, SX1276, CXD5603GF)
 - [Xinyuan-LilyGO/T-SIM7600X](https://github.com/Xinyuan-LilyGO/T-SIM7600X) - 
 - [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.
@@ -436,6 +436,7 @@
 
 ## G-code 
 
+- [mriscoc/Ender3V2S1](https://github.com/mriscoc/Ender3V2S1) - This is optimized firmware for Ender3 V2/S1 3D printers.
 - [altLab/photon-resin-calibration](https://github.com/altLab/photon-resin-calibration) - Anycubic Photon - Files and method to quickly find the best latitude exposure settings for any resin or 405nm UV coating
 
 ## GDScript 
@@ -1496,7 +1497,7 @@
 ## Python 
 
 - [OKUA1/juvio](https://github.com/OKUA1/juvio) - UV kernel for Jupyter
-- [YUZongmin/semantic-scholar-fastmcp-mcp-server](https://github.com/YUZongmin/semantic-scholar-fastmcp-mcp-server) - A FastMCP server implementation for the Semantic Scholar API, providing comprehensive access to academic paper data, author information, and citation networks.
+- [zongmin-yu/semantic-scholar-fastmcp-mcp-server](https://github.com/zongmin-yu/semantic-scholar-fastmcp-mcp-server) - A FastMCP server implementation for the Semantic Scholar API, providing comprehensive access to academic paper data, author information, and citation networks.
 - [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) - A Model Context Protocol server for searching and analyzing arXiv papers
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
@@ -2132,6 +2133,7 @@
 
 ## TypeScript 
 
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
 - [changesets/action](https://github.com/changesets/action) - 
