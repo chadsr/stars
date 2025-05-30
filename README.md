@@ -108,6 +108,7 @@
 
 - [ArtsyMacaw/wlogout](https://github.com/ArtsyMacaw/wlogout) - A wayland based logout menu
 - [WillPower3309/swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy!
+- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
 - [OLIMEX/ESP32-EVB](https://github.com/OLIMEX/ESP32-EVB) - ESP32 WiFi / BLE Development board with Ethernet interface, Relays, microSD card
 - [BlockchainCommons/bc-sskr](https://github.com/BlockchainCommons/bc-sskr) - Sharded Secret Key Reconstruction (SSKR) reference library in C
@@ -268,6 +269,7 @@
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [jellyfin/jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Jellyfin Desktop Client
 - [CrealityOfficial/Ender-3S1](https://github.com/CrealityOfficial/Ender-3S1) - This Source code for Creality Ender-3S1 Series,MCU and Screen
+- [mriscoc/Ender3V2S1](https://github.com/mriscoc/Ender3V2S1) - This is optimized firmware for Ender3 V2/S1 3D printers.
 - [JasonRJ/RAK7200_Helium_Mapper](https://github.com/JasonRJ/RAK7200_Helium_Mapper) - RAK7200 Helium Mapper - S76G SiP (STM32l073RX, SX1276, CXD5603GF)
 - [Xinyuan-LilyGO/T-SIM7600X](https://github.com/Xinyuan-LilyGO/T-SIM7600X) - 
 - [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.
@@ -341,6 +343,7 @@
 
 ## CSS 
 
+- [themesberg/flowbite-svelte](https://github.com/themesberg/flowbite-svelte) - Official Svelte components built for Flowbite and Tailwind CSS
 - [nwg-piotr/nwg-shell](https://github.com/nwg-piotr/nwg-shell) - Installer & meta-package for the nwg-shell project: a GTK3-based shell for sway and Hyprland Wayland compositors
 - [mimugmail/opn-repo](https://github.com/mimugmail/opn-repo) - OPNsense repo by mimugmail
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -436,7 +439,6 @@
 
 ## G-code 
 
-- [mriscoc/Ender3V2S1](https://github.com/mriscoc/Ender3V2S1) - This is optimized firmware for Ender3 V2/S1 3D printers.
 - [altLab/photon-resin-calibration](https://github.com/altLab/photon-resin-calibration) - Anycubic Photon - Files and method to quickly find the best latitude exposure settings for any resin or 405nm UV coating
 
 ## GDScript 
@@ -1010,7 +1012,6 @@
 ## JavaScript 
 
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [bokub/rgb-light-card](https://github.com/bokub/rgb-light-card) - 💡 A Home Assistant card for RGB lights
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [mvllow/tailwindcss-safe-area](https://github.com/mvllow/tailwindcss-safe-area) - Tailwind CSS utilities for safe areas
@@ -1499,6 +1500,7 @@
 - [OKUA1/juvio](https://github.com/OKUA1/juvio) - UV kernel for Jupyter
 - [zongmin-yu/semantic-scholar-fastmcp-mcp-server](https://github.com/zongmin-yu/semantic-scholar-fastmcp-mcp-server) - A FastMCP server implementation for the Semantic Scholar API, providing comprehensive access to academic paper data, author information, and citation networks.
 - [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) - A Model Context Protocol server for searching and analyzing arXiv papers
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
 - [nayarsystems/posix_tz_db](https://github.com/nayarsystems/posix_tz_db) - Generates POSIX timezones strings
@@ -2391,6 +2393,7 @@
 
 ## Vue 
 
+- [leoquack/tailwindshades](https://github.com/leoquack/tailwindshades) - Tailwind CSS color shades generator
 - [activist-org/activist](https://github.com/activist-org/activist) - An open-source activism platform
 - [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) - A modern web client for Jellyfin based on Vue
 - [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail) - Mainsail is the popular web interface for managing and controlling 3D printers with Klipper.
@@ -2414,7 +2417,6 @@
 ## Zig 
 
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
-- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 - [electric-capital/crypto-ecosystems](https://github.com/electric-capital/crypto-ecosystems) - A taxonomy for open source cryptocurrency, blockchain, and decentralized ecosystems
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
