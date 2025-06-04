@@ -362,7 +362,6 @@
 ## Clojure 
 
 - [logseq/graph-validator](https://github.com/logseq/graph-validator) - Validate your logseq graphs
-- [chadsr/notes](https://github.com/chadsr/notes) - Public Notes & Research
 - [logseq/rdf-export](https://github.com/logseq/rdf-export) - Export a logseq graph to RDF
 - [dereknheiley/compactyl](https://github.com/dereknheiley/compactyl) - 
 - [thheller/shadow-cljs](https://github.com/thheller/shadow-cljs) - ClojureScript compilation made easy
@@ -455,6 +454,8 @@
 
 ## Go 
 
+- [sstark/nerdshade](https://github.com/sstark/nerdshade) - hyprsunset client to smoothly transition color temperature during sunrise/sunset
+- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
 - [isaacphi/mcp-language-server](https://github.com/isaacphi/mcp-language-server) - mcp-language-server gives MCP enabled clients access semantic tools like get definition, references, rename, and diagnostics.
 - [tumberger/zk-Location](https://github.com/tumberger/zk-Location) - 
 - [google/go-licenses](https://github.com/google/go-licenses) - A lightweight tool to report on the licenses used by a Go package and its dependencies. Highlight! Versioned external URL to licenses can be found at the same time.
@@ -1097,7 +1098,6 @@
 - [ncoop57/code-clippy-vscode](https://github.com/ncoop57/code-clippy-vscode) - VSCode extension for code suggestion
 - [GoogleChrome/workbox](https://github.com/GoogleChrome/workbox) - 📦 Workbox: JavaScript libraries for Progressive Web Apps
 - [Xtrendence/Cryptofolio](https://github.com/Xtrendence/Cryptofolio) - Track your cryptocurrency holdings/portfolio with an open-source web, mobile, and desktop application, along with a self-hosted RESTful API.
-- [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [manojVivek/medium-unlimited](https://github.com/manojVivek/medium-unlimited) - A browser extension to read medium.com articles for free without membership.
 - [automerge/automerge-classic](https://github.com/automerge/automerge-classic) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [stevermeister/dutch-tax-income-calculator-old](https://github.com/stevermeister/dutch-tax-income-calculator-old) - Dutch Tax Income Calculator with AngularJS
@@ -1243,6 +1243,7 @@
 
 ## Kotlin 
 
+- [element-hq/element-x-android](https://github.com/element-hq/element-x-android) - Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose
 - [android/androidify](https://github.com/android/androidify) - Sample app for Androidify
 - [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
 - [p-lr/MapCompose](https://github.com/p-lr/MapCompose) - A fast, memory efficient Jetpack Compose library to display tiled maps, with support for markers, paths, and rotation.
@@ -1497,6 +1498,7 @@
 
 ## Python 
 
+- [cybertheory/AutonomousSphere](https://github.com/cybertheory/AutonomousSphere) - AutonomousSphere is an agentic collaboration server. Agents talk, act, and use tools like teammates. Federated servers form an internet of autonomous teams. Powered by Google’s A2A protocol.
 - [OKUA1/juvio](https://github.com/OKUA1/juvio) - UV kernel for Jupyter
 - [zongmin-yu/semantic-scholar-fastmcp-mcp-server](https://github.com/zongmin-yu/semantic-scholar-fastmcp-mcp-server) - A FastMCP server implementation for the Semantic Scholar API, providing comprehensive access to academic paper data, author information, and citation networks.
 - [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) - A Model Context Protocol server for searching and analyzing arXiv papers
@@ -1564,6 +1566,7 @@
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [ivandokov/phockup](https://github.com/ivandokov/phockup) - Media sorting tool to organize photos and videos from your camera in folders by year, month and day.
 - [dolezsa/thermal_comfort](https://github.com/dolezsa/thermal_comfort) - Thermal Comfort sensor for HA (absolute humidity, heat index, dew point, thermal perception)
+- [nielsfaber/alarmo](https://github.com/nielsfaber/alarmo) - Easy to use alarm system integration for Home Assistant
 - [koying/jellyfin_ha](https://github.com/koying/jellyfin_ha) - Jellyfin integration for Home Assistant
 - [instaloader/instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
 - [redis-stack/redis-stack](https://github.com/redis-stack/redis-stack) - A Redis server with additional database capabilities powered by Redis modules.
@@ -1635,6 +1638,7 @@
 - [pyg-team/pytorch_geometric](https://github.com/pyg-team/pytorch_geometric) - Graph Neural Network Library for PyTorch
 - [dmlc/dgl](https://github.com/dmlc/dgl) - Python package built to ease deep learning on graph, on top of existing DL frameworks.
 - [stellargraph/stellargraph](https://github.com/stellargraph/stellargraph) - StellarGraph - Machine Learning on Graphs
+- [mamba-org/gator](https://github.com/mamba-org/gator) - Conda environment and package management extension from within Jupyter
 - [pathbird/poetry-kernel](https://github.com/pathbird/poetry-kernel) - Python Jupyter kernel using Poetry for reproducible notebooks
 - [kizniche/Mycodo](https://github.com/kizniche/Mycodo) - An environmental monitoring and regulation system
 - [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - Perform data science on data that remains in someone else's server
@@ -1850,6 +1854,7 @@
 
 ## Rust 
 
+- [psi4j/sunsetr](https://github.com/psi4j/sunsetr) - Automatic color temperature controller for hyprsunset
 - [HydroniumLabs/h3o](https://github.com/HydroniumLabs/h3o) - Rust implementation of the H3 geospatial indexing system.
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [oxigraph/oxigraph](https://github.com/oxigraph/oxigraph) - SPARQL graph database
@@ -2228,7 +2233,6 @@
 - [Cookie-AutoDelete/Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
 - [catppuccin/bat](https://github.com/catppuccin/bat) - 🦇️ Soothing pastel theme for Bat
 - [RomRider/apexcharts-card](https://github.com/RomRider/apexcharts-card) - 📈 A Lovelace card to display advanced graphs and charts based on ApexChartsJS for Home Assistant
-- [nielsfaber/alarmo](https://github.com/nielsfaber/alarmo) - Easy to use alarm system integration for Home Assistant
 - [redhat-developer/vscode-yaml](https://github.com/redhat-developer/vscode-yaml) - YAML support for VS Code with built-in kubernetes syntax support
 - [fallenbagel/jellyseerr](https://github.com/fallenbagel/jellyseerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 - [mamba-org/vscode-micromamba](https://github.com/mamba-org/vscode-micromamba) - A VSCode extension to generate development environments using micromamba and conda-forge package repository
@@ -2259,13 +2263,13 @@
 - [trashhalo/logseq-graph-analysis](https://github.com/trashhalo/logseq-graph-analysis) - learn more about the relationships between between your notes using network analysis algorithms
 - [haydenull/logseq-plugin-git](https://github.com/haydenull/logseq-plugin-git) - A git plugin for logseq
 - [Awesome-Technologies/synapse-admin](https://github.com/Awesome-Technologies/synapse-admin) - Admin console for synapse Matrix homeserver
-- [tulir/gomuks](https://github.com/tulir/gomuks) - A Matrix client written in Go.
+- [gomuks/gomuks](https://github.com/gomuks/gomuks) - A Matrix client written in Go.
 - [shazow/whatsabi](https://github.com/shazow/whatsabi) - Extract the ABI (and resolve proxies, and get other metadata) from Ethereum bytecode, even without source code.
 - [DanilaFe/matrix-highlight](https://github.com/DanilaFe/matrix-highlight) - A decentralized and federated way of annotating the web based on Matrix.
 - [sawhney17/logseq-schrodinger](https://github.com/sawhney17/logseq-schrodinger) - A plugin to export pages in Logseq to Hugo.
 - [vikejs/vike](https://github.com/vikejs/vike) - 🔨 The Framework *You* Control – Next.js & Nuxt alternative for unprecedented flexibility and stability.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
-- [teambit/bit](https://github.com/teambit/bit) - A build system for development of composable software.
+- [teambit/bit](https://github.com/teambit/bit) - AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [dineug/erd-editor](https://github.com/dineug/erd-editor) - Entity-Relationship Diagram Editor
 - [matrix-org/matrix-appservice-bridge](https://github.com/matrix-org/matrix-appservice-bridge) - Bridging infrastructure for Application Services
@@ -2287,7 +2291,6 @@
 - [gaslimitreached/foundry-hardhat-template](https://github.com/gaslimitreached/foundry-hardhat-template) - Solidity starter combining foundry and hardhat because both are great and I can't live without either...
 - [TimonVS/pr-labeler-action](https://github.com/TimonVS/pr-labeler-action) - Automatically labels your PRs based on branch name patterns like feature/* or fix/*.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
-- [mamba-org/gator](https://github.com/mamba-org/gator) - Conda environment and package management extension from within Jupyter
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [swdotcom/swdc-vscode](https://github.com/swdotcom/swdc-vscode) - Time-tracking plugin for Visual Studio Code
 - [damienaicheh/update-ios-version-info-plist-action](https://github.com/damienaicheh/update-ios-version-info-plist-action) - 
@@ -2314,6 +2317,7 @@
 - [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter) - VS Code Jupyter extension
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+- [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [hbenl/vscode-test-explorer](https://github.com/hbenl/vscode-test-explorer) - The VS Code Test Explorer extension
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [chenhunghan/lens-ext-invaders](https://github.com/chenhunghan/lens-ext-invaders) - Space Invaders Game for Lens
