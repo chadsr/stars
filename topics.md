@@ -271,6 +271,7 @@
 
 ## ai 
 
+- [cybertheory/AutonomousSphere](https://github.com/cybertheory/AutonomousSphere) - AutonomousSphere is an agentic collaboration server. Agents talk, act, and use tools like teammates. Federated servers form an internet of autonomous teams. Powered by Google’s A2A protocol.
 - [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) - A Model Context Protocol server for converting almost anything to Markdown
 - [isaacphi/mcp-language-server](https://github.com/isaacphi/mcp-language-server) - mcp-language-server gives MCP enabled clients access semantic tools like get definition, references, rename, and diagnostics.
 - [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) - A Model Context Protocol server for searching and analyzing arXiv papers
@@ -369,7 +370,7 @@
 - [lokalise/i18n-ally](https://github.com/lokalise/i18n-ally) - 🌍 All in one i18n extension for VS Code
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
-- [teambit/bit](https://github.com/teambit/bit) - A build system for development of composable software.
+- [teambit/bit](https://github.com/teambit/bit) - AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
 - [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
@@ -459,6 +460,7 @@
 
 ## automation 
 
+- [cybertheory/AutonomousSphere](https://github.com/cybertheory/AutonomousSphere) - AutonomousSphere is an agentic collaboration server. Agents talk, act, and use tools like teammates. Federated servers form an internet of autonomous teams. Powered by Google’s A2A protocol.
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - A GitHub action to create a pull request for changes to your repository in the actions workspace
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
@@ -1760,7 +1762,7 @@
 - [gmhafiz/golang-database-library-orm-example](https://github.com/gmhafiz/golang-database-library-orm-example) - Examples of using various popular database libraries and ORM in Go.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [mautrix/go](https://github.com/mautrix/go) - A Golang Matrix framework.
-- [tulir/gomuks](https://github.com/tulir/gomuks) - A Matrix client written in Go.
+- [gomuks/gomuks](https://github.com/gomuks/gomuks) - A Matrix client written in Go.
 - [gonum/gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [ssbc/go-ssb](https://github.com/ssbc/go-ssb) - Go implementation of ssb (work in progress!)
@@ -1963,6 +1965,7 @@
 
 ## hacktoberfest 
 
+- [element-hq/element-x-android](https://github.com/element-hq/element-x-android) - Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose
 - [activist-org/activist](https://github.com/activist-org/activist) - An open-source activism platform
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
@@ -2325,7 +2328,7 @@
 - [matrix-org/thirdroom](https://github.com/matrix-org/thirdroom) - Open, decentralised, immersive worlds built on Matrix
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
-- [teambit/bit](https://github.com/teambit/bit) - A build system for development of composable software.
+- [teambit/bit](https://github.com/teambit/bit) - AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
 - [YousefED/SyncedStore](https://github.com/YousefED/SyncedStore) - SyncedStore CRDT is an easy-to-use library for building live, collaborative applications that sync automatically.
 - [Trustroots/trustroots](https://github.com/Trustroots/trustroots) - Travellers' community for sharing, hosting and getting people together.
 - [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
@@ -2596,6 +2599,7 @@
 
 ## llm 
 
+- [cybertheory/AutonomousSphere](https://github.com/cybertheory/AutonomousSphere) - AutonomousSphere is an agentic collaboration server. Agents talk, act, and use tools like teammates. Federated servers form an internet of autonomous teams. Powered by Google’s A2A protocol.
 - [zongmin-yu/semantic-scholar-fastmcp-mcp-server](https://github.com/zongmin-yu/semantic-scholar-fastmcp-mcp-server) - A FastMCP server implementation for the Semantic Scholar API, providing comprehensive access to academic paper data, author information, and citation networks.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
@@ -3000,6 +3004,9 @@
 
 ## others 
 
+- [psi4j/sunsetr](https://github.com/psi4j/sunsetr) - Automatic color temperature controller for hyprsunset
+- [sstark/nerdshade](https://github.com/sstark/nerdshade) - hyprsunset client to smoothly transition color temperature during sunrise/sunset
+- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
 - [leoquack/tailwindshades](https://github.com/leoquack/tailwindshades) - Tailwind CSS color shades generator
 - [hyprwm/hyprsunset](https://github.com/hyprwm/hyprsunset) - An application to enable a blue-light filter on Hyprland
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
@@ -3015,7 +3022,6 @@
 - [tumberger/zk-Location](https://github.com/tumberger/zk-Location) - 
 - [YU000jp/logseq-plugin-show-page-date](https://github.com/YU000jp/logseq-plugin-show-page-date) - Displays modification date and time for each page
 - [logseq/graph-validator](https://github.com/logseq/graph-validator) - Validate your logseq graphs
-- [chadsr/notes](https://github.com/chadsr/notes) - Public Notes & Research
 - [patmigliaccio/logseq-archive-webpage](https://github.com/patmigliaccio/logseq-archive-webpage) - Archive URLs directly in Logseq and save locally.
 - [logseq/rdf-export](https://github.com/logseq/rdf-export) - Export a logseq graph to RDF
 - [r0adkll/upload-google-play](https://github.com/r0adkll/upload-google-play) - A GitHub action to upload an Android .apk or .aab file to the Google Play Console
@@ -4323,7 +4329,7 @@
 - [vikejs/vike](https://github.com/vikejs/vike) - 🔨 The Framework *You* Control – Next.js & Nuxt alternative for unprecedented flexibility and stability.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
-- [teambit/bit](https://github.com/teambit/bit) - A build system for development of composable software.
+- [teambit/bit](https://github.com/teambit/bit) - AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
 - [YousefED/SyncedStore](https://github.com/YousefED/SyncedStore) - SyncedStore CRDT is an easy-to-use library for building live, collaborative applications that sync automatically.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 - [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
@@ -4894,7 +4900,7 @@
 - [matrix-org/thirdroom](https://github.com/matrix-org/thirdroom) - Open, decentralised, immersive worlds built on Matrix
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
-- [teambit/bit](https://github.com/teambit/bit) - A build system for development of composable software.
+- [teambit/bit](https://github.com/teambit/bit) - AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
@@ -5012,7 +5018,7 @@
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [vikejs/vike](https://github.com/vikejs/vike) - 🔨 The Framework *You* Control – Next.js & Nuxt alternative for unprecedented flexibility and stability.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
-- [teambit/bit](https://github.com/teambit/bit) - A build system for development of composable software.
+- [teambit/bit](https://github.com/teambit/bit) - AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
 - [YousefED/SyncedStore](https://github.com/YousefED/SyncedStore) - SyncedStore CRDT is an easy-to-use library for building live, collaborative applications that sync automatically.
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
