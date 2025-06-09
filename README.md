@@ -142,7 +142,7 @@
 - [jeremija/wl-gammarelay](https://github.com/jeremija/wl-gammarelay) - A client and daemon for changing color temperature and brightness under Wayland via keybindings.
 - [olikraus/u8g2](https://github.com/olikraus/u8g2) - U8glib library for monochrome displays, version 2
 - [lz4/lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [dlr-eoc/pgh3](https://github.com/dlr-eoc/pgh3) - PostgreSQL extension for the H3 hierarchical geospatial indexing system
 - [o-gs/dji-firmware-tools](https://github.com/o-gs/dji-firmware-tools) - Tools for handling firmwares of DJI products, with focus on quadcopters.
 - [uber/h3](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system
@@ -177,6 +177,7 @@
 - [herpiko/unk](https://github.com/herpiko/unk) - My own version of Ultimate Hacking Keyboard, wired by hand with love.
 - [manna-harbour/crkbd](https://github.com/manna-harbour/crkbd) - Crkbd Keymap by Manna Harbour (Extras).  This keymap includes crkbd-specific hardware feature support.  This repository provides additional content outside QMK.
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
+- [eth-brownie/brownie](https://github.com/eth-brownie/brownie) - A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
 - [swaywm/wlroots](https://github.com/swaywm/wlroots) - A modular Wayland compositor library
 - [any1/wayvnc](https://github.com/any1/wayvnc) - A VNC server for wlroots based Wayland compositors
 - [clbr/radeontop](https://github.com/clbr/radeontop) - 
@@ -233,6 +234,7 @@
 
 ## C++ 
 
+- [luar123/zigbee_esphome](https://github.com/luar123/zigbee_esphome) - External zigbee component
 - [hyprwm/hyprsunset](https://github.com/hyprwm/hyprsunset) - An application to enable a blue-light filter on Hyprland
 - [bblanchon/ArduinoJson](https://github.com/bblanchon/ArduinoJson) - 📟 JSON library for Arduino and embedded C++. Simple and efficient.
 - [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
@@ -1046,7 +1048,6 @@
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
-- [compdemocracy/polis](https://github.com/compdemocracy/polis) - :milky_way: Open Source AI for large scale open ended feedback
 - [storacha/ucanto](https://github.com/storacha/ucanto) - 🐧 UCAN RPC
 - [toger5/TheBoard](https://github.com/toger5/TheBoard) - A collaborative Whiteboard powered by the [matrix] protocol and infrastucture.
 - [xdaluca/devconwiki](https://github.com/xdaluca/devconwiki) - Devcon VI wiki
@@ -1313,6 +1314,7 @@
 
 ## Markdown 
 
+- [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org) - Protect your data against global mass surveillance programs.
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
@@ -1341,6 +1343,7 @@
 
 ## Others 
 
+- [bbbenji/synthwave-hass](https://github.com/bbbenji/synthwave-hass) - Synthwave inspired theme for Home Assistant
 - [ipshipyard/ipfs-deploy-action](https://github.com/ipshipyard/ipfs-deploy-action) - Official IPFS GitHub Action for deploying static sites (or builds) to IPFS nodes/pinning services with CAR files, and addressing site builds with CIDs
 - [semantalytics/awesome-semantic-web](https://github.com/semantalytics/awesome-semantic-web) - A curated list of various semantic web and linked data resources.
 - [sCrypt-Inc/awesome-zero-knowledge-proofs](https://github.com/sCrypt-Inc/awesome-zero-knowledge-proofs) - A curated list of awesome Zero-Knowledge Proofs (ZKP) resources.
@@ -1591,6 +1594,7 @@
 - [JanCBrammer/OpenHRV](https://github.com/JanCBrammer/OpenHRV) - Heart rate variability (HRV) biofeedback with ECG chest straps.
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [oduwsdl/ipwb](https://github.com/oduwsdl/ipwb) - InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS
+- [compdemocracy/polis](https://github.com/compdemocracy/polis) - :milky_way: Open Source AI for large scale open ended feedback
 - [thinkst/opencanary](https://github.com/thinkst/opencanary) - Modular and decentralised honeypot
 - [tjquillan/ulauncher-system](https://github.com/tjquillan/ulauncher-system) - Ulauncher extension to perform various system actions
 - [Eckhoff42/Ulauncher-Bluetooth-quick-connect](https://github.com/Eckhoff42/Ulauncher-Bluetooth-quick-connect) - An extension to Ulauncher making it easy to quickly connect/disconnect to the Bluetooth devices you use the most
@@ -1754,7 +1758,6 @@
 - [cadCAD-org/cadCAD](https://github.com/cadCAD-org/cadCAD) - Design, simulate, validate, and operate within complex systems
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [status-im/vyper-debug](https://github.com/status-im/vyper-debug) - Easy to use Vyper debugger | vdb (https://github.com/ethereum/vyper)
-- [eth-brownie/brownie](https://github.com/eth-brownie/brownie) - A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
 - [jafermarq/arXiv2Txt](https://github.com/jafermarq/arXiv2Txt) - Having access to thousands of publications via http://arxiv.org is great but when downloading a paper the title of the .pdf document always comes in the form "1234.56789.pdf" or similar. That file nam
 - [uunicorn/python-validity](https://github.com/uunicorn/python-validity) - Validity fingerprint sensor prototype
 - [MBKraus/Predicting_real_estate_prices_using_scikit-learn](https://github.com/MBKraus/Predicting_real_estate_prices_using_scikit-learn) - Predicting Amsterdam house / real estate prices using Ordinary Least Squares-, XGBoost-, KNN-, Lasso-, Ridge-, Polynomial-, Random Forest-, and Neural Network MLP Regression (via scikit-learn)
@@ -1854,7 +1857,7 @@
 
 ## Rust 
 
-- [psi4j/sunsetr](https://github.com/psi4j/sunsetr) - Automatic color temperature controller for hyprsunset
+- [psi4j/sunsetr](https://github.com/psi4j/sunsetr) - Automatic blue light filter for Hyprland, niri, and Wayland compositors
 - [HydroniumLabs/h3o](https://github.com/HydroniumLabs/h3o) - Rust implementation of the H3 geospatial indexing system.
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [oxigraph/oxigraph](https://github.com/oxigraph/oxigraph) - SPARQL graph database
@@ -2105,7 +2108,6 @@
 
 ## Svelte 
 
-- [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
 - [Figma-Linux/figma-linux](https://github.com/Figma-Linux/figma-linux) - Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux
 - [oddsdk/odd-app-template](https://github.com/oddsdk/odd-app-template) - A sveltekit web app template for the ODD SDK.
 - [ucan-wg/ucan-community-web](https://github.com/ucan-wg/ucan-community-web) - UCAN community site
@@ -2156,6 +2158,7 @@
 - [onlxltd/bonjour-service](https://github.com/onlxltd/bonjour-service) - A Bonjour/Zeroconf protocol implementation in TypeScript
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
+- [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo) - GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
@@ -2240,7 +2243,7 @@
 - [sigp/siren](https://github.com/sigp/siren) - User interface for Lighthouse
 - [zokugun/vscode-sync-settings](https://github.com/zokugun/vscode-sync-settings) - Easily synchronize your settings
 - [lost-pixel/lost-pixel](https://github.com/lost-pixel/lost-pixel) - Open source alternative to Percy, Chromatic, Applitools.
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encryption), share parts of it to global network of topics with deep AI integration
 - [cursorless-dev/cursorless](https://github.com/cursorless-dev/cursorless) - Don't let the cursor slow you down
 - [libp2p/js-libp2p-webrtc](https://github.com/libp2p/js-libp2p-webrtc) - 
 - [ucan-wg/ts-ucan](https://github.com/ucan-wg/ts-ucan) - Auth tokens for a distributed, user-controlled world
