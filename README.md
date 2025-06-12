@@ -864,7 +864,7 @@
 - [leesper/go_rng](https://github.com/leesper/go_rng) - A pseudo-random number generator wriiten in Golang
 - [sasha-s/go-deadlock](https://github.com/sasha-s/go-deadlock) - Online deadlock detection in go (golang)
 - [rcrowley/go-metrics](https://github.com/rcrowley/go-metrics) - Go port of Coda Hale's Metrics library
-- [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
+- [urfave/cli](https://github.com/urfave/cli) - A declarative, simple, fast, and fun package for building command line tools in Go
 - [chadsr/swarm](https://github.com/chadsr/swarm) - Swarm: Censorship resistant storage and communication infrastructure for a truly sovereign digital society
 - [chadsr/go-ethereum](https://github.com/chadsr/go-ethereum) - Official Go implementation of the Ethereum protocol
 - [tuneinsight/lattigo](https://github.com/tuneinsight/lattigo) - A library for lattice-based multiparty homomorphic encryption in Go
