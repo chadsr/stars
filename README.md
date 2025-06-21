@@ -130,6 +130,7 @@
 - [darkxst/silabs-firmware-builder](https://github.com/darkxst/silabs-firmware-builder) - Silicon Labs firmware builder
 - [LukashonakV/cava](https://github.com/LukashonakV/cava) - Cross-platform Audio Visualizer
 - [mriscoc/Special_Configurations](https://github.com/mriscoc/Special_Configurations) - In this repository there are the configuration files and releases for the Professional firmware with several features enabled. You can use the Configurator if you want to compile your own custom set o
+- [GameTec-live/ChameleonUltraGUI](https://github.com/GameTec-live/ChameleonUltraGUI) - A GUI for the Chameleon Ultra written in Flutter for crossplatform
 - [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
 - [Klipper3d/klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware
 - [GraphBLAS/LAGraph](https://github.com/GraphBLAS/LAGraph) - This is a library plus a test harness for collecting algorithms that use the GraphBLAS.  For test coverage reports, see https://graphblas.org/LAGraph/ . Documentation: https://lagraph.readthedocs.org
@@ -387,7 +388,6 @@
 
 ## Dart 
 
-- [GameTec-live/ChameleonUltraGUI](https://github.com/GameTec-live/ChameleonUltraGUI) - A GUI for the Chameleon Ultra written in Flutter for crossplatform
 - [flutter-mapbox-gl/maps](https://github.com/flutter-mapbox-gl/maps) - A Mapbox GL flutter package for creating custom maps
 - [syphon-org/syphon](https://github.com/syphon-org/syphon) - ⚗️  a privacy centric matrix client
 - [xclud/web3dart](https://github.com/xclud/web3dart) - Ethereum library, written in Dart.
@@ -1007,7 +1007,7 @@
 - [TheAkki/Synctool](https://github.com/TheAkki/Synctool) - Syncronize between Smartphone and Server
 - [VladThodo/behe-keyboard](https://github.com/VladThodo/behe-keyboard) - A lightweight hacking & programming keyboard with material design
 - [me-no-dev/EspExceptionDecoder](https://github.com/me-no-dev/EspExceptionDecoder) - Exception Stack Trace Decoder for ESP8266 and ESP32
-- [SmartDataAnalytics/OWL2SPARQL](https://github.com/SmartDataAnalytics/OWL2SPARQL) - OWL To SPARQL Query Rewriter
+- [AKSW/OWL2SPARQL](https://github.com/AKSW/OWL2SPARQL) - OWL To SPARQL Query Rewriter
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [tinkerpop/gremlin](https://github.com/tinkerpop/gremlin) - A Graph Traversal Language (no longer active - see Apache TinkerPop)
 
@@ -2027,7 +2027,7 @@
 - [nanasess/setup-chromedriver](https://github.com/nanasess/setup-chromedriver) - ChromeDriver for use in GitHub Actions
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
 - [z-shell/zi](https://github.com/z-shell/zi) - ✨ A Swiss Army Knife for Zsh - Unix Shell
-- [eth-educators/eth-docker](https://github.com/eth-educators/eth-docker) - Docker automation for Ethereum nodes
+- [ethstaker/eth-docker](https://github.com/ethstaker/eth-docker) - Docker automation for Ethereum nodes
 - [Automattic/matrix-env](https://github.com/Automattic/matrix-env) - Matrix.org sandbox, using Docker Compose
 - [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch) - A collection of Arch Linux PKGBUILDS for the ROCm platform
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
