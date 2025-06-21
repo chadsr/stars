@@ -3201,7 +3201,7 @@
 - [nanasess/setup-chromedriver](https://github.com/nanasess/setup-chromedriver) - ChromeDriver for use in GitHub Actions
 - [wayou/vscode-todo-highlight](https://github.com/wayou/vscode-todo-highlight) - a vscode extension to highlighting todos, fixmes, and any annotations...
 - [sigp/siren](https://github.com/sigp/siren) - User interface for Lighthouse
-- [eth-educators/eth-docker](https://github.com/eth-educators/eth-docker) - Docker automation for Ethereum nodes
+- [ethstaker/eth-docker](https://github.com/ethstaker/eth-docker) - Docker automation for Ethereum nodes
 - [ddangelov/Top2Vec](https://github.com/ddangelov/Top2Vec) - Top2Vec learns jointly embedded topic, document and word vectors.
 - [bluesky-social/atproto-ecosystem](https://github.com/bluesky-social/atproto-ecosystem) - list of projects and implementations in the AT protocol ecosystem
 - [everythingishacked/Truthsayer](https://github.com/everythingishacked/Truthsayer) - Remote lie detector and heart rate monitor
@@ -3877,7 +3877,7 @@
 - [zignig/cohort](https://github.com/zignig/cohort) - Threejs browser server for IPFS assets
 - [notro/rpi-source](https://github.com/notro/rpi-source) - Development has moved to https://github.com/RPi-Distro/rpi-source
 - [gsi-upm/sematch](https://github.com/gsi-upm/sematch) - semantic similarity framework for knowledge graph
-- [SmartDataAnalytics/OWL2SPARQL](https://github.com/SmartDataAnalytics/OWL2SPARQL) - OWL To SPARQL Query Rewriter
+- [AKSW/OWL2SPARQL](https://github.com/AKSW/OWL2SPARQL) - OWL To SPARQL Query Rewriter
 - [tinkerpop/gremlin](https://github.com/tinkerpop/gremlin) - A Graph Traversal Language (no longer active - see Apache TinkerPop)
 - [joernweissenborn/eventual2go](https://github.com/joernweissenborn/eventual2go) - Streams and Futures for Go.
 - [golang-ui/nuklear](https://github.com/golang-ui/nuklear) - This project provides Go bindings for nuklear.h — a small ANSI C GUI library.
