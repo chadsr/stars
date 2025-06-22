@@ -440,6 +440,7 @@
 ## G-code 
 
 - [altLab/photon-resin-calibration](https://github.com/altLab/photon-resin-calibration) - Anycubic Photon - Files and method to quickly find the best latitude exposure settings for any resin or 405nm UV coating
+- [josefadamcik/SofleKeyboard](https://github.com/josefadamcik/SofleKeyboard) - A split keyboard based on Lily58, Crkbd and Helix keyboards
 
 ## GDScript 
 
@@ -1420,7 +1421,6 @@
 - [tokyo-night/tokyo-night-vscode-theme](https://github.com/tokyo-night/tokyo-night-vscode-theme) - A clean, dark Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.
 - [eendroroy/alacritty-theme](https://github.com/eendroroy/alacritty-theme) - Collection of Alacritty color schemes
 - [splitkb/kyria](https://github.com/splitkb/kyria) - Files related to the Kyria keyboard.
-- [josefadamcik/SofleKeyboard](https://github.com/josefadamcik/SofleKeyboard) - A split keyboard based on Lily58, Crkbd and Helix keyboards
 - [kgryte/awesome-peer-to-peer](https://github.com/kgryte/awesome-peer-to-peer) - A list of peer-to-peer resources.
 - [libp2p/go-libp2p-examples](https://github.com/libp2p/go-libp2p-examples) - Example libp2p applications
 - [libp2p/js-libp2p-examples](https://github.com/libp2p/js-libp2p-examples) - Examples for the JS implementation of libp2p
