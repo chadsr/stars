@@ -1984,7 +1984,7 @@
 - [manuels/wireguard-p2p](https://github.com/manuels/wireguard-p2p) - A tool for setting up WireGuard connections from peer to peer.
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
 - [spacemeshos/svm](https://github.com/spacemeshos/svm) - SVM - Spacemesh Virtual Machine
-- [CosmWasm/cosmwasm](https://github.com/CosmWasm/cosmwasm) - Framework for building smart contracts in Wasm for the Cosmos SDK
+- [CosmWasm/cosmwasm](https://github.com/CosmWasm/cosmwasm) - Framework for building smart contracts in WebAssmebly for the Cosmos SDK
 - [ekiden/ekiden](https://github.com/ekiden/ekiden) - Confidentiality-Preserving Smart Contract Platform
 - [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p) - The Rust Implementation of the libp2p networking stack.
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust
@@ -2148,6 +2148,7 @@
 
 ## TypeScript 
 
+- [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [nicdun/logseq-kindle-import](https://github.com/nicdun/logseq-kindle-import) - A plugin that lets you import your kindle highlights which have been created on your kindle, kindle app on mobile or other devices.
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
