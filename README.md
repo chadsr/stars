@@ -236,6 +236,8 @@
 
 ## C++ 
 
+- [horriblename/hyprgrass](https://github.com/horriblename/hyprgrass) - hyprland plugin for touch screen gestures
+- [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope) - SteamOS session compositing window manager
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [hyprwm/hyprsunset](https://github.com/hyprwm/hyprsunset) - An application to enable a blue-light filter on Hyprland
 - [bblanchon/ArduinoJson](https://github.com/bblanchon/ArduinoJson) - 📟 JSON library for Arduino and embedded C++. Simple and efficient.
@@ -413,7 +415,6 @@
 
 - [pangeo-data/pangeo-docker-images](https://github.com/pangeo-data/pangeo-docker-images) - Docker Images For Pangeo Jupyter Environment
 - [OctoPrint/octoprint-docker](https://github.com/OctoPrint/octoprint-docker) - The dockerized snappy web interface for your 3D printer!
-- [reviewdog/action-pytest](https://github.com/reviewdog/action-pytest) - (WIP) Run pytest with Reviewdog :dog:
 - [linuxserver/docker-code-server](https://github.com/linuxserver/docker-code-server) - 
 - [caddyserver/caddy-docker](https://github.com/caddyserver/caddy-docker) - Source for the official Caddy v2 Docker Image
 - [yobasystems/alpine-caddy](https://github.com/yobasystems/alpine-caddy) - Caddy running on Alpine Linux [Docker]
@@ -458,6 +459,7 @@
 
 ## Go 
 
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [icyflame/kindle-my-clippings-parser](https://github.com/icyflame/kindle-my-clippings-parser) - A set of commands and libraries that can be used to parse the "My Clippings.txt" file inside Amazon's Kindle eReaders
 - [sstark/nerdshade](https://github.com/sstark/nerdshade) - hyprsunset client to smoothly transition color temperature during sunrise/sunset
 - [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
@@ -583,7 +585,7 @@
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
-- [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
+- [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
 - [alicebob/miniredis](https://github.com/alicebob/miniredis) - Pure Go Redis server for Go unittests
 - [gocopper/copper](https://github.com/gocopper/copper) - 🚀‏‏‎    ‎‏‏‎‏‏‎‎‎‎‎‎Copper is a Go toolkit complete with everything you need to build web apps.
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
@@ -881,14 +883,13 @@
 - [siongui/go-succinct-data-structure-trie](https://github.com/siongui/go-succinct-data-structure-trie) - Succinct Data Structure of Trie, written in Go
 - [storj/storj](https://github.com/storj/storj) - Ongoing Storj v3 development. Decentralized cloud object storage that is affordable, easy to use, private, and secure.
 - [ethersphere/swarm](https://github.com/ethersphere/swarm) - Swarm: Censorship resistant storage and communication infrastructure for a truly sovereign digital society
-- [katzenpost/catshadow](https://github.com/katzenpost/catshadow) - katzenpost mix network encrypted messaging client library
 - [libp2p/go-tcp-transport](https://github.com/libp2p/go-tcp-transport) - An implementation of a libp2p transport using tcp
 - [chrissnell/weather-bar](https://github.com/chrissnell/weather-bar) - Pull weather reports from NOAA and Weather Underground and display them in a desktop bar like polybar or lemonbar
 - [Rudd-O/rattlesnakeos-build](https://github.com/Rudd-O/rattlesnakeos-build) - Build your RattlesnakeOS images with your Jenkins instance.
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
 - [nictuku/dht](https://github.com/nictuku/dht) - Kademlia/Mainline DHT node in Go.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [docker/compose-on-kubernetes](https://github.com/docker/compose-on-kubernetes) - Deploy applications described in Compose onto Kubernetes clusters
+- [docker-archive-public/docker.compose-on-kubernetes](https://github.com/docker-archive-public/docker.compose-on-kubernetes) - Deploy applications described in Compose onto Kubernetes clusters
 - [isacikgoz/tldr](https://github.com/isacikgoz/tldr) - fast and interactive tldr client written with  go
 - [nolash/ethereum-samples](https://github.com/nolash/ethereum-samples) - Some code examples from different parts of the ethereum stack
 - [vuvuzela/vuvuzela](https://github.com/vuvuzela/vuvuzela) - Private messaging system that hides metadata
@@ -959,6 +960,7 @@
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [fission-codes/fission](https://github.com/fission-codes/fission) - Fission CLI & server
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [Copilot-Language/copilot](https://github.com/Copilot-Language/copilot) - A stream-based runtime-verification framework for generating hard real-time C code.
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [fossas/fossa-cli](https://github.com/fossas/fossa-cli) - Fast, portable and reliable dependency analysis for any codebase.  Supports license & vulnerability scanning for large monoliths.  Language-agnostic; integrates with 20+ build systems.
@@ -1270,7 +1272,6 @@
 - [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
 - [matrix-org/matrix-android-sdk2](https://github.com/matrix-org/matrix-android-sdk2) - Matrix SDK for Android, extracted from the Element Android application
-- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [element-hq/element-android](https://github.com/element-hq/element-android) - A Matrix collaboration client for Android.
 - [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat
 - [ptrpaws/vrLauncher](https://github.com/ptrpaws/vrLauncher) - Allows you to launch various /hidden/ options of the Oculus Quest (2)
@@ -1527,7 +1528,7 @@
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [juftin/hatch-pip-compile](https://github.com/juftin/hatch-pip-compile) - hatch plugin to use pip-compile (or uv) to manage project dependencies and lockfiles
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
 - [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [bigcode-project/starcoder2](https://github.com/bigcode-project/starcoder2) - Home of StarCoder2!
@@ -1861,6 +1862,7 @@
 
 ## Rust 
 
+- [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [psi4j/sunsetr](https://github.com/psi4j/sunsetr) - Automatic blue light filter for Hyprland, Niri, and everything Wayland
 - [HydroniumLabs/h3o](https://github.com/HydroniumLabs/h3o) - Rust implementation of the H3 geospatial indexing system.
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
@@ -2147,6 +2149,7 @@
 
 ## TypeScript 
 
+- [EventSource/eventsource](https://github.com/EventSource/eventsource) - EventSource client for Node.js, browsers and other JavaScript runtimes
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [nicdun/logseq-kindle-import](https://github.com/nicdun/logseq-kindle-import) - A plugin that lets you import your kindle highlights which have been created on your kindle, kindle app on mobile or other devices.
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
@@ -2213,7 +2216,7 @@
 - [muratgozel/MIMEText](https://github.com/muratgozel/MIMEText) - RFC-5322 compliant, fully typed and documented email message generator for javascript runtimes.
 - [FullHuman/purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of rules, tools, and models
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [phamfoo/figma-squircle](https://github.com/phamfoo/figma-squircle) - Figma-flavored squircles for everyone
