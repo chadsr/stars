@@ -1095,7 +1095,7 @@
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [squad303/squad303app](https://github.com/squad303/squad303app) - 
 - [mirgj/cryptocurrency-icons-font](https://github.com/mirgj/cryptocurrency-icons-font) - A webfont for cryptocurrency symbols
-- [dvlden/ultrawideo-v2](https://github.com/dvlden/ultrawideo-v2) - Upscale or stretch any video on the web, to make it look great on UltraWide screens.
+- [nonwip/ultrawideo-v2](https://github.com/nonwip/ultrawideo-v2) - Upscale or stretch any video on the web, to make it look great on UltraWide screens.
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
 - [remarkjs/remark-lint](https://github.com/remarkjs/remark-lint) - plugins to check (lint) markdown code style
 - [fastify/fastify-helmet](https://github.com/fastify/fastify-helmet) - Important security headers for Fastify
