@@ -417,6 +417,7 @@
 
 ## Dockerfile 
 
+- [chadsr/ovsc-server](https://github.com/chadsr/ovsc-server) - Custom openvscode-server image
 - [pangeo-data/pangeo-docker-images](https://github.com/pangeo-data/pangeo-docker-images) - Docker Images For Pangeo Jupyter Environment
 - [OctoPrint/octoprint-docker](https://github.com/OctoPrint/octoprint-docker) - The dockerized snappy web interface for your 3D printer!
 - [linuxserver/docker-code-server](https://github.com/linuxserver/docker-code-server) - 
@@ -463,6 +464,8 @@
 
 ## Go 
 
+- [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) - A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode.
+- [tiagorlampert/CHAOS](https://github.com/tiagorlampert/CHAOS) - :fire: CHAOS is a free and open-source Remote Administration Tool that allow generate binaries to control remote operating systems.
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [icyflame/kindle-my-clippings-parser](https://github.com/icyflame/kindle-my-clippings-parser) - A set of commands and libraries that can be used to parse the "My Clippings.txt" file inside Amazon's Kindle eReaders
 - [sstark/nerdshade](https://github.com/sstark/nerdshade) - hyprsunset client to smoothly transition color temperature during sunrise/sunset
@@ -864,7 +867,7 @@
 - [sasha-s/go-IBLT](https://github.com/sasha-s/go-IBLT) - implements invertible bloom filters in golang
 - [SheldonZhong/go-IBLT](https://github.com/SheldonZhong/go-IBLT) - A go implementation of invertible bloom lookup table
 - [libp2p/go-libp2p-quic-transport](https://github.com/libp2p/go-libp2p-quic-transport) - An implementation of a libp2p transport using QUIC
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure Go
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) - A production-ready QUIC implementation in pure Go
 - [kelindar/binary](https://github.com/kelindar/binary) - Generic and fast binary serializer for Go
 - [hideo55/go-sbvector](https://github.com/hideo55/go-sbvector) - Succinct Bit Vector implementation for Go.
 - [seiflotfy/cuckoofilter](https://github.com/seiflotfy/cuckoofilter) - Cuckoo Filter: Practically Better Than Bloom
@@ -1350,6 +1353,7 @@
 
 ## Others 
 
+- [melontini/bootloader-unlock-wall-of-shame](https://github.com/melontini/bootloader-unlock-wall-of-shame) - Keeping track of companies that "care about your data 🥺"
 - [bbbenji/synthwave-hass](https://github.com/bbbenji/synthwave-hass) - Synthwave inspired theme for Home Assistant
 - [ipshipyard/ipfs-deploy-action](https://github.com/ipshipyard/ipfs-deploy-action) - Official IPFS GitHub Action for deploying static sites (or builds) to IPFS nodes/pinning services with CAR files, and addressing site builds with CIDs
 - [semantalytics/awesome-semantic-web](https://github.com/semantalytics/awesome-semantic-web) - A curated list of various semantic web and linked data resources.
@@ -2157,6 +2161,7 @@
 
 ## TypeScript 
 
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [digidem/comapeo-mobile](https://github.com/digidem/comapeo-mobile) - The next version of Mapeo mobile
 - [EventSource/eventsource](https://github.com/EventSource/eventsource) - EventSource client for Node.js, browsers and other JavaScript runtimes
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
