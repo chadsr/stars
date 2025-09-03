@@ -47,6 +47,7 @@
 - [Markdown](#markdown)
 - [Meson](#meson)
 - [Modelica](#modelica)
+- [Mustache](#mustache)
 - [Nix](#nix)
 - [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
@@ -66,7 +67,6 @@
 - [Sass](#sass)
 - [Scala](#scala)
 - [Shell](#shell)
-- [Smarty](#smarty)
 - [Solidity](#solidity)
 - [Svelte](#svelte)
 - [Swift](#swift)
@@ -1344,6 +1344,10 @@
 
 - [OpenModelica/OpenModelica](https://github.com/OpenModelica/OpenModelica) - OpenModelica is an open-source Modelica-based modeling and simulation environment intended for industrial and academic usage.
 
+## Mustache 
+
+- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster
+
 ## Nix 
 
 - [dapphub/dappsys](https://github.com/dapphub/dappsys) - Composable building blocks for Ethereum contracts
@@ -2120,10 +2124,6 @@
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these serv
 - [diglos/pi-gen](https://github.com/diglos/pi-gen) - Tool used to create the raspberrypi.org Raspbian images
 - [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
-
-## Smarty 
-
-- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster
 
 ## Solidity 
 
