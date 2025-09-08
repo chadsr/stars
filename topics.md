@@ -100,6 +100,7 @@
 - [game](#game)
 - [game-development](#game-development)
 - [games](#games)
+- [gaming](#gaming)
 - [gis](#gis)
 - [git](#git)
 - [github](#github)
@@ -1402,7 +1403,7 @@
 - [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm) - Go implementation of Ethereum proof of stake
 - [lorenzb/libsubmarine](https://github.com/lorenzb/libsubmarine) - Implementation of a novel practical scheme for submarine commitments
 - [cosmos/ethermint](https://github.com/cosmos/ethermint) - Ethermint is a scalable and interoperable Ethereum, built on Proof-of-Stake with fast-finality using the Cosmos SDK.
-- [privacy-scaling-explorations/maci](https://github.com/privacy-scaling-explorations/maci) - Minimal Anti-Collusion Infrastructure (MACI)
+- [privacy-ethereum/maci](https://github.com/privacy-ethereum/maci) - Minimal Anti-Collusion Infrastructure (MACI)
 - [miguelmota/ethereum-development-with-go-book](https://github.com/miguelmota/ethereum-development-with-go-book) - 📖 A little guide book on Ethereum Development with Go (golang)
 - [hunterlong/gethexporter](https://github.com/hunterlong/gethexporter) - Monitor your Geth Ethereum Server with Prometheus and Grafana
 - [Zokrates/ZoKrates](https://github.com/Zokrates/ZoKrates) - A toolbox for zkSNARKs on Ethereum
@@ -1537,6 +1538,11 @@
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
 - [sonic2kk/steamtinkerlaunch](https://github.com/sonic2kk/steamtinkerlaunch) - Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs
 
+## gaming 
+
+- [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
+- [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
+
 ## gis 
 
 - [CesiumGS/3d-tiles](https://github.com/CesiumGS/3d-tiles) - Specification for streaming massive heterogeneous 3D geospatial datasets :earth_americas:
@@ -1567,7 +1573,7 @@
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: The Dropbox like web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
@@ -1582,7 +1588,7 @@
 ## github 
 
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
-- [ipshipyard/ipfs-deploy-action](https://github.com/ipshipyard/ipfs-deploy-action) - Official IPFS GitHub Action for deploying static sites (or builds) to IPFS nodes/pinning services with CAR files, and addressing site builds with CIDs
+- [ipfs/ipfs-deploy-action](https://github.com/ipfs/ipfs-deploy-action) - Official IPFS GitHub Action for deploying static sites (or builds) to IPFS nodes/pinning services with CAR files, and addressing site builds with CIDs
 - [ChristopherHX/github-act-runner](https://github.com/ChristopherHX/github-act-runner) - act as self-hosted runner
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [TimonVS/pr-labeler-action](https://github.com/TimonVS/pr-labeler-action) - Automatically labels your PRs based on branch name patterns like feature/* or fix/*.
@@ -2312,7 +2318,7 @@
 
 ## ipfs 
 
-- [ipshipyard/ipfs-deploy-action](https://github.com/ipshipyard/ipfs-deploy-action) - Official IPFS GitHub Action for deploying static sites (or builds) to IPFS nodes/pinning services with CAR files, and addressing site builds with CIDs
+- [ipfs/ipfs-deploy-action](https://github.com/ipfs/ipfs-deploy-action) - Official IPFS GitHub Action for deploying static sites (or builds) to IPFS nodes/pinning services with CAR files, and addressing site builds with CIDs
 - [ipfs/ipfs-webui](https://github.com/ipfs/ipfs-webui) - A frontend for an IPFS Kubo and IPFS Desktop
 - [tabcat/zzzync](https://github.com/tabcat/zzzync) - sync with peers that have gone to sleep 😴
 - [orbitdb/orbitdb](https://github.com/orbitdb/orbitdb) - Peer-to-Peer Databases for the Decentralized Web
@@ -3153,7 +3159,7 @@
 - [mercenaruss/zigstar_addons](https://github.com/mercenaruss/zigstar_addons) - Home Assistant add-ons for Flashing ZigStar Devices
 - [jcwillox/hass-auto-backup](https://github.com/jcwillox/hass-auto-backup) - 🗃️ Improved Backup Service for Home Assistant that can Automatically Remove Backups and Supports Generational Backup Schemes.
 - [iden3/circom](https://github.com/iden3/circom) - zkSnark circuit compiler
-- [privacy-scaling-explorations/chiquito](https://github.com/privacy-scaling-explorations/chiquito) - DSL for Halo2 circuits
+- [privacy-ethereum/chiquito](https://github.com/privacy-ethereum/chiquito) - DSL for Halo2 circuits
 - [Nexus-Mods/NexusMods.App](https://github.com/Nexus-Mods/NexusMods.App) - Home of the development of the Nexus Mods App
 - [starkware-libs/cairo](https://github.com/starkware-libs/cairo) - Cairo is the first Turing-complete language for creating provable programs for general computation.
 - [zkCollective/zk-Harness](https://github.com/zkCollective/zk-Harness) - Benchmarking framework for general purpose zero-knowledge proofs languages and libraries
@@ -3372,7 +3378,7 @@
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
 - [caarlos0/httperr](https://github.com/caarlos0/httperr) - func(w http.ResponseWriter, r *http.Request) error
 - [Automattic/matrix-env](https://github.com/Automattic/matrix-env) - Matrix.org sandbox, using Docker Compose
-- [privacy-scaling-explorations/zk-eigentrust](https://github.com/privacy-scaling-explorations/zk-eigentrust) - EigenTrust - A distributed reputation system
+- [privacy-ethereum/zk-eigentrust](https://github.com/privacy-ethereum/zk-eigentrust) - EigenTrust - A distributed reputation system
 - [exercism/exercism](https://github.com/exercism/exercism) - Crowd-sourced code mentorship. Practice having thoughtful conversations about code.
 - [cockroachdb/copyist](https://github.com/cockroachdb/copyist) - Mocking your SQL database in Go tests has never been easier.
 - [SirHades696/TokyoNight-Ulauncher-Theme](https://github.com/SirHades696/TokyoNight-Ulauncher-Theme) - TokyoNight theme for Ulauncher
@@ -4780,7 +4786,7 @@
 - [eth-brownie/brownie](https://github.com/eth-brownie/brownie) - A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
 - [0xjac/ERC777](https://github.com/0xjac/ERC777) - New Standard for Ethereum Token
 - [lorenzb/libsubmarine](https://github.com/lorenzb/libsubmarine) - Implementation of a novel practical scheme for submarine commitments
-- [privacy-scaling-explorations/maci](https://github.com/privacy-scaling-explorations/maci) - Minimal Anti-Collusion Infrastructure (MACI)
+- [privacy-ethereum/maci](https://github.com/privacy-ethereum/maci) - Minimal Anti-Collusion Infrastructure (MACI)
 - [miguelmota/ethereum-development-with-go-book](https://github.com/miguelmota/ethereum-development-with-go-book) - 📖 A little guide book on Ethereum Development with Go (golang)
 - [ConsenSysDiligence/mythril](https://github.com/ConsenSysDiligence/mythril) - Mythril is a symbolic-execution-based securty analysis tool for EVM bytecode. It detects security vulnerabilities in smart contracts built for Ethereum and other EVM-compatible blockchains.
 - [liamzebedee/awesome-solidity-patterns](https://github.com/liamzebedee/awesome-solidity-patterns) - 🚀Awesome Solidity patterns to make life easier ✌️
@@ -4846,6 +4852,7 @@
 
 ## svelte 
 
+- [chadsr/sveltekit-capacitor-starter](https://github.com/chadsr/sveltekit-capacitor-starter) - A (slightly opinionated) starter template for SvelteKit/Capacitor/Tailwind/Typescript projects
 - [themesberg/flowbite-svelte](https://github.com/themesberg/flowbite-svelte) - Official Svelte components built for Flowbite and Tailwind CSS
 - [svecosystem/runed](https://github.com/svecosystem/runed) - Magical utilities for your Svelte applications.
 - [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
@@ -4888,6 +4895,7 @@
 
 ## tailwind 
 
+- [chadsr/sveltekit-capacitor-starter](https://github.com/chadsr/sveltekit-capacitor-starter) - A (slightly opinionated) starter template for SvelteKit/Capacitor/Tailwind/Typescript projects
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
 - [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense) - Intelligent Tailwind CSS tooling for Visual Studio Code
 - [mikestefanello/pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit and admin panel in Go
@@ -4895,6 +4903,7 @@
 
 ## tailwindcss 
 
+- [chadsr/sveltekit-capacitor-starter](https://github.com/chadsr/sveltekit-capacitor-starter) - A (slightly opinionated) starter template for SvelteKit/Capacitor/Tailwind/Typescript projects
 - [themesberg/flowbite-svelte](https://github.com/themesberg/flowbite-svelte) - Official Svelte components built for Flowbite and Tailwind CSS
 - [activist-org/activist](https://github.com/activist-org/activist) - An open-source activism platform
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
@@ -5062,7 +5071,7 @@
 - [typestack/class-transformer](https://github.com/typestack/class-transformer) - Decorator-based transformation, serialization, and deserialization between objects and classes.
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [loopbackio/loopback-next](https://github.com/loopbackio/loopback-next) - LoopBack makes it easy to build modern API applications that require complex integrations.
-- [privacy-scaling-explorations/maci](https://github.com/privacy-scaling-explorations/maci) - Minimal Anti-Collusion Infrastructure (MACI)
+- [privacy-ethereum/maci](https://github.com/privacy-ethereum/maci) - Minimal Anti-Collusion Infrastructure (MACI)
 - [chadsr/ross.ch](https://github.com/chadsr/ross.ch) - My personal website
 - [franklintarter/node-medium-feed](https://github.com/franklintarter/node-medium-feed) - Fetches data from the public Medium JSON feed, parses publication and story data into usable JavaScript objects, and creates a Markdown version of the Story
 - [javieraviles/node-typescript-koa-rest](https://github.com/javieraviles/node-typescript-koa-rest) - REST API boilerplate using NodeJS and KOA2, typescript. Logging and JWT as middlewares. TypeORM with class-validator, SQL CRUD. Docker included. Swagger docs, actions CI and valuable README
