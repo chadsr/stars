@@ -1032,6 +1032,7 @@
 
 ## JavaScript 
 
+- [github/safe-settings](https://github.com/github/safe-settings) - 
 - [chkfung/android-version-actions](https://github.com/chkfung/android-version-actions) - 
 - [digidem/comapeo-core](https://github.com/digidem/comapeo-core) - A local-first library for collaborating on mapping projects
 - [adoxography/tailwind-scrollbar](https://github.com/adoxography/tailwind-scrollbar) - Scrollbar plugin for Tailwind CSS
@@ -1570,7 +1571,7 @@
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [termux/termux-language-server](https://github.com/termux/termux-language-server) - 🛠️ A language server for some specific bash scripts
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [rseichter/fangfrisch](https://github.com/rseichter/fangfrisch) - Update and verify unofficial Clam Anti-Virus signatures
 - [pixray/pixray](https://github.com/pixray/pixray) - 
@@ -2146,6 +2147,7 @@
 
 ## Swift 
 
+- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [apple/swift-homomorphic-encryption](https://github.com/apple/swift-homomorphic-encryption) - Homomorphic Encryption library and applications in Swift
 - [fwcd/distributed-chat](https://github.com/fwcd/distributed-chat) - Distributed peer-to-peer messaging app using Bluetooth LE mesh networks
 - [Planetable/Planet](https://github.com/Planetable/Planet) - Build and host decentralized blogs and websites on your Mac
