@@ -258,6 +258,7 @@
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
 - [visual-studio-code](#visual-studio-code)
+- [visualization](#visualization)
 - [vpn](#vpn)
 - [vue](#vue)
 - [vuejs](#vuejs)
@@ -1716,7 +1717,7 @@
 - [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
 - [gomodule/redigo](https://github.com/gomodule/redigo) - Go client for Redis
 - [go-pg/pg](https://github.com/go-pg/pg) - Golang ORM with focus on PostgreSQL features and performance
-- [maximbaz/yubikey-touch-detector](https://github.com/maximbaz/yubikey-touch-detector) - A tool to detect when your YubiKey is waiting for a touch (to send notification or display a visual indicator on the screen)
+- [max-baz/yubikey-touch-detector](https://github.com/max-baz/yubikey-touch-detector) - A tool to detect when your YubiKey is waiting for a touch (to send notification or display a visual indicator on the screen)
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [oasdiff/oasdiff](https://github.com/oasdiff/oasdiff) - OpenAPI Diff and Breaking Changes
@@ -1909,7 +1910,7 @@
 - [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
 - [securego/gosec](https://github.com/securego/gosec) - Go security checker
 - [go-pg/pg](https://github.com/go-pg/pg) - Golang ORM with focus on PostgreSQL features and performance
-- [maximbaz/yubikey-touch-detector](https://github.com/maximbaz/yubikey-touch-detector) - A tool to detect when your YubiKey is waiting for a touch (to send notification or display a visual indicator on the screen)
+- [max-baz/yubikey-touch-detector](https://github.com/max-baz/yubikey-touch-detector) - A tool to detect when your YubiKey is waiting for a touch (to send notification or display a visual indicator on the screen)
 - [oasdiff/oasdiff](https://github.com/oasdiff/oasdiff) - OpenAPI Diff and Breaking Changes
 - [fzipp/gocyclo](https://github.com/fzipp/gocyclo) - Calculate cyclomatic complexities of functions in Go source code.
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
@@ -2059,17 +2060,18 @@
 - [tiagorlampert/CHAOS](https://github.com/tiagorlampert/CHAOS) - :fire: CHAOS is a free and open-source Remote Administration Tool that allow generate binaries to control remote operating systems.
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [element-hq/element-x-android](https://github.com/element-hq/element-x-android) - Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose
+- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [activist-org/activist](https://github.com/activist-org/activist) - An open-source activism platform
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
+- [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [stylelint/vscode-stylelint](https://github.com/stylelint/vscode-stylelint) - The official Visual Studio Code extension for Stylelint
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
-- [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) - A modern web client for Jellyfin based on Vue
 - [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail) - Mainsail is the popular web interface for managing and controlling 3D printers with Klipper.
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [firecamp-dev/firecamp](https://github.com/firecamp-dev/firecamp) - Developer-first OpenSource API DevTool, Postman/Insomnia alternative.
@@ -2110,7 +2112,6 @@
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [drand/tlock](https://github.com/drand/tlock) - Timelock Encryption made practical. The Go `tlock` library and the `tle` cmd line tool home to encrypt towards the future.
-- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [element-hq/element-android](https://github.com/element-hq/element-android) - A Matrix collaboration client for Android.
 - [signal-golang/textsecure](https://github.com/signal-golang/textsecure) - TextSecure(signal)  client package for Go
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
@@ -3136,6 +3137,8 @@
 
 ## others 
 
+- [google/capslock](https://github.com/google/capslock) - 
+- [Gustash/Hyprshot](https://github.com/Gustash/Hyprshot) - Hyprshot is an utility to easily take screenshots in Hyprland using your mouse.
 - [sakib-m/Pi-hole-Torrent-Blocklist](https://github.com/sakib-m/Pi-hole-Torrent-Blocklist) - Torrent trackers and websites host files for Pi-hole.
 - [itsjunetime/tdf](https://github.com/itsjunetime/tdf) - A tui-based PDF viewer
 - [anon0mis/prowlarr-qbittorent-search](https://github.com/anon0mis/prowlarr-qbittorent-search) - A plugin for qBittorrent that extends its built-in search capabilities by integrating Prowlarr as a search engine. With this plugin, users can search Prowlarr trackers/indexers directly from the qBitt
@@ -3174,7 +3177,6 @@
 - [changesets/action](https://github.com/changesets/action) - 
 - [HydroniumLabs/h3o](https://github.com/HydroniumLabs/h3o) - Rust implementation of the H3 geospatial indexing system.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
-- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [oxigraph/oxigraph](https://github.com/oxigraph/oxigraph) - SPARQL graph database
 - [sCrypt-Inc/awesome-zero-knowledge-proofs](https://github.com/sCrypt-Inc/awesome-zero-knowledge-proofs) - A curated list of awesome Zero-Knowledge Proofs (ZKP) resources.
 - [0xbow-io/privacy-pools-core](https://github.com/0xbow-io/privacy-pools-core) - Privacy Pools by 0xbow is a compliant way to anonymously transact on Ethereum. 0xbow blocks illicit actors to ensure pool integrity.
@@ -3617,7 +3619,7 @@
 - [uber-go/atomic](https://github.com/uber-go/atomic) - Wrapper types for sync/atomic which enforce atomic access
 - [opentracing/opentracing-go](https://github.com/opentracing/opentracing-go) - OpenTracing API for Go. 🛑 This library is DEPRECATED! https://github.com/opentracing/specification/issues/163
 - [capnproto/capnproto](https://github.com/capnproto/capnproto) - Cap'n Proto serialization/RPC system - core tools and C++ library
-- [maximbaz/wluma](https://github.com/maximbaz/wluma) - Automatic brightness adjustment based on screen contents and ALS
+- [max-baz/wluma](https://github.com/max-baz/wluma) - Automatic brightness adjustment based on screen contents and ALS
 - [hbenl/vscode-test-explorer](https://github.com/hbenl/vscode-test-explorer) - The VS Code Test Explorer extension
 - [arnaucube/cryptofun](https://github.com/arnaucube/cryptofun) - Crypto algorithms from scratch in Go. Learning purposes only. ECC, BN128 pairing, Paillier, RSA, Homomorphic computation, ElGamal, Schnorr, ECDSA, BLS, ...
 - [Didgeridoohan/BikeTracker](https://github.com/Didgeridoohan/BikeTracker) - Arduino based bicycle movement sensor and GPS tracker
@@ -5183,6 +5185,18 @@
 - [vscode-shellcheck/vscode-shellcheck](https://github.com/vscode-shellcheck/vscode-shellcheck) - Integrates ShellCheck into VS Code, a linter for Shell scripts.
 - [ryanluker/vscode-coverage-gutters](https://github.com/ryanluker/vscode-coverage-gutters) - Display test coverage generated by lcov and xml - works with many languages
 - [microsoft/live-share](https://github.com/microsoft/live-share) - Real-time collaborative development from the comfort of your favorite tools
+
+## visualization 
+
+- [elsevierlabs-os/linked-data](https://github.com/elsevierlabs-os/linked-data) - Linked Data Extension for VSCode
+- [gephi/gephi](https://github.com/gephi/gephi) - Gephi - The Open Graph Viz Platform
+- [DistrictDataLabs/yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visual analysis and diagnostic tools to facilitate machine learning model selection.
+- [weaveworks/scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
+- [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code & data workflows with interactive Elixir notebooks
+- [tvdboom/ATOM](https://github.com/tvdboom/ATOM) - Automated Tool for Optimized Modelling
+- [chadsr/MAD-EUParl](https://github.com/chadsr/MAD-EUParl) - European Parliament data mining/analytics, utilising linked data.
+- [influxdata/chronograf](https://github.com/influxdata/chronograf) - Open source monitoring and visualization UI for the TICK stack
+- [ali1k/ld-r](https://github.com/ali1k/ld-r) - Linked Data Reactor (LD-R)
 
 ## vpn 
 
