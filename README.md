@@ -1525,7 +1525,7 @@
 - [scrapinghub/extruct](https://github.com/scrapinghub/extruct) - Extract embedded metadata from HTML markup
 - [cgoldberg/xvfbwrapper](https://github.com/cgoldberg/xvfbwrapper) - Manage headless displays with Xvfb (X virtual framebuffer)
 - [py-cov-action/python-coverage-comment-action](https://github.com/py-cov-action/python-coverage-comment-action) - Publish coverage report as PR comment, and create a coverage badge & dashboard to display on the Readme for Python projects, all inside GitHub without third party servers
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An LLM agent that conducts deep research (local and web) on any given topic and generates a long report with citations.
 - [anon0mis/prowlarr-qbittorent-search](https://github.com/anon0mis/prowlarr-qbittorent-search) - A plugin for qBittorrent that extends its built-in search capabilities by integrating Prowlarr as a search engine. With this plugin, users can search Prowlarr trackers/indexers directly from the qBitt
 - [meshtastic/python](https://github.com/meshtastic/python) - The Python CLI and API for talking to Meshtastic devices
 - [LightDestory/qBittorrent-Search-Plugins](https://github.com/LightDestory/qBittorrent-Search-Plugins) - A growing collection of search plugins for the qBittorrent, an awesome and opensource torrent client
@@ -2299,7 +2299,7 @@
 - [sigp/siren](https://github.com/sigp/siren) - User interface for Lighthouse
 - [zokugun/vscode-sync-settings](https://github.com/zokugun/vscode-sync-settings) - Easily synchronize your settings
 - [lost-pixel/lost-pixel](https://github.com/lost-pixel/lost-pixel) - Open source alternative to Percy, Chromatic, Applitools.
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encrypted), share parts of it to global network of topics with deep AI integration
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encrypted). Share parts of it to global network of topics with deep AI integration.
 - [cursorless-dev/cursorless](https://github.com/cursorless-dev/cursorless) - Don't let the cursor slow you down
 - [libp2p/js-libp2p-webrtc](https://github.com/libp2p/js-libp2p-webrtc) - 
 - [ucan-wg/ts-ucan](https://github.com/ucan-wg/ts-ucan) - Auth tokens for a distributed, user-controlled world
