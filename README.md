@@ -2400,7 +2400,7 @@
 - [redwoodjs/graphql](https://github.com/redwoodjs/graphql) - RedwoodGraphQL
 - [libp2p/test-plans](https://github.com/libp2p/test-plans) - Interoperability tests for libp2p
 - [wei2912/obsidian-latex](https://github.com/wei2912/obsidian-latex) - 
-- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, 
+- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Write Native with TypeScript ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (V
 - [benawad/vsinder](https://github.com/benawad/vsinder) - Dating App for VSCode
 - [social-dist0rtion-protocol/thc](https://github.com/social-dist0rtion-protocol/thc) - Treasure Hunt Creator
 - [HEmile/juggl](https://github.com/HEmile/juggl) - An interactive, stylable and expandable graph view for Obsidian. Juggl is designed as an advanced 'local' graph view, where you can juggle all your thoughts with ease.
