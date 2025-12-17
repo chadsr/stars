@@ -279,7 +279,7 @@
 - [tom1422/ESPHome-HPMA115S0-Sensor-Component](https://github.com/tom1422/ESPHome-HPMA115S0-Sensor-Component) - Integration for the HPMA115S0 Dust and Particle Sensor into ESPHome
 - [kike-canaries/canairio_firmware](https://github.com/kike-canaries/canairio_firmware) - CanAirIO is a citizen science initiative. We are developing a mobile application that is able to set a PM2.5 or CO2 sensors, and other related sensors, as a fixed station using WiFi or mobile station 
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-- [jellyfin/jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Jellyfin Desktop Client
+- [jellyfin/jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop) - Jellyfin Desktop Client
 - [CrealityOfficial/Ender-3S1](https://github.com/CrealityOfficial/Ender-3S1) - This Source code for Creality Ender-3S1 Series,MCU and Screen
 - [mriscoc/Ender3V2S1](https://github.com/mriscoc/Ender3V2S1) - This is optimized firmware for Ender3 V2/S1 3D printers.
 - [JasonRJ/RAK7200_Helium_Mapper](https://github.com/JasonRJ/RAK7200_Helium_Mapper) - RAK7200 Helium Mapper - S76G SiP (STM32l073RX, SX1276, CXD5603GF)
@@ -528,7 +528,7 @@
 - [hexops/autogold](https://github.com/hexops/autogold) - Automatically update your Go tests
 - [deckarep/golang-set](https://github.com/deckarep/golang-set) - A simple, battle-tested and generic set type for the Go language. Trusted by GoogleCloudPlatform, Docker, 1Password, Ethereum and Hashicorp.
 - [stateless-minds/cyber-stasis](https://github.com/stateless-minds/cyber-stasis) - Post-money economy simulator in the form of a free fictional game based on gift economy that tests the hypothesis of having a market system without any exchange be it barters or money.
-- [mrusme/superhighway84](https://github.com/mrusme/superhighway84) - USENET-inspired, uncensorable, decentralized internet discussion system running on IPFS & OrbitDB
+- [mrusme/superhighway84](https://github.com/mrusme/superhighway84) - USENET-inspired, uncensorable, decentralized internet discussion system running on IPFS & OrbitDB (https://codeberg.org/mrus/superhighway84)
 - [go-jet/jet](https://github.com/go-jet/jet) - Type safe SQL builder with code generation and automatic query result data mapping
 - [ipfs/go-bitswap](https://github.com/ipfs/go-bitswap) - The golang implementation of the bitswap protocol
 - [ipni/storetheindex](https://github.com/ipni/storetheindex) - A directory of CIDs
@@ -997,7 +997,7 @@
 
 - [NordicSemiconductor/Android-BLE-Library](https://github.com/NordicSemiconductor/Android-BLE-Library) - A library that makes working with Bluetooth LE on Android a pleasure. Seriously.
 - [AsamK/signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.
-- [threethan/LightningLauncher](https://github.com/threethan/LightningLauncher) - App launcher for Meta Quest and Android TV. 🎉 140K+ sidequest downloads
+- [threethan/LightningLauncher](https://github.com/threethan/LightningLauncher) - App launcher for Meta Quest and Android TV. 🎉 700K+ Downloads
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 - [gephi/gephi](https://github.com/gephi/gephi) - Gephi - The Open Graph Viz Platform
 - [OpenNative/open-native](https://github.com/OpenNative/open-native) - Open Native brings cross-platform communities together to help them collaborate and strengthen each other through development diversity.
@@ -1176,7 +1176,6 @@
 - [Automattic/node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
 - [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
 - [ipython-contrib/jupyter_contrib_nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) - A collection of various notebook extensions for Jupyter
-- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [metiis/invidious-redirect](https://github.com/metiis/invidious-redirect) - A (very) small WebExtension to redirect YouTube links to Invidious.
 - [jamiebuilds/spectacle-code-slide](https://github.com/jamiebuilds/spectacle-code-slide) - :metal: Present code with style
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
@@ -2477,6 +2476,7 @@
 - [anthonybudd/VIPFS](https://github.com/anthonybudd/VIPFS) - Vue.js + IPFS = VIPFS. Create unstoppable applications
 - [dj-zombie/hashpass](https://github.com/dj-zombie/hashpass) - Hash cracking WebApp & Server for hashcat
 - [arkime/arkime](https://github.com/arkime/arkime) - Arkime is an open source, large scale, full packet capturing, indexing, and database system.
+- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 
 ## WebAssembly 
 
