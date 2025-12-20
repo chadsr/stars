@@ -1103,7 +1103,6 @@
 - [ljmerza/light-entity-card](https://github.com/ljmerza/light-entity-card) - Control any light or switch entity
 - [jneilliii/OctoPrint-BedLevelVisualizer](https://github.com/jneilliii/OctoPrint-BedLevelVisualizer) - 
 - [EsperoTech/yaade](https://github.com/EsperoTech/yaade) - Yaade is an open-source, self-hosted, collaborative API development environment.
-- [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
 - [holepunchto/hypercore](https://github.com/holepunchto/hypercore) - Hypercore is a secure, distributed append-only log.
 - [holepunchto/hyperbee](https://github.com/holepunchto/hyperbee) - An append-only B-tree running on a Hypercore
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
@@ -1699,6 +1698,7 @@
 - [eliorc/node2vec](https://github.com/eliorc/node2vec) - Implementation of the node2vec algorithm.
 - [benedekrozemberczki/karateclub](https://github.com/benedekrozemberczki/karateclub) - Karate Club: An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs (CIKM 2020)
 - [benedekrozemberczki/awesome-graph-classification](https://github.com/benedekrozemberczki/awesome-graph-classification) - A collection of important graph embedding, classification and representation learning papers with implementations.
+- [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [revarbat/stl_normalize](https://github.com/revarbat/stl_normalize) - Script to normalize and validate STL files so that they play better with git version control.
 - [reviewdog/action-detect-secrets](https://github.com/reviewdog/action-detect-secrets) - GitHub Action: Run detect-secrets with reviewdog
