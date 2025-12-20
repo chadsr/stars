@@ -160,6 +160,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [material-design](#material-design)
+- [microservices](#microservices)
 - [microsoft](#microsoft)
 - [mobile](#mobile)
 - [monero](#monero)
@@ -2946,6 +2947,21 @@
 - [msfjarvis/viscerion](https://github.com/msfjarvis/viscerion) - [RETIRED] Beautiful and feature filled Android client for the WireGuard™️ protocol
 - [VladThodo/behe-keyboard](https://github.com/VladThodo/behe-keyboard) - A lightweight hacking & programming keyboard with material design
 
+## microservices 
+
+- [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.
+- [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
+- [weaveworks/scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
+- [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
+- [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
+- [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework
+- [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
+- [encoredev/encore](https://github.com/encoredev/encore) - Open source framework for building robust type-safe distributed systems with declarative infrastructure
+- [goadesign/goa](https://github.com/goadesign/goa) - Design-first Go framework that generates API code, documentation, and clients. Define once in an elegant DSL, deploy as HTTP and gRPC services with zero drift between code and docs.
+- [lovoo/goka](https://github.com/lovoo/goka) - Goka is a compact yet powerful distributed stream processing library for Apache Kafka written in Go.
+
 ## microsoft 
 
 - [codersguild/System-Design](https://github.com/codersguild/System-Design) - It's just fascinating. How is modern software designed? 🤔 Some design-level considerations for scalability, maintainability eventual consistency, availability & reliability. 👨‍💻 Interview Prep. 👨‍💻
@@ -3489,7 +3505,6 @@
 - [toger5/TheBoard](https://github.com/toger5/TheBoard) - A collaborative Whiteboard powered by the [matrix] protocol and infrastucture.
 - [ipfs/go-ipfs-blockstore](https://github.com/ipfs/go-ipfs-blockstore) - [ARCHIVED] This module provides a thin wrapper over a datastore and provides caching strategies.
 - [LavaMoat/LavaMoat](https://github.com/LavaMoat/LavaMoat) - tools for sandboxing your dependency graph
-- [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [ucan-wg/ucan-community-web](https://github.com/ucan-wg/ucan-community-web) - UCAN community site
 - [planetary-social/scuttlego](https://github.com/planetary-social/scuttlego) - A Go implementation of the Secure Scuttlebutt protocol.
 - [WelcometoMyGarden/welcometomygarden](https://github.com/WelcometoMyGarden/welcometomygarden) - Web app of Welcome To My Garden, a not-for-profit network of citizens offering free camping spots in their gardens to slow travellers.
