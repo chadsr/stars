@@ -2151,7 +2151,6 @@
 - [tiagorlampert/CHAOS](https://github.com/tiagorlampert/CHAOS) - :fire: CHAOS is a free and open-source Remote Administration Tool that allow generate binaries to control remote operating systems.
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [element-hq/element-x-android](https://github.com/element-hq/element-x-android) - Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose
-- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [activist-org/activist](https://github.com/activist-org/activist) - An open-source activism platform
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -3293,6 +3292,7 @@
 - [changesets/action](https://github.com/changesets/action) - 
 - [HydroniumLabs/h3o](https://github.com/HydroniumLabs/h3o) - Rust implementation of the H3 geospatial indexing system.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
+- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [oxigraph/oxigraph](https://github.com/oxigraph/oxigraph) - SPARQL graph database
 - [sCrypt-Inc/awesome-zero-knowledge-proofs](https://github.com/sCrypt-Inc/awesome-zero-knowledge-proofs) - A curated list of awesome Zero-Knowledge Proofs (ZKP) resources.
 - [0xbow-io/privacy-pools-core](https://github.com/0xbow-io/privacy-pools-core) - Privacy Pools by 0xbow is a compliant way to anonymously transact on Ethereum. 0xbow blocks illicit actors to ensure pool integrity.
