@@ -2165,7 +2165,6 @@
 - [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail) - Mainsail is the popular web interface for managing and controlling 3D printers with Klipper.
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [firecamp-dev/firecamp](https://github.com/firecamp-dev/firecamp) - Developer-first OpenSource API DevTool, Postman/Insomnia alternative.
-- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [ethereum-lists/chains](https://github.com/ethereum-lists/chains) - provides metadata for chains
 - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
 - [catppuccin/vscode](https://github.com/catppuccin/vscode) - 🦌 Soothing pastel theme for VSCode
@@ -3966,8 +3965,8 @@
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [DistributedSystemsWiki/wiki](https://github.com/DistributedSystemsWiki/wiki) - 
 - [dapphub/klab](https://github.com/dapphub/klab) - K framework proof explorer & smart contract specification format
-- [xtaci/kcp-go](https://github.com/xtaci/kcp-go) - A Crypto-Secure Reliable-UDP Library for golang with FEC
-- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Quantum-Safe Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.
+- [xtaci/kcp-go](https://github.com/xtaci/kcp-go) - A crypto-secure Reliable-UDP library for Golang with FEC support.
+- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A quantum-safe, secure tunnel built on QPP, KCP, FEC, and multiplexing.
 - [dbieber/fountaincode](https://github.com/dbieber/fountaincode) - Fountain Code demo
 - [sudhirj/pump](https://github.com/sudhirj/pump) - Transmit large files over lossy networks using Raptor fountain codes
 - [argotorg/act](https://github.com/argotorg/act) - Smart contract specification language
@@ -4420,7 +4419,6 @@
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
-- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [jaseg/python-mpv](https://github.com/jaseg/python-mpv) - Python interface to the awesome mpv media player
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [fannheyward/coc-pyright](https://github.com/fannheyward/coc-pyright) - Pyright extension for coc.nvim
