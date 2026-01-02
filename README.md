@@ -1492,7 +1492,7 @@
 ## PLpgSQL 
 
 - [postgis/postgis](https://github.com/postgis/postgis) - PostGIS spatial database extension to PostgreSQL [mirror]
-- [zachasme/h3-pg](https://github.com/zachasme/h3-pg) - PostgreSQL bindings for H3, a hierarchical hexagonal geospatial indexing system
+- [postgis/h3-pg](https://github.com/postgis/h3-pg) - PostgreSQL bindings for H3, a hierarchical hexagonal geospatial indexing system
 - [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it's 2023
 
 ## Pascal 
@@ -1519,6 +1519,7 @@
 
 ## Python 
 
+- [jellyfin/jellyfin-kodi](https://github.com/jellyfin/jellyfin-kodi) - Jellyfin Plugin for Kodi
 - [jendrikseipp/vulture](https://github.com/jendrikseipp/vulture) - Find dead Python code
 - [python/typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types
 - [scrapinghub/extruct](https://github.com/scrapinghub/extruct) - Extract embedded metadata from HTML markup
@@ -1579,7 +1580,7 @@
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [rseichter/fangfrisch](https://github.com/rseichter/fangfrisch) - Update and verify unofficial Clam Anti-Virus signatures
 - [pixray/pixray](https://github.com/pixray/pixray) - 
-- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
+- [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [jaseg/python-mpv](https://github.com/jaseg/python-mpv) - Python interface to the awesome mpv media player
 - [moses-palmer/pystray](https://github.com/moses-palmer/pystray) - 
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -2250,7 +2251,7 @@
 - [unplugin/unplugin-icons](https://github.com/unplugin/unplugin-icons) - 🤹 Access thousands of icons as components on-demand universally.
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - Skeleton is an adaptive design system powered by Tailwind CSS.
 - [AdrianGonz97/vite-plugin-tailwind-purgecss](https://github.com/AdrianGonz97/vite-plugin-tailwind-purgecss) - A simple Vite plugin that thoroughly purges excess TailwindCSS styles.
-- [opral/monorepo](https://github.com/opral/monorepo) - lix (change control system) && inlang (globalization ecosystem for software built on lix)
+- [opral/inlang](https://github.com/opral/inlang) - lix (change control system) && inlang (globalization ecosystem for software built on lix)
 - [sveltekit-i18n/lib](https://github.com/sveltekit-i18n/lib) - Internationalization library built for SvelteKit.
 - [lokalise/i18n-ally](https://github.com/lokalise/i18n-ally) - 🌍 All in one i18n extension for VS Code
 - [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
