@@ -635,7 +635,6 @@
 - [spbkaizo/tidlr](https://github.com/spbkaizo/tidlr) - Golang based Tidal FLAC/MQA Downloader
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) - Build Caddy with plugins
-- [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [RedisGraph/redisgraph-go](https://github.com/RedisGraph/redisgraph-go) - A Golang client for redisgraph
 - [informalsystems/gopherator](https://github.com/informalsystems/gopherator) - Modelator's cousin for Golang
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
