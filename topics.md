@@ -2453,7 +2453,7 @@
 - [ipfs-shipyard/ipfs-deploy](https://github.com/ipfs-shipyard/ipfs-deploy) - Zero-Config CLI to Deploy Static Websites to IPFS
 - [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
 - [filecoin-project/lotus](https://github.com/filecoin-project/lotus) - Reference implementation of the Filecoin protocol, written in Go
-- [ipld/specs](https://github.com/ipld/specs) - Content-addressed, authenticated, immutable data structures
+- [ipld/specs](https://github.com/ipld/specs) - [ARCHIVED] Old specs repo, moved to https://github.com/ipld/ipld
 - [urbanguacamole/torrent-paradise](https://github.com/urbanguacamole/torrent-paradise) - Decentralized DHT search site for IPFS
 - [berty/go-libp2p-tor-transport](https://github.com/berty/go-libp2p-tor-transport) - 🚧 WIP: tor transport for libp2p
 - [vasa-develop/ultimate-ipfs-series](https://github.com/vasa-develop/ultimate-ipfs-series) - An Ultimate tutorial series to learn about IPFS, IPLD, Multiformats, Libp2p and Filecoin
@@ -3263,6 +3263,7 @@
 
 ## others 
 
+- [gkatev/evolution-tray](https://github.com/gkatev/evolution-tray) - Evolution Email tray support plugin, using StatusNotifierItem.
 - [jellyfin/jellyfin-kodi](https://github.com/jellyfin/jellyfin-kodi) - Jellyfin Plugin for Kodi
 - [azam/jellyfin-plugin-localsubs](https://github.com/azam/jellyfin-plugin-localsubs) - Subtitle provider plugin for local subtitle files on Jellyfin
 - [rgwood/systemctl-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs
@@ -4054,7 +4055,7 @@
 - [otrv4/otrv4](https://github.com/otrv4/otrv4) - Off-the-Record Messaging Protocol version 4. -This is a draft- This repository is a mirror of http://bugs.otr.im/otrv4/otrv4
 - [libp2p/go-tcp-transport](https://github.com/libp2p/go-tcp-transport) - An implementation of a libp2p transport using tcp
 - [EliverLara/Andromeda](https://github.com/EliverLara/Andromeda) - :rocket: Dark theme for vscode
-- [EliverLara/Sweet](https://github.com/EliverLara/Sweet) - Light and dark theme with neon vibes for GNOME
+- [EliverLara/Sweet](https://github.com/EliverLara/Sweet) - A beautiful theme with neon vibes for GNOME
 - [jamiebuilds/spectacle-code-slide](https://github.com/jamiebuilds/spectacle-code-slide) - :metal: Present code with style
 - [ammen99/wf-recorder](https://github.com/ammen99/wf-recorder) - 
 - [swaywm/swaylock](https://github.com/swaywm/swaylock) - Screen locker for Wayland
@@ -4109,7 +4110,7 @@
 - [cryptosteel/cryptosteel](https://github.com/cryptosteel/cryptosteel) - 
 - [yerpj/SmartWatering](https://github.com/yerpj/SmartWatering) - Arduino based project in charge of taking care of my green plants
 - [spacehuhn/esp8266_beaconSpam](https://github.com/spacehuhn/esp8266_beaconSpam) - Creates up to a thousand WiFi access points with custom SSIDs.
-- [ipld/ipld](https://github.com/ipld/ipld) - InterPlanetary Linked Data
+- [ipld/ipld](https://github.com/ipld/ipld) - This repo holds Website and Specs at https://ipld.io
 - [v3l0c1r4pt0r/xSDM](https://github.com/v3l0c1r4pt0r/xSDM) - Open-source unpacker for Microsoft Imagine/Dreamspark/MSDNAA SDC format
 - [RadekSimkanic/Linux-SDM-Downloader](https://github.com/RadekSimkanic/Linux-SDM-Downloader) - Downloader SDM files via SDX file (DreamSpark) on Linux
 - [minimaxir/char-tsne-visualization](https://github.com/minimaxir/char-tsne-visualization) - Visualizations of character embeddings from derived character vectors.
