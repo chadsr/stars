@@ -106,6 +106,7 @@
 
 ## C 
 
+- [gkatev/evolution-tray](https://github.com/gkatev/evolution-tray) - Evolution Email tray support plugin, using StatusNotifierItem.
 - [sqfmi/Watchy](https://github.com/sqfmi/Watchy) - Watchy - An Open Source E-Ink Smartwatch
 - [vbextreme/ghostmirror](https://github.com/vbextreme/ghostmirror) - mirror analyzer for arch linux
 - [PBearson/ESP32_Flash_Encryption_Tutorial](https://github.com/PBearson/ESP32_Flash_Encryption_Tutorial) - 
@@ -369,7 +370,7 @@
 - [Roboron3042/Cyberpunk-Neon](https://github.com/Roboron3042/Cyberpunk-Neon) - Cyberpunk Neon Themes for KDE Plasma, GTK, Telegram, Tilix, Vim, Zim and more.
 - [mipatterson/typedoc-plugin-pages](https://github.com/mipatterson/typedoc-plugin-pages) - A TypeDoc plugin that lets you integrate your own pages into the documentation output
 - [DistributedSystemsWiki/wiki](https://github.com/DistributedSystemsWiki/wiki) - 
-- [EliverLara/Sweet](https://github.com/EliverLara/Sweet) - Light and dark theme with neon vibes for GNOME
+- [EliverLara/Sweet](https://github.com/EliverLara/Sweet) - A beautiful theme with neon vibes for GNOME
 - [AllienWorks/cryptocoins](https://github.com/AllienWorks/cryptocoins) - Cryptocoins is the most complete vector/webfont icon pack of your favourite cryptocurrencies
 
 ## Clojure 
@@ -503,6 +504,7 @@
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [nwg-piotr/nwg-drawer](https://github.com/nwg-piotr/nwg-drawer) - Application drawer for wlroots-based Wayland compositors
 - [google/yamlfmt](https://github.com/google/yamlfmt) - An extensible command line tool or library to format yaml files.
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
 - [nametake/golangci-lint-langserver](https://github.com/nametake/golangci-lint-langserver) - golangci-lint language server
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
@@ -1135,7 +1137,7 @@
 - [openpgpjs/openpgpjs](https://github.com/openpgpjs/openpgpjs) - OpenPGP implementation for JavaScript
 - [digitalbazaar/jsonld-signatures](https://github.com/digitalbazaar/jsonld-signatures) - An implementation of the Linked Data Signatures specification for JSON-LD. Works in the browser and Node.js.
 - [ipld/js-ipld](https://github.com/ipld/js-ipld) - The JavaScript Implementation of IPLD
-- [ipld/specs](https://github.com/ipld/specs) - Content-addressed, authenticated, immutable data structures
+- [ipld/specs](https://github.com/ipld/specs) - [ARCHIVED] Old specs repo, moved to https://github.com/ipld/ipld
 - [thisandagain/sentiment](https://github.com/thisandagain/sentiment) - AFINN-based sentiment analysis for Node.js.
 - [axa-group/nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
 - [urbanguacamole/torrent-paradise](https://github.com/urbanguacamole/torrent-paradise) - Decentralized DHT search site for IPFS
@@ -1345,7 +1347,7 @@
 
 ## Nunjucks 
 
-- [ipld/ipld](https://github.com/ipld/ipld) - InterPlanetary Linked Data
+- [ipld/ipld](https://github.com/ipld/ipld) - This repo holds Website and Specs at https://ipld.io
 
 ## OCaml 
 
@@ -1576,7 +1578,6 @@
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [termux/termux-language-server](https://github.com/termux/termux-language-server) - 🛠️ A language server for some specific bash scripts
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [rseichter/fangfrisch](https://github.com/rseichter/fangfrisch) - Update and verify unofficial Clam Anti-Virus signatures
 - [pixray/pixray](https://github.com/pixray/pixray) - 
