@@ -2102,6 +2102,7 @@
 
 ## graphql 
 
+- [graphql-python/gql](https://github.com/graphql-python/gql) - A GraphQL client in Python
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [graphql-hive/graphql-eslint](https://github.com/graphql-hive/graphql-eslint) - ESLint parser, plugin, and rule set for GraphQL (for schema and operations). Easily customizable with custom rules. Integrates with IDEs and modern GraphQL tools.
 - [firecamp-dev/firecamp](https://github.com/firecamp-dev/firecamp) - Developer-first OpenSource API DevTool, Postman/Insomnia alternative.
