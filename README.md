@@ -502,7 +502,7 @@
 - [beeper/bridge-manager](https://github.com/beeper/bridge-manager) - A tool for running self-hosted bridges with the Beeper Matrix server.
 - [pion/turn](https://github.com/pion/turn) - Pion TURN, an API for building TURN clients and servers
 - [gov4git/gov4git](https://github.com/gov4git/gov4git) - Decentralized governance for Git communities
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [juju/juju](https://github.com/juju/juju) - Orchestration engine that enables the deployment, integration and lifecycle management of applications at any scale, on any infrastructure (Kubernetes or otherwise).
 - [ChristopherHX/github-act-runner](https://github.com/ChristopherHX/github-act-runner) - act as self-hosted runner
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -1984,7 +1984,6 @@
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [sigp/lighthouse](https://github.com/sigp/lighthouse) - Ethereum consensus client in Rust
-- [chiselstrike/chiselstrike](https://github.com/chiselstrike/chiselstrike) - ChiselStrike abstracts common backends components like databases and message queues, and let you drive them from a convenient TypeScript business logic layer
 - [filecoin-project/ref-fvm](https://github.com/filecoin-project/ref-fvm) - Reference implementation of the Filecoin Virtual Machine
 - [ucan-wg/rs-ucan](https://github.com/ucan-wg/rs-ucan) - Rust implementation of UCAN
 - [wnfs-wg/rs-wnfs](https://github.com/wnfs-wg/rs-wnfs) - Rust implementation of the WebNative FileSystem (WNFS) specification
