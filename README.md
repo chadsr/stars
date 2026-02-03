@@ -2212,6 +2212,7 @@
 
 ## TypeScript 
 
+- [firsttris/vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner) - Simple way to run or debug one or more  tests from context menu, codelens or command plalette
 - [capacitor-community/bluetooth-le](https://github.com/capacitor-community/bluetooth-le) - Capacitor plugin for Bluetooth Low Energy
 - [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) - Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
 - [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) - Set up your GitHub Actions workflow with a specific version of https://docs.astral.sh/uv/
