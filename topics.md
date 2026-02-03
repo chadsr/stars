@@ -3142,6 +3142,7 @@
 
 ## nodejs 
 
+- [firsttris/vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner) - Simple way to run or debug one or more  tests from context menu, codelens or command plalette
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
 - [onlxltd/bonjour-service](https://github.com/onlxltd/bonjour-service) - A Bonjour/Zeroconf protocol implementation in TypeScript
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
@@ -5200,6 +5201,7 @@
 
 ## testing 
 
+- [firsttris/vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner) - Simple way to run or debug one or more  tests from context menu, codelens or command plalette
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [wkeeling/selenium-wire](https://github.com/wkeeling/selenium-wire) - Extends Selenium's Python bindings to give you the ability to inspect requests made by the browser.
@@ -5261,6 +5263,7 @@
 
 ## typescript 
 
+- [firsttris/vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner) - Simple way to run or debug one or more  tests from context menu, codelens or command plalette
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
 - [svecosystem/runed](https://github.com/svecosystem/runed) - Magical utilities for your Svelte applications.
