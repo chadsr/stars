@@ -3142,7 +3142,7 @@
 
 ## nodejs 
 
-- [firsttris/vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner) - Simple way to run or debug one or more  tests from context menu, codelens or command plalette
+- [firsttris/vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner) - Run and debug Jest, Vitest, Node.js, Bun, and Deno tests with ease, right from your editor.
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
 - [onlxltd/bonjour-service](https://github.com/onlxltd/bonjour-service) - A Bonjour/Zeroconf protocol implementation in TypeScript
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
@@ -3831,6 +3831,7 @@
 - [cbyn/bitpredict](https://github.com/cbyn/bitpredict) - Machine learning for high frequency bitcoin price prediction
 - [helium/erlang-hbbft](https://github.com/helium/erlang-hbbft) - Erlang implementation of HoneyBadgerBFT
 - [helium/miner](https://github.com/helium/miner) - Miner for the helium blockchain
+- [givo-io/givo-modelling](https://github.com/givo-io/givo-modelling) - Monorepo for GIVO Research & Development
 - [foochbwah/crkbd-case](https://github.com/foochbwah/crkbd-case) - high profile 3d printable case for the crkbd by foostan
 - [UltimateHackingKeyboard/uhk60v1-electronics](https://github.com/UltimateHackingKeyboard/uhk60v1-electronics) - The schematic and PCBs of the UHK 60 v1
 - [gritzko/ron](https://github.com/gritzko/ron) - (dated, see the site) Replicated Object Notation, a distributed live data format, golang/ragel lib
@@ -4430,6 +4431,7 @@
 
 ## python 
 
+- [rohaquinlop/complexipy](https://github.com/rohaquinlop/complexipy) - Blazingly fast cognitive complexity analysis for Python, written in Rust.
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
 - [jendrikseipp/vulture](https://github.com/jendrikseipp/vulture) - Find dead Python code
 - [python/typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types
@@ -4761,6 +4763,7 @@
 
 ## rust 
 
+- [rohaquinlop/complexipy](https://github.com/rohaquinlop/complexipy) - Blazingly fast cognitive complexity analysis for Python, written in Rust.
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
@@ -5201,7 +5204,7 @@
 
 ## testing 
 
-- [firsttris/vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner) - Simple way to run or debug one or more  tests from context menu, codelens or command plalette
+- [firsttris/vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner) - Run and debug Jest, Vitest, Node.js, Bun, and Deno tests with ease, right from your editor.
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [wkeeling/selenium-wire](https://github.com/wkeeling/selenium-wire) - Extends Selenium's Python bindings to give you the ability to inspect requests made by the browser.
@@ -5263,7 +5266,7 @@
 
 ## typescript 
 
-- [firsttris/vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner) - Simple way to run or debug one or more  tests from context menu, codelens or command plalette
+- [firsttris/vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner) - Run and debug Jest, Vitest, Node.js, Bun, and Deno tests with ease, right from your editor.
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
 - [svecosystem/runed](https://github.com/svecosystem/runed) - Magical utilities for your Svelte applications.
