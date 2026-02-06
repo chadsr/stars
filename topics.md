@@ -1168,6 +1168,7 @@
 
 ## deep-learning 
 
+- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [run-ai/genv](https://github.com/run-ai/genv) - GPU environment and cluster management with LLM support
@@ -2312,7 +2313,7 @@
 - [custom-components/ble_monitor](https://github.com/custom-components/ble_monitor) - BLE monitor for passive BLE sensors
 - [bbbenji/synthwave-hass](https://github.com/bbbenji/synthwave-hass) - Synthwave inspired theme for Home Assistant
 - [Sebclem/hassio-nextcloud-backup](https://github.com/Sebclem/hassio-nextcloud-backup) - Hass.io Add-on: Backup your snapshots to Nextcloud
-- [hassio-addons/addon-adguard-home](https://github.com/hassio-addons/addon-adguard-home) - AdGuard Home - Home Assistant Community Add-ons
+- [hassio-addons/app-adguard-home](https://github.com/hassio-addons/app-adguard-home) - AdGuard Home - Home Assistant Community Apps
 - [bokub/rgb-light-card](https://github.com/bokub/rgb-light-card) - 💡 A Home Assistant card for RGB lights
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 - [AlexxIT/SonoffLAN](https://github.com/AlexxIT/SonoffLAN) - Control Sonoff Devices with eWeLink (original) firmware over LAN and/or Cloud from Home Assistant
@@ -2855,6 +2856,7 @@
 
 ## machine-learning 
 
+- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [chadsr/marktplaats-scraper](https://github.com/chadsr/marktplaats-scraper) - Marktplaats.nl (Dutch Classifieds) Listing Scraper
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -3089,6 +3091,7 @@
 
 ## neural-network 
 
+- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [MBKraus/Predicting_real_estate_prices_using_scikit-learn](https://github.com/MBKraus/Predicting_real_estate_prices_using_scikit-learn) - Predicting Amsterdam house / real estate prices using Ordinary Least Squares-, XGBoost-, KNN-, Lasso-, Ridge-, Polynomial-, Random Forest-, and Neural Network MLP Regression (via scikit-learn)
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
@@ -4002,7 +4005,7 @@
 - [DistributedSystemsWiki/wiki](https://github.com/DistributedSystemsWiki/wiki) - 
 - [dapphub/klab](https://github.com/dapphub/klab) - K framework proof explorer & smart contract specification format
 - [xtaci/kcp-go](https://github.com/xtaci/kcp-go) - A crypto-secure Reliable-UDP library for Golang with FEC support.
-- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A quantum-safe, secure tunnel built on QPP, KCP, FEC, and multiplexing.
+- [xtaci/kcptun](https://github.com/xtaci/kcptun) - Reliable UDP Transmission Optimizer based on KCP: Enhancing network efficiency in poor connectivity environments.
 - [dbieber/fountaincode](https://github.com/dbieber/fountaincode) - Fountain Code demo
 - [sudhirj/pump](https://github.com/sudhirj/pump) - Transmit large files over lossy networks using Raptor fountain codes
 - [argotorg/act](https://github.com/argotorg/act) - Smart contract specification language
@@ -4431,6 +4434,7 @@
 
 ## python 
 
+- [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
 - [rohaquinlop/complexipy](https://github.com/rohaquinlop/complexipy) - Blazingly fast cognitive complexity analysis for Python, written in Rust.
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
 - [jendrikseipp/vulture](https://github.com/jendrikseipp/vulture) - Find dead Python code
@@ -4606,6 +4610,7 @@
 
 ## pytorch 
 
+- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
@@ -4763,6 +4768,7 @@
 
 ## rust 
 
+- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
 - [rohaquinlop/complexipy](https://github.com/rohaquinlop/complexipy) - Blazingly fast cognitive complexity analysis for Python, written in Rust.
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
