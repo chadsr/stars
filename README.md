@@ -854,7 +854,7 @@
 - [libp2p/go-libp2p](https://github.com/libp2p/go-libp2p) - libp2p implementation in Go
 - [miguelmota/ethereum-development-with-go-book](https://github.com/miguelmota/ethereum-development-with-go-book) - 📖 A little guide book on Ethereum Development with Go (golang)
 - [xtaci/kcp-go](https://github.com/xtaci/kcp-go) - A crypto-secure Reliable-UDP library for Golang with FEC support.
-- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A quantum-safe, secure tunnel built on QPP, KCP, FEC, and multiplexing.
+- [xtaci/kcptun](https://github.com/xtaci/kcptun) - Reliable UDP Transmission Optimizer based on KCP: Enhancing network efficiency in poor connectivity environments.
 - [sudhirj/pump](https://github.com/sudhirj/pump) - Transmit large files over lossy networks using Raptor fountain codes
 - [coreos/go-iptables](https://github.com/coreos/go-iptables) - Go wrapper around iptables utility
 - [google/nftables](https://github.com/google/nftables) - This repository contains a Go module to interact with Linux nftables (the iptables successor).
@@ -1219,7 +1219,7 @@
 
 ## Jinja 
 
-- [hassio-addons/addon-adguard-home](https://github.com/hassio-addons/addon-adguard-home) - AdGuard Home - Home Assistant Community Add-ons
+- [hassio-addons/app-adguard-home](https://github.com/hassio-addons/app-adguard-home) - AdGuard Home - Home Assistant Community Apps
 - [j7126/OctoPrint-Dashboard](https://github.com/j7126/OctoPrint-Dashboard) - A dashboard for Octoprint
 
 ## Jsonnet 
@@ -1529,6 +1529,7 @@
 
 ## Python 
 
+- [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
 - [rohaquinlop/complexipy](https://github.com/rohaquinlop/complexipy) - Blazingly fast cognitive complexity analysis for Python, written in Rust.
 - [graphql-python/gql](https://github.com/graphql-python/gql) - A GraphQL client in Python
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
@@ -1909,6 +1910,7 @@
 
 ## Rust 
 
+- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
 - [crate-ci/committed](https://github.com/crate-ci/committed) - Nitpicking commit history since beabf39
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
