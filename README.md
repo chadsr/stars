@@ -987,6 +987,7 @@
 - [froozen/kademlia](https://github.com/froozen/kademlia) - A haskell library implementing the Kademlia DHT
 - [dapphub/dapptools](https://github.com/dapphub/dapptools) - Dapp, Seth, Hevm, and more
 - [Consensys/constellation](https://github.com/Consensys/constellation) - Peer-to-peer encrypted message exchange
+- [digital-asset/daml](https://github.com/digital-asset/daml) - The Daml smart contract language
 - [chrisnc/tangaroa](https://github.com/chrisnc/tangaroa) - A toy implementation of the Raft protocol in Haskell, with an experimental BFT variant.
 - [argotorg/act](https://github.com/argotorg/act) - Smart contract specification language
 - [HigherOrderCO/Kind](https://github.com/HigherOrderCO/Kind) - A modern proof language
@@ -1529,6 +1530,7 @@
 
 ## Python 
 
+- [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
 - [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
 - [rohaquinlop/complexipy](https://github.com/rohaquinlop/complexipy) - Blazingly fast cognitive complexity analysis for Python, written in Rust.
 - [graphql-python/gql](https://github.com/graphql-python/gql) - A GraphQL client in Python
@@ -2077,7 +2079,6 @@
 
 ## Scala 
 
-- [digital-asset/daml](https://github.com/digital-asset/daml) - The Daml smart contract language
 - [mcoblenz/Obsidian](https://github.com/mcoblenz/Obsidian) - Obsidian language development
 - [dbpedia-spotlight/dbpedia-spotlight](https://github.com/dbpedia-spotlight/dbpedia-spotlight) - DBpedia Spotlight is a tool for automatically annotating mentions of DBpedia resources in text.
 
