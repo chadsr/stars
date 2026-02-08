@@ -578,6 +578,7 @@
 - [olric-data/olric](https://github.com/olric-data/olric) - Distributed, in-memory key/value store and cache. It can be used as an embedded Go library and a language-independent service.
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [ssbc/go-ssb](https://github.com/ssbc/go-ssb) - Go implementation of ssb (work in progress!)
+- [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [matrix-org/pinecone](https://github.com/matrix-org/pinecone) - Peer-to-peer overlay routing for the Matrix ecosystem
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
@@ -1128,7 +1129,6 @@
 - [ilap/slip39-js](https://github.com/ilap/slip39-js) - The javascript implementation of the SLIP39 for Shamir's Secret-Sharing for Mnemonic Codes.
 - [solokeys/solo-desktop](https://github.com/solokeys/solo-desktop) - Desktop app for customizing and updating your Solo.
 - [complexityexplained/complexityexplained.github.io](https://github.com/complexityexplained/complexityexplained.github.io) - Complexity Explained, a community-driven project to create easy-to-understand documents and materials for Complexity Science education
-- [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
 - [UltimateHackingKeyboard/uhk60v1-electronics](https://github.com/UltimateHackingKeyboard/uhk60v1-electronics) - The schematic and PCBs of the UHK 60 v1
 - [liamzebedee/retrust](https://github.com/liamzebedee/retrust) - Subjective consensus algorithm and value governance protocol 🌎
 - [ZoneMinder/zmNinja](https://github.com/ZoneMinder/zmNinja) - High performance, cross platform ionic app for Home/Commerical Security Surveillance using ZoneMinder
@@ -1413,7 +1413,6 @@
 - [jryans/awesome-matrix](https://github.com/jryans/awesome-matrix) - A curated list of things related to the Matrix ecosystem, including software, research, etc.
 - [farcasterxyz/protocol](https://github.com/farcasterxyz/protocol) - Specification of the Farcaster Protocol
 - [jryans/matrix-limits](https://github.com/jryans/matrix-limits) - A collection of various limits and related factoids about the Matrix specification and implementations.
-- [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [ljwagerfield/crdt](https://github.com/ljwagerfield/crdt) - CRDT Tutorial for Beginners (a digestible explanation with less math!)
 - [karrot-dev/karrot-frontend](https://github.com/karrot-dev/karrot-frontend) - We migrated to https://codeberg.org/karrot/karrot-frontend
 - [BasixKOR/awesome-activitypub](https://github.com/BasixKOR/awesome-activitypub) - Awesome list of ActivityPub based projects
@@ -2435,6 +2434,7 @@
 - [HEmile/juggl](https://github.com/HEmile/juggl) - An interactive, stylable and expandable graph view for Obsidian. Juggl is designed as an advanced 'local' graph view, where you can juggle all your thoughts with ease.
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [ako-deno/ako](https://github.com/ako-deno/ako) - Expressive HTTP middleware framework for deno using async functions. Aiming to port Koa to Deno.
+- [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
 - [go-semantic-release/action](https://github.com/go-semantic-release/action) - :octocat: semantic-release GitHub Action
 - [mrjackphil/obsidian-backlinks-in-document](https://github.com/mrjackphil/obsidian-backlinks-in-document) - A hacky workaround which put backlinks section into the document
 - [lukeleppan/better-word-count](https://github.com/lukeleppan/better-word-count) - Counts the words of selected text in the editor.
