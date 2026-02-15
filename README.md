@@ -514,7 +514,6 @@
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [nwg-piotr/nwg-drawer](https://github.com/nwg-piotr/nwg-drawer) - Application drawer for wlroots-based Wayland compositors
 - [google/yamlfmt](https://github.com/google/yamlfmt) - An extensible command line tool or library to format yaml files.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
 - [nametake/golangci-lint-langserver](https://github.com/nametake/golangci-lint-langserver) - golangci-lint language server
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
@@ -1562,7 +1561,6 @@
 - [OKUA1/juvio](https://github.com/OKUA1/juvio) - UV kernel for Jupyter
 - [zongmin-yu/semantic-scholar-fastmcp-mcp-server](https://github.com/zongmin-yu/semantic-scholar-fastmcp-mcp-server) - A FastMCP server implementation for the Semantic Scholar API, providing comprehensive access to academic paper data, author information, and citation networks.
 - [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) - A Model Context Protocol server for searching and analyzing arXiv papers
-- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
 - [nayarsystems/posix_tz_db](https://github.com/nayarsystems/posix_tz_db) - Generates POSIX timezones strings
@@ -1600,6 +1598,7 @@
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [termux/termux-language-server](https://github.com/termux/termux-language-server) - 🛠️ A language server for some specific bash scripts
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [rseichter/fangfrisch](https://github.com/rseichter/fangfrisch) - Update and verify unofficial Clam Anti-Virus signatures
 - [pixray/pixray](https://github.com/pixray/pixray) - 
@@ -2124,7 +2123,7 @@
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
 - [kchristensen/udm-le](https://github.com/kchristensen/udm-le) - Let's Encrypt support for Ubiquiti UniFi OS
-- [unifi-utilities/unifios-utilities](https://github.com/unifi-utilities/unifios-utilities) - A collection of  enhancements for UnifiOS based devices
+- [unifi-utilities/unifios-utilities](https://github.com/unifi-utilities/unifios-utilities) - Enhancing Your UniFi Experience
 - [EndeavourOS-Community-Editions/sway](https://github.com/EndeavourOS-Community-Editions/sway) - EndeavourOS Community Edition setup for sway
 - [chadsr/action-pyright](https://github.com/chadsr/action-pyright) - A GitHub Action to run pyright
 - [reviewdog/action-flake8](https://github.com/reviewdog/action-flake8) - Runs flake8 with Reviewdog :dog:
@@ -2244,6 +2243,7 @@
 - [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) - A Model Context Protocol server for converting almost anything to Markdown
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
+- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes t
 - [0xbow-io/privacy-pools-core](https://github.com/0xbow-io/privacy-pools-core) - Privacy Pools by 0xbow is a compliant way to anonymously transact on Ethereum. 0xbow blocks illicit actors to ensure pool integrity.
 - [YU000jp/logseq-plugin-show-page-date](https://github.com/YU000jp/logseq-plugin-show-page-date) - Displays modification date and time for each page
 - [patmigliaccio/logseq-archive-webpage](https://github.com/patmigliaccio/logseq-archive-webpage) - Archive URLs directly in Logseq and save locally.
