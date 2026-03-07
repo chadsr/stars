@@ -275,7 +275,7 @@
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [sandeepmistry/arduino-LoRa](https://github.com/sandeepmistry/arduino-LoRa) - An Arduino library for sending and receiving data using LoRa radios.
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community
 - [korejan/ALVR](https://github.com/korejan/ALVR) - Stream VR games from your PC to your headset via Wi-Fi
 - [Supreeeme/vrdio](https://github.com/Supreeeme/vrdio) - Audio controls in VR on Linux
 - [Huelse/SEAL-Python](https://github.com/Huelse/SEAL-Python) - Microsoft SEAL 4.X For Python
