@@ -201,7 +201,6 @@
 - [falkTX/Cadence](https://github.com/falkTX/Cadence) - Collection of tools useful for audio production
 - [nmikhailov/Validity90](https://github.com/nmikhailov/Validity90) - Reverse engineering of Validity/Synaptics 138a:0090, 138a:0094, 138a:0097, 06cb:0081, 06cb:009a fingerprint readers protocol
 - [Bumblebee-Project/bbswitch](https://github.com/Bumblebee-Project/bbswitch) - Disable discrete graphics (currently nvidia only)
-- [omnetpp/omnetpp](https://github.com/omnetpp/omnetpp) - OMNeT++ Discrete Event Simulator
 - [Duncaen/OpenDoas](https://github.com/Duncaen/OpenDoas) - A portable fork of the OpenBSD `doas` command
 - [nccgroup/phantap](https://github.com/nccgroup/phantap) - Phantom Tap (PhanTap) - an ‘invisible’ network tap aimed at red teams
 - [emersion/kanshi](https://github.com/emersion/kanshi) - Dynamic display configuration (mirror)
@@ -512,7 +511,6 @@
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [nwg-piotr/nwg-drawer](https://github.com/nwg-piotr/nwg-drawer) - Application drawer for wlroots-based Wayland compositors
 - [google/yamlfmt](https://github.com/google/yamlfmt) - An extensible command line tool or library to format yaml files.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
 - [nametake/golangci-lint-langserver](https://github.com/nametake/golangci-lint-langserver) - golangci-lint language server
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
@@ -1029,6 +1027,7 @@
 - [ipfs-shipyard/gomobile-ipfs](https://github.com/ipfs-shipyard/gomobile-ipfs) - [Archived old experiment] IPFS and libp2p on Mobile, with Gomobile. See https://docs.ipfs.tech/concepts/ipfs-implementations/ instead.
 - [traccar/traccar](https://github.com/traccar/traccar) - Traccar GPS Tracking System
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
+- [omnetpp/omnetpp](https://github.com/omnetpp/omnetpp) - OMNeT++ Discrete Event Simulator
 - [wesaphzt/privatelocation](https://github.com/wesaphzt/privatelocation) - 
 - [oversecio/oversec](https://github.com/oversecio/oversec) - 
 - [citiususc/calendula](https://github.com/citiususc/calendula) - An Android assistant for personal medication management
@@ -1066,7 +1065,6 @@
 - [orbitdb/orbitdb](https://github.com/orbitdb/orbitdb) - Peer-to-Peer Databases for the Decentralized Web
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [DefiLlama/chainlist](https://github.com/DefiLlama/chainlist) - 
-- [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) - Drafts your next release notes as pull requests are merged into master.
 - [zerodytrash/Simple-YouTube-Age-Restriction-Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass) - A simple browser extension to bypass YouTube's age verification, disable content warnings and watch age restricted videos without having to sign in!
 - [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences
 - [wayou/vscode-todo-highlight](https://github.com/wayou/vscode-todo-highlight) - a vscode extension to highlighting todos, fixmes, and any annotations...
@@ -1603,6 +1601,7 @@
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [termux/termux-language-server](https://github.com/termux/termux-language-server) - 🛠️ A language server for some specific bash scripts
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [rseichter/fangfrisch](https://github.com/rseichter/fangfrisch) - Update and verify unofficial Clam Anti-Virus signatures
 - [pixray/pixray](https://github.com/pixray/pixray) - 
@@ -2336,6 +2335,7 @@
 - [fannheyward/coc-pyright](https://github.com/fannheyward/coc-pyright) - Pyright extension for coc.nvim
 - [zeshuaro/vscode-poetry](https://github.com/zeshuaro/vscode-poetry) - Python Poetry support for VS Code to manage Poetry commands
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
+- [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) - Drafts your next release notes as pull requests are merged into master.
 - [hangxingliu/vscode-systemd](https://github.com/hangxingliu/vscode-systemd) - A Visual Studio Code extension to help you read and write Systemd unit config, mkosi config and Podman Quadlet unit files
 - [vscode-shellcheck/vscode-shellcheck](https://github.com/vscode-shellcheck/vscode-shellcheck) - Integrates ShellCheck into VS Code, a linter for Shell scripts.
 - [yy0931/gitconfig-lsp](https://github.com/yy0931/gitconfig-lsp) - 
