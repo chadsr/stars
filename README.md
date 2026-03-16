@@ -1334,7 +1334,7 @@
 - [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org) - Protect your data against global mass surveillance programs.
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 
 ## Meson 
 
@@ -1365,7 +1365,6 @@
 ## Others 
 
 - [EliverLara/candy-icons](https://github.com/EliverLara/candy-icons) - :lollipop: Sweet gradient icons
-- [j178/prek-action](https://github.com/j178/prek-action) - A GitHub Action that runs pre-commit hooks using prek in your CI/CD pipeline
 - [sakib-m/Pi-hole-Torrent-Blocklist](https://github.com/sakib-m/Pi-hole-Torrent-Blocklist) - Torrent trackers and websites host files for Pi-hole.
 - [archlinux/aur](https://github.com/archlinux/aur) - ⚠️⚠️Experimental aur.git mirror⚠️⚠️ (read-only mirror)
 - [zenfyrdev/bootloader-unlock-wall-of-shame](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame) - Keeping track of companies that "care about your data 🥺"
@@ -2114,7 +2113,6 @@
 - [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 8.XX Support and macOS High Sierra ~ macOS Sequoia Support.
 - [alacritty/alacritty-theme](https://github.com/alacritty/alacritty-theme) - Collection of Alacritty color schemes
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
-- [nanasess/setup-chromedriver](https://github.com/nanasess/setup-chromedriver) - ChromeDriver for use in GitHub Actions
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
 - [z-shell/zi](https://github.com/z-shell/zi) - ✨ A Swiss Army Knife for Zsh - Unix Shell
 - [ethstaker/eth-docker](https://github.com/ethstaker/eth-docker) - Docker automation for Ethereum nodes
@@ -2237,6 +2235,7 @@
 - [firsttris/vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner) - Run and debug Jest, Vitest, Rstest, Node.js, Bun, Deno and Playwright tests with ease, right from your editor.
 - [capacitor-community/bluetooth-le](https://github.com/capacitor-community/bluetooth-le) - Capacitor plugin for Bluetooth Low Energy
 - [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) - Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
+- [j178/prek-action](https://github.com/j178/prek-action) - A GitHub Action that runs pre-commit hooks using prek in your CI/CD pipeline
 - [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) - Set up your GitHub Actions workflow with a specific version of https://docs.astral.sh/uv/
 - [browserbase/mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase) - Allow LLMs to control a browser with Browserbase and Stagehand
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
@@ -2349,6 +2348,7 @@
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 - [mamba-org/vscode-micromamba](https://github.com/mamba-org/vscode-micromamba) - A VSCode extension to generate development environments using micromamba and conda-forge package repository
 - [ninoseki/vscode-pylens](https://github.com/ninoseki/vscode-pylens) - A VS Code extension to show the latest version of a dependency in pyproject.toml or requirements.txt
+- [nanasess/setup-chromedriver](https://github.com/nanasess/setup-chromedriver) - ChromeDriver for use in GitHub Actions
 - [sigp/siren](https://github.com/sigp/siren) - User interface for Lighthouse
 - [zokugun/vscode-sync-settings](https://github.com/zokugun/vscode-sync-settings) - Easily synchronize your settings
 - [lost-pixel/lost-pixel](https://github.com/lost-pixel/lost-pixel) - Open source alternative to Percy, Chromatic, Applitools.
