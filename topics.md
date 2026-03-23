@@ -138,6 +138,7 @@
 - [ipfs](#ipfs)
 - [java](#java)
 - [javascript](#javascript)
+- [jetpack-compose](#jetpack-compose)
 - [js](#js)
 - [json](#json)
 - [jupyter-notebook](#jupyter-notebook)
@@ -908,6 +909,7 @@
 
 ## command-line 
 
+- [antinomyhq/forgecode](https://github.com/antinomyhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [cdown/tzupdate](https://github.com/cdown/tzupdate) - Set the system timezone based on IP geolocation.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -2605,6 +2607,11 @@
 - [ali1k/ld-r](https://github.com/ali1k/ld-r) - Linked Data Reactor (LD-R)
 - [reddit-archive/reddit](https://github.com/reddit-archive/reddit) - historical code from reddit.com
 
+## jetpack-compose 
+
+- [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
+- [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
+
 ## js 
 
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
@@ -2837,6 +2844,7 @@
 
 ## llm 
 
+- [antinomyhq/forgecode](https://github.com/antinomyhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
 - [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
@@ -3297,6 +3305,7 @@
 
 ## openai 
 
+- [antinomyhq/forgecode](https://github.com/antinomyhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 - [openlit/openlit](https://github.com/openlit/openlit) - Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 50+ LLM Providers, Ve
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
@@ -3332,6 +3341,8 @@
 
 ## others 
 
+- [harbor-framework/terminal-bench](https://github.com/harbor-framework/terminal-bench) - A benchmark for LLMs on complicated tasks in the terminal
+- [harbor-framework/harbor](https://github.com/harbor-framework/harbor) - Harbor is a framework for running agent evaluations and creating and using RL environments.
 - [scrapinghub/article-extraction-benchmark](https://github.com/scrapinghub/article-extraction-benchmark) - Article extraction benchmark: dataset and evaluation scripts
 - [ergut/mcp-logseq](https://github.com/ergut/mcp-logseq) - MCP server to interact with LogSeq via its Local HTTP API - enabling AI assistants like Claude to seamlessly read, write, and manage your LogSeq graph.
 - [Inrixia/TidaLuna](https://github.com/Inrixia/TidaLuna) - A client mod for the Tidal music client & successor to Neptune
@@ -4448,6 +4459,7 @@
 
 ## productivity 
 
+- [dongdongbh/Mindwtr](https://github.com/dongdongbh/Mindwtr) - A complete Getting Things Done (GTD) productivity system for desktop and mobile.
 - [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -5061,6 +5073,7 @@
 
 ## shell 
 
+- [antinomyhq/forgecode](https://github.com/antinomyhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
