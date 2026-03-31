@@ -614,7 +614,7 @@
 - [alicebob/miniredis](https://github.com/alicebob/miniredis) - Pure Go Redis server for Go unittests
 - [gocopper/copper](https://github.com/gocopper/copper) - 🚀‏‏‎    ‎‏‏‎‏‏‎‎‎‎‎‎Copper is a Go toolkit complete with everything you need to build web apps.
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Goog
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP & agent gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face 
 - [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go
 - [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest) - Write tests against structured configuration data using the Open Policy Agent Rego query language
 - [unrolled/render](https://github.com/unrolled/render) - Go package for easily rendering JSON, XML, binary data, and HTML templates responses.
@@ -1003,7 +1003,7 @@
 
 ## Java 
 
-- [NordicSemiconductor/Android-BLE-Library](https://github.com/NordicSemiconductor/Android-BLE-Library) - A library that makes working with Bluetooth LE on Android a pleasure. Seriously.
+- [nordicsemi/Android-BLE-Library](https://github.com/nordicsemi/Android-BLE-Library) - A library that makes working with Bluetooth LE on Android a pleasure. Seriously.
 - [AsamK/signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.
 - [threethan/LightningLauncher](https://github.com/threethan/LightningLauncher) - App launcher for Meta Quest and Android TV. 🎉 700K+ Downloads
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
@@ -1161,7 +1161,7 @@
 - [MetaMask/mesh-testing](https://github.com/MetaMask/mesh-testing) - Testbed for p2p metamask client
 - [yieldfarming/yieldfarming](https://github.com/yieldfarming/yieldfarming) - 🧑‍🌾 It ain't much, but it's an honest work
 - [mikolalysenko/functional-red-black-tree](https://github.com/mikolalysenko/functional-red-black-tree) - A purely functional red-black tree data structure
-- [w3f/research](https://github.com/w3f/research) - Overview of W3F research initatives
+- [paritytech/research](https://github.com/paritytech/research) - Overview of W3F research initatives
 - [ericdrowell/ElGrapho](https://github.com/ericdrowell/ElGrapho) - 
 - [eth0izzle/shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories.
 - [JSONPath-Plus/JSONPath](https://github.com/JSONPath-Plus/JSONPath) - A fork of JSONPath from http://goessner.net/articles/JsonPath/
@@ -1180,7 +1180,6 @@
 - [Automattic/node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
 - [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
 - [ipython-contrib/jupyter_contrib_nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) - A collection of various notebook extensions for Jupyter
-- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [metiis/invidious-redirect](https://github.com/metiis/invidious-redirect) - A (very) small WebExtension to redirect YouTube links to Invidious.
 - [jamiebuilds/spectacle-code-slide](https://github.com/jamiebuilds/spectacle-code-slide) - :metal: Present code with style
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
@@ -2537,6 +2536,7 @@
 - [TheSpaghettiDetective/obico-server](https://github.com/TheSpaghettiDetective/obico-server) - Obico is a community-built, open-source smart 3D printing platform used by makers, enthusiasts, and tinkerers around the world.
 - [anthonybudd/VIPFS](https://github.com/anthonybudd/VIPFS) - Vue.js + IPFS = VIPFS. Create unstoppable applications
 - [dj-zombie/hashpass](https://github.com/dj-zombie/hashpass) - Hash cracking WebApp & Server for hashcat
+- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 
 ## WebAssembly 
 
