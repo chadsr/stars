@@ -311,6 +311,7 @@
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 - [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP & agent gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face 
 
 ## ai 
 
@@ -3050,6 +3051,7 @@
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP & agent gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face 
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 ## microservices 
@@ -3517,7 +3519,7 @@
 - [bigcode-project/starcoder2](https://github.com/bigcode-project/starcoder2) - Home of StarCoder2!
 - [hugomods/seo](https://github.com/hugomods/seo) - :mag: Hugo SEO Module
 - [p-lr/MapComposeMP](https://github.com/p-lr/MapComposeMP) - Kotlin Multiplatform port of MapCompose
-- [NordicSemiconductor/Android-BLE-Library](https://github.com/NordicSemiconductor/Android-BLE-Library) - A library that makes working with Bluetooth LE on Android a pleasure. Seriously.
+- [nordicsemi/Android-BLE-Library](https://github.com/nordicsemi/Android-BLE-Library) - A library that makes working with Bluetooth LE on Android a pleasure. Seriously.
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [iancoleman/slip39](https://github.com/iancoleman/slip39) - A web tool for SLIP39 mnemonic shares
 - [ponty/PyVirtualDisplay](https://github.com/ponty/PyVirtualDisplay) - Python wrapper for Xvfb, Xephyr and Xvnc
@@ -3733,7 +3735,6 @@
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [alexander-stannat/Incremental-Pagerank](https://github.com/alexander-stannat/Incremental-Pagerank) - An implementation of the Monte Carlo method for incremental PageRanks in the Tribler network
 - [dask/dask-gateway](https://github.com/dask/dask-gateway) - A multi-tenant server for securely deploying and managing Dask clusters.
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Goog
 - [sangyx/gtrick](https://github.com/sangyx/gtrick) - Bag of Tricks for Graph Neural Networks.
 - [pathbird/poetry-kernel](https://github.com/pathbird/poetry-kernel) - Python Jupyter kernel using Poetry for reproducible notebooks
 - [korejan/ALVR](https://github.com/korejan/ALVR) - Stream VR games from your PC to your headset via Wi-Fi
@@ -4043,7 +4044,7 @@
 - [facebookresearch/Private-ID](https://github.com/facebookresearch/Private-ID) - A collection of algorithms that can do join between two parties while preserving the privacy of keys on which the join happens
 - [helium/erlang-libp2p](https://github.com/helium/erlang-libp2p) - An Erlang implementation of libp2p swarms
 - [mikolalysenko/functional-red-black-tree](https://github.com/mikolalysenko/functional-red-black-tree) - A purely functional red-black tree data structure
-- [w3f/research](https://github.com/w3f/research) - Overview of W3F research initatives
+- [paritytech/research](https://github.com/paritytech/research) - Overview of W3F research initatives
 - [ericdrowell/ElGrapho](https://github.com/ericdrowell/ElGrapho) - 
 - [john-light/decentralized-marketplaces](https://github.com/john-light/decentralized-marketplaces) - A list of decentralized marketplaces and decentralized marketplace protocols.
 - [jtheoof/swappy](https://github.com/jtheoof/swappy) - A Wayland native snapshot editing tool, inspired by Snappy on macOS
