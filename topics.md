@@ -92,6 +92,7 @@
 - [english](#english)
 - [es6](#es6)
 - [eslint](#eslint)
+- [esp32](#esp32)
 - [ethereum](#ethereum)
 - [express](#express)
 - [facebook](#facebook)
@@ -1481,6 +1482,22 @@
 - [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run tasks like formatters and linters against staged git files
 - [reviewdog/action-eslint](https://github.com/reviewdog/action-eslint) - Run eslint with reviewdog
 - [idahogurl/vs-code-prettier-eslint](https://github.com/idahogurl/vs-code-prettier-eslint) - A Visual Studio Code Extension to format JavaScript and TypeScript code using the prettier-eslint package.
+
+## esp32 
+
+- [sqfmi/Watchy](https://github.com/sqfmi/Watchy) - Watchy - An Open Source E-Ink Smartwatch
+- [esp-rs/esp-idf-svc](https://github.com/esp-rs/esp-idf-svc) - Type-Safe Rust Wrappers for various ESP-IDF services (WiFi, Network, Httpd, Logging, etc.)
+- [bblanchon/ArduinoJson](https://github.com/bblanchon/ArduinoJson) - 📟 JSON library for Arduino and embedded C++. Simple and efficient.
+- [espressif/esptool-js](https://github.com/espressif/esptool-js) - Javascript implementation of flasher tool for Espressif chips, running in web browser using WebSerial.
+- [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.
+- [kike-canaries/canairio_firmware](https://github.com/kike-canaries/canairio_firmware) - CanAirIO is a citizen science initiative. We are developing a mobile application that is able to set a PM2.5 or CO2 sensors, and other related sensors, as a fixed station using WiFi or mobile station 
+- [chadsr/Aurora-Server](https://github.com/chadsr/Aurora-Server) - A wireless, ESP32 controlled, addressable RGB LED strip server (UDP streaming & JSON API)
+- [meshtastic/firmware](https://github.com/meshtastic/firmware) - The official firmware for Meshtastic, an open-source, off-grid mesh communication system.
+- [khoih-prog/ESPAsync_WiFiManager](https://github.com/khoih-prog/ESPAsync_WiFiManager) - This is an ESP32 (including ESP32-S2 and ESP32-C3) / ESP8266 WiFi Connection Manager, using ESPAsyncWebServer, with fallback web configuration portal. Use this library for configuring ESP32, ESP8266 m
+- [khoih-prog/ESP_WiFiManager](https://github.com/khoih-prog/ESP_WiFiManager) - This is an ESP32 / ESP8266 WiFi Connection Manager with fallback web configuration portal. Use this library for configuring ESP32 (including ESP32-S2 and ESP32-C3), ESP8266 modules' WiFi, etc. Credent
+- [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
+- [yoursunny/WifiEspNow](https://github.com/yoursunny/WifiEspNow) - ESP-NOW Arduino library for ESP8266 and ESP32
+- [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 
 ## ethereum 
 
@@ -3490,7 +3507,6 @@
 - [WICG/private-network-access](https://github.com/WICG/private-network-access) - 
 - [esphome/build-action](https://github.com/esphome/build-action) - 
 - [alstr/todo-to-issue-action](https://github.com/alstr/todo-to-issue-action) - Action that converts TODO comments to GitHub issues on push.
-- [espressif/esptool-js](https://github.com/espressif/esptool-js) - Javascript implementation of flasher tool for Espressif chips, running in web browser using WebSerial.
 - [WICG/webpackage](https://github.com/WICG/webpackage) - Web packaging format
 - [jakearchibald/idb](https://github.com/jakearchibald/idb) - IndexedDB, but with promises
 - [AdrianGonz97/vite-plugin-tailwind-purgecss](https://github.com/AdrianGonz97/vite-plugin-tailwind-purgecss) - A simple Vite plugin that thoroughly purges excess TailwindCSS styles.
@@ -3818,7 +3834,6 @@
 - [filecoin-project/venus](https://github.com/filecoin-project/venus) - Filecoin Full Node Implementation in Go
 - [jakebailey/pyright-action](https://github.com/jakebailey/pyright-action) - GitHub Action for pyright
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
-- [chadsr/Aurora-Server](https://github.com/chadsr/Aurora-Server) - A wireless, ESP32 controlled, addressable RGB LED strip server (UDP streaming & JSON API)
 - [fastify/fastify-helmet](https://github.com/fastify/fastify-helmet) - Important security headers for Fastify
 - [slaxor505/OpenPlantbook-client](https://github.com/slaxor505/OpenPlantbook-client) - Open Plantbook clients and UI
 - [digitalocean/Kubernetes-Starter-Kit-Developers](https://github.com/digitalocean/Kubernetes-Starter-Kit-Developers) - Hands-on tutorial and Automation stack for an operations-ready DigitalOcean Kubernetes (DOKS) cluster.
@@ -3915,7 +3930,6 @@
 - [lukalabs/replika-research](https://github.com/lukalabs/replika-research) - Replika.ai Research Papers, Posters, Slides & Datasets
 - [makew0rld/dither](https://github.com/makew0rld/dither) - A fast, correct image dithering library in Go.
 - [flxapps/DetoxDroid](https://github.com/flxapps/DetoxDroid) - Use your phone rather than letting your phone use you.
-- [meshtastic/firmware](https://github.com/meshtastic/firmware) - The official firmware for Meshtastic, an open-source, off-grid mesh communication system.
 - [BlockScience/Community_Inclusion_Currencies](https://github.com/BlockScience/Community_Inclusion_Currencies) - Repository for Complex Systems model of the Grassroots Economics Community Inclusion Currency project.
 - [marthendalnunes/covid-simulation](https://github.com/marthendalnunes/covid-simulation) - COVID-19 SEIR model using cadCAD and Streamlit.
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
@@ -3999,7 +4013,6 @@
 - [OpenMediaVault-Plugin-Developers/openmediavault-wireguard](https://github.com/OpenMediaVault-Plugin-Developers/openmediavault-wireguard) - openmediavault plugin for WireGuard
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [jepsen-io/jepsen](https://github.com/jepsen-io/jepsen) - A framework for distributed systems verification, with fault injection
-- [khoih-prog/ESPAsync_WiFiManager](https://github.com/khoih-prog/ESPAsync_WiFiManager) - This is an ESP32 (including ESP32-S2 and ESP32-C3) / ESP8266 WiFi Connection Manager, using ESPAsyncWebServer, with fallback web configuration portal. Use this library for configuring ESP32, ESP8266 m
 - [hashmatter/libp2p-onion-routing](https://github.com/hashmatter/libp2p-onion-routing) - in-dht onion routing using libp2p
 - [libp2p/go-libp2p-examples](https://github.com/libp2p/go-libp2p-examples) - Example libp2p applications
 - [libp2p/js-libp2p-examples](https://github.com/libp2p/js-libp2p-examples) - Examples for the JS implementation of libp2p
