@@ -1533,6 +1533,7 @@
 
 ## Python 
 
+- [Open-Wine-Components/umu-launcher](https://github.com/Open-Wine-Components/umu-launcher) - Unified launcher for Windows games on Linux
 - [harbor-framework/terminal-bench-3](https://github.com/harbor-framework/terminal-bench-3) - 🚧 Accepting Task Submissions 🚧
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
 - [harbor-framework/terminal-bench](https://github.com/harbor-framework/terminal-bench) - A benchmark for LLMs on complicated tasks in the terminal
