@@ -677,7 +677,7 @@
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
-- [getkin/kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
+- [getkin/kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 and 3.1 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 - [uber-go/dig](https://github.com/uber-go/dig) - A reflection based dependency injection toolkit for Go.
