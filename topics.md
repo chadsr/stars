@@ -1921,7 +1921,7 @@
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [go-semantic-release/semantic-release](https://github.com/go-semantic-release/semantic-release) - 📦🚀 semantic-release written in Go
 - [mvdan/github-actions-golang](https://github.com/mvdan/github-actions-golang) - GitHub Actions as CI for Go
-- [gobwas/ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go.
+- [gobwas/ws](https://github.com/gobwas/ws) - A tiny WebSocket library for Go.
 - [gorilla/websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
 - [coder/websocket](https://github.com/coder/websocket) - Minimal and idiomatic WebSocket library for Go
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
@@ -2109,7 +2109,7 @@
 - [northwesternmutual/grammes](https://github.com/northwesternmutual/grammes) - A Go package built to communicate with Apache TinkerPop™ Graph computing framework using Gremlin; a graph traversal language used by graph databases such as JanusGraph®, MS Cosmos DB, AWS Neptune, and
 - [tcnksm/ghr](https://github.com/tcnksm/ghr) - Upload multiple artifacts to GitHub Release in parallel
 - [mvdan/github-actions-golang](https://github.com/mvdan/github-actions-golang) - GitHub Actions as CI for Go
-- [gobwas/ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go.
+- [gobwas/ws](https://github.com/gobwas/ws) - A tiny WebSocket library for Go.
 - [gorilla/websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
