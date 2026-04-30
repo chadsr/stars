@@ -781,7 +781,7 @@
 - [go-semantic-release/commit-analyzer-cz](https://github.com/go-semantic-release/commit-analyzer-cz) - :bulb: Conventional Commits Analyzer
 - [go-semantic-release/semantic-release](https://github.com/go-semantic-release/semantic-release) - 📦🚀 semantic-release written in Go
 - [mvdan/github-actions-golang](https://github.com/mvdan/github-actions-golang) - GitHub Actions as CI for Go
-- [gobwas/ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go.
+- [gobwas/ws](https://github.com/gobwas/ws) - A tiny WebSocket library for Go.
 - [gorilla/websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
 - [coder/websocket](https://github.com/coder/websocket) - Minimal and idiomatic WebSocket library for Go
 - [GDGVIT/mombot](https://github.com/GDGVIT/mombot) - A privacy oriented discord bot for recording minutes of meeting (MoM)
