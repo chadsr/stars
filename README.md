@@ -1469,7 +1469,6 @@
 - [goabstract/Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
 - [cosmos/research](https://github.com/cosmos/research) - 
 - [matter-labs/awesome-zero-knowledge-proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).
-- [xtaci/kcptun](https://github.com/xtaci/kcptun) - Reliable UDP Transmission Optimizer based on KCP: Enhancing network efficiency in poor connectivity environments.
 - [friendlyarm/friendlywrt_manifests](https://github.com/friendlyarm/friendlywrt_manifests) - 
 - [theanalyst/awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems) - A curated list to learn about distributed systems
 - [rtlewis88/rtl88-Themes](https://github.com/rtlewis88/rtl88-Themes) - GTK, xfwm4, openbox-3, GNOME-Shell Themes, and Cinnamon themes
@@ -1736,7 +1735,7 @@
 - [OpenMiHome/mihome-binary-protocol](https://github.com/OpenMiHome/mihome-binary-protocol) - 
 - [consensus-shipyard/consensuslab](https://github.com/consensus-shipyard/consensuslab) - The go-to place for scalable decentralised consensus research
 - [j-be/AutoBim](https://github.com/j-be/AutoBim) - A bed tramming utility for OctoPrint using ABL
-- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component to calculate estimated power consumption of lights and other appliances
+- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Home Assistant Custom component to calculate estimated power consumption of lights and other appliances
 - [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
 - [eyal0/OctoPrint-PrintTimeGenius](https://github.com/eyal0/OctoPrint-PrintTimeGenius) - Use a gcode pre-analysis to provide better print time estimation
 - [dask/distributed](https://github.com/dask/distributed) - A distributed task scheduler for Dask
