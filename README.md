@@ -1619,7 +1619,7 @@
 - [jsh9/pydoclint](https://github.com/jsh9/pydoclint) - A very fast Python docstring linter
 - [freelawproject/courtlistener](https://github.com/freelawproject/courtlistener) - A fully-searchable and accessible archive of court data including growing repositories of opinions, oral arguments, judges, judicial financial records, and federal filings.
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [termux/termux-language-server](https://github.com/termux/termux-language-server) - 🛠️ A language server for some specific bash scripts
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
