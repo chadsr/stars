@@ -970,7 +970,7 @@
 - [mpsq/arewewaylandyet](https://github.com/mpsq/arewewaylandyet) - Sources for https://arewewaylandyet.com
 - [tvdboom/ATOM](https://github.com/tvdboom/ATOM) - Automated Tool for Optimized Modelling
 - [manjaro-sway/manjaro-sway](https://github.com/manjaro-sway/manjaro-sway) - manjaro linux with wayland 🖼, sway 🌴 and a lot of ♥
-- [w3c/rdf-star](https://github.com/w3c/rdf-star) - RDF-star specification
+- [w3c-cg/rdf-star](https://github.com/w3c-cg/rdf-star) - RDF-star specification
 - [w3c/vc-use-cases](https://github.com/w3c/vc-use-cases) - Verifiable Credentials Use Cases
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
 - [vyperfun/vyper.fun](https://github.com/vyperfun/vyper.fun) - Cryptozombies for Vyper: Learn Vyper by building games!
