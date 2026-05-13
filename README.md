@@ -68,6 +68,7 @@
 - [Scala](#scala)
 - [Shell](#shell)
 - [Solidity](#solidity)
+- [Starlark](#starlark)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TLA](#tla)
@@ -1940,6 +1941,7 @@
 
 ## Rust 
 
+- [Mesh-LLM/mesh-llm](https://github.com/Mesh-LLM/mesh-llm) - Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.
 - [WGUNDERWOOD/tex-fmt](https://github.com/WGUNDERWOOD/tex-fmt) - An extremely fast LaTeX formatter written in Rust
 - [tailcallhq/forgecode](https://github.com/tailcallhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 - [tamasfe/taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust
@@ -2209,6 +2211,10 @@
 - [Consensys/anonymous-zether](https://github.com/Consensys/anonymous-zether) - A private payment system for Ethereum-based blockchains, with no trusted setup.
 - [starkware-libs/starkex-contracts](https://github.com/starkware-libs/starkex-contracts) - 
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
+
+## Starlark 
+
+- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 
 ## Svelte 
 
