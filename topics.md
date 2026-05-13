@@ -319,6 +319,7 @@
 
 ## agents 
 
+- [Mesh-LLM/mesh-llm](https://github.com/Mesh-LLM/mesh-llm) - Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
 - [cybertheory/AutonomousSphere](https://github.com/cybertheory/AutonomousSphere) - AutonomousSphere is an agentic collaboration server. Agents talk, act, and use tools like teammates. Federated servers form an internet of autonomous teams. Powered by Google’s A2A protocol.
@@ -328,6 +329,7 @@
 
 ## ai 
 
+- [Mesh-LLM/mesh-llm](https://github.com/Mesh-LLM/mesh-llm) - Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
@@ -1347,6 +1349,7 @@
 
 ## docker 
 
+- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 - [tsaridas/stremio-docker](https://github.com/tsaridas/stremio-docker) - Docker files for easy stremio server and client. Images pushed to Dockerhub
 - [CaddyBuilds/caddy-cloudflare](https://github.com/CaddyBuilds/caddy-cloudflare) - Caddy Docker image with Cloudflare DNS module
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
@@ -2922,6 +2925,7 @@
 
 ## llm 
 
+- [Mesh-LLM/mesh-llm](https://github.com/Mesh-LLM/mesh-llm) - Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.
 - [numindai/nuextract](https://github.com/numindai/nuextract) - 
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [tailcallhq/forgecode](https://github.com/tailcallhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
@@ -4024,7 +4028,7 @@
 - [emersion/go-ical](https://github.com/emersion/go-ical) - An iCalendar library for Go
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [underlay/apg](https://github.com/underlay/apg) - Underlay APG utilities
-- [w3c/rdf-star](https://github.com/w3c/rdf-star) - RDF-star specification
+- [w3c-cg/rdf-star](https://github.com/w3c-cg/rdf-star) - RDF-star specification
 - [clrfund/monorepo](https://github.com/clrfund/monorepo) - clr.fund dapp
 - [uber/prototool](https://github.com/uber/prototool) - Your Swiss Army Knife for Protocol Buffers
 - [nicola/decentralized-research](https://github.com/nicola/decentralized-research) - :book: My reading list of academic papers and research notes
