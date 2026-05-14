@@ -230,7 +230,6 @@
 
 - [azam/jellyfin-plugin-localsubs](https://github.com/azam/jellyfin-plugin-localsubs) - Subtitle provider plugin for local subtitle files on Jellyfin
 - [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
-- [Nexus-Mods/NexusMods.App](https://github.com/Nexus-Mods/NexusMods.App) - Home of the development of the Nexus Mods App
 - [WolvenKit/WolvenKit](https://github.com/WolvenKit/WolvenKit) - Community Mod editor/creator for REDengine games.
 - [aluxnimm/outlookcaldavsynchronizer](https://github.com/aluxnimm/outlookcaldavsynchronizer) - Sync Outlook with Google, SOGo, Nextcloud or any other CalDAV/CardDAV server
 - [keijiro/Pix2Pix](https://github.com/keijiro/Pix2Pix) - Real-time pix2pix implementation with Unity
@@ -242,6 +241,7 @@
 
 ## C++ 
 
+- [jellyfin/jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop) - Jellyfin Desktop Client
 - [uazo/cromite](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) - Amnezia VPN Client (Desktop+Mobile)
@@ -1144,7 +1144,7 @@
 - [complexityexplained/complexityexplained.github.io](https://github.com/complexityexplained/complexityexplained.github.io) - Complexity Explained, a community-driven project to create easy-to-understand documents and materials for Complexity Science education
 - [UltimateHackingKeyboard/uhk60v1-electronics](https://github.com/UltimateHackingKeyboard/uhk60v1-electronics) - The schematic and PCBs of the UHK 60 v1
 - [liamzebedee/retrust](https://github.com/liamzebedee/retrust) - Subjective consensus algorithm and value governance protocol 🌎
-- [ZoneMinder/zmNinja](https://github.com/ZoneMinder/zmNinja) - High performance, cross platform ionic app for Home/Commerical Security Surveillance using ZoneMinder
+- [ZoneMinder/zmNinja](https://github.com/ZoneMinder/zmNinja) - zmNinja is no longer being maintained. Please use zmNinjaNg
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [teddit-net/teddit](https://github.com/teddit-net/teddit) - alternative Reddit front-end focused on privacy https://teddit.net
 - [klaudiosinani/taskbook](https://github.com/klaudiosinani/taskbook) - Tasks, boards & notes for the command-line habitat
