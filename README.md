@@ -1256,10 +1256,10 @@
 - [bencbartlett/3D-printed-mirror-array](https://github.com/bencbartlett/3D-printed-mirror-array) - 3D-printable hexagonal mirror array capable of reflecting sunlight into arbitrary patterns
 - [DataDog/go-profiler-notes](https://github.com/DataDog/go-profiler-notes) - felixge's notes on the various go profiling methods that are available.
 - [lukalabs/replika-research](https://github.com/lukalabs/replika-research) - Replika.ai Research Papers, Posters, Slides & Datasets
-- [BlockScience/Community_Inclusion_Currencies](https://github.com/BlockScience/Community_Inclusion_Currencies) - Repository for Complex Systems model of the Grassroots Economics Community Inclusion Currency project.
+- [DynamicalSystemsGroup/Community_Inclusion_Currencies](https://github.com/DynamicalSystemsGroup/Community_Inclusion_Currencies) - Repository for Complex Systems model of the Grassroots Economics Community Inclusion Currency project.
 - [filipsPL/cat-localizer](https://github.com/filipsPL/cat-localizer) - Localize your cat at home with BLE beacon, ESP32s, and Machine Learning
 - [arangoml/knowlegegraph-demo](https://github.com/arangoml/knowlegegraph-demo) - 
-- [BlockScience/conviction](https://github.com/BlockScience/conviction) - Repository for Research on Conviction voting schemes
+- [danlessa/conviction](https://github.com/danlessa/conviction) - Repository for Research on Conviction voting schemes
 - [evgps/a3c_trading](https://github.com/evgps/a3c_trading) - Trading with recurrent actor-critic reinforcement learning
 - [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
 - [gsi-upm/sematch](https://github.com/gsi-upm/sematch) - semantic similarity framework for knowledge graph
@@ -2262,7 +2262,7 @@
 - [Inrixia/TidaLuna](https://github.com/Inrixia/TidaLuna) - A client mod for the Tidal music client & successor to Neptune
 - [huggingface/hf-mcp-server](https://github.com/huggingface/hf-mcp-server) - Hugging Face MCP Server
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [microsoft/DebugMCP](https://github.com/microsoft/DebugMCP) - Gift your VS Code agent a real debugger: breakpoints, stepping, inspection.
