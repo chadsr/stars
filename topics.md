@@ -921,6 +921,7 @@
 
 ## code-quality 
 
+- [SonarSource/sonarlint-vscode](https://github.com/SonarSource/sonarlint-vscode) - SonarQube extension for Visual Studio Code providing code quality and security feedback directly in the editor
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever!
 - [marian-code/python-lint-annotate](https://github.com/marian-code/python-lint-annotate) - Zero-configuration GitHub Action to maintain code quality with push and PR annotations.
@@ -1402,7 +1403,7 @@
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
 - [eko/pihole-exporter](https://github.com/eko/pihole-exporter) - A Prometheus exporter for PI-Hole's Raspberry PI ad blocker
-- [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
+- [passteque/gluetun](https://github.com/passteque/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [orlangure/gnomock](https://github.com/orlangure/gnomock) - Test your code without writing mocks with ephemeral Docker containers 📦 Setup popular services with just a couple lines of code ⏱️ No bash, no yaml, only code 💻
 - [invoiceninja/dockerfiles](https://github.com/invoiceninja/dockerfiles) - Docker files for Invoice Ninja
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
@@ -2114,7 +2115,7 @@
 - [unpoller/unpoller](https://github.com/unpoller/unpoller) - Application: Collect ALL UniFi Controller, Site, Device & Client Data - Export to InfluxDB or Prometheus
 - [swaggo/swag](https://github.com/swaggo/swag) - Automatically generate RESTful API documentation with Swagger 2.0 for Go.
 - [burrowers/garble](https://github.com/burrowers/garble) - Obfuscate Go builds
-- [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
+- [passteque/gluetun](https://github.com/passteque/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library
 - [gnolang/gno](https://github.com/gnolang/gno) - Gno: An interpreted, stack-based Go virtual machine to build succinct and composable apps + gno.land: a blockchain for timeless code and fair open-source.
 - [rivo/uniseg](https://github.com/rivo/uniseg) - Unicode Text Segmentation, Word Wrapping, and String Width Calculation in Go
@@ -3841,7 +3842,6 @@
 - [technik-gegg/SMuFF-1.1](https://github.com/technik-gegg/SMuFF-1.1) - Latest version of the SMuFF firmware to be compiled in PlatformIO
 - [radicle-dev/radicle-cli](https://github.com/radicle-dev/radicle-cli) - Radicle CLI
 - [sunknudsen/guides](https://github.com/sunknudsen/guides) - Explore guides
-- [SonarSource/sonarlint-vscode](https://github.com/SonarSource/sonarlint-vscode) - SonarLint for Visual Studio Code
 - [coreos/bcrypt-tool](https://github.com/coreos/bcrypt-tool) - 
 - [Flamingo-tech/Xiaomi_air_purifier_modchip](https://github.com/Flamingo-tech/Xiaomi_air_purifier_modchip) - Open source Xiaomi air purifier modchip
 - [openboard-team/openboard](https://github.com/openboard-team/openboard) - 
@@ -5085,6 +5085,7 @@
 - [ConsenSysDiligence/vscode-solidity-auditor](https://github.com/ConsenSysDiligence/vscode-solidity-auditor) - Solidity language support and visual security auditor for Visual Studio Code
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [jonaschn/awesome-he](https://github.com/jonaschn/awesome-he) - ✨ Awesome - A curated list of amazing Homomorphic Encryption libraries, software and resources
+- [SonarSource/sonarlint-vscode](https://github.com/SonarSource/sonarlint-vscode) - SonarQube extension for Visual Studio Code providing code quality and security feedback directly in the editor
 - [reviewdog/action-detect-secrets](https://github.com/reviewdog/action-detect-secrets) - GitHub Action: Run detect-secrets with reviewdog
 - [GrapheneOS/Camera](https://github.com/GrapheneOS/Camera) - Modern camera app focused on privacy and security with QR & barcode scanning.
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
