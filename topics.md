@@ -883,6 +883,7 @@
 - [emersion/mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon
 - [emersion/grim](https://github.com/emersion/grim) - Grab images from a Wayland compositor
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [MainframeOS/erebos](https://github.com/MainframeOS/erebos) - JavaScript client and CLI for Swarm
 - [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-staged, gluegun, 
 - [madnight/bitcoin-chart-cli](https://github.com/madnight/bitcoin-chart-cli) - Bitcoin chart for the terminal as command line util
