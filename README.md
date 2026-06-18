@@ -736,7 +736,7 @@
 - [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
 - [stefanwichmann/kelvin](https://github.com/stefanwichmann/kelvin) - Kelvin - The hue bot
 - [dgraph-io/dgo](https://github.com/dgraph-io/dgo) - Official Dgraph Go client
-- [encoredev/encore](https://github.com/encoredev/encore) - Automate infrastructure from local to your cloud
+- [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
 - [esimov/caire](https://github.com/esimov/caire) - Content aware image resize library
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
 - [willnorris/imageproxy](https://github.com/willnorris/imageproxy) - A caching, resizing image proxy written in Go
