@@ -1381,6 +1381,7 @@
 
 ## Nix 
 
+- [denful/den](https://github.com/denful/den) - Aspect-oriented, context-driven Nix configurations.
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]
 - [dapphub/dappsys](https://github.com/dapphub/dappsys) - Composable building blocks for Ethereum contracts
 
@@ -1563,6 +1564,7 @@
 
 ## Python 
 
+- [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [scop/pre-commit-shfmt](https://github.com/scop/pre-commit-shfmt) - shfmt hook for prek and pre-commit, with auto install
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
@@ -2431,7 +2433,7 @@
 - [sigp/siren](https://github.com/sigp/siren) - User interface for Lighthouse
 - [zokugun/vscode-sync-settings](https://github.com/zokugun/vscode-sync-settings) - Easily synchronize your settings
 - [lost-pixel/lost-pixel](https://github.com/lost-pixel/lost-pixel) - Open source alternative to Percy, Chromatic, Applitools.
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save. Share. Privately.
+- [linsa-io/linsa.io](https://github.com/linsa-io/linsa.io) - Work. Save. Share. Privately.
 - [cursorless-dev/cursorless](https://github.com/cursorless-dev/cursorless) - Don't let the cursor slow you down
 - [libp2p/js-libp2p-webrtc](https://github.com/libp2p/js-libp2p-webrtc) - 
 - [ucan-wg/ts-ucan](https://github.com/ucan-wg/ts-ucan) - Auth tokens for a distributed, user-controlled world
