@@ -3560,7 +3560,7 @@
 - [reviewdog/action-golangci-lint](https://github.com/reviewdog/action-golangci-lint) - Run golangci-lint with reviewdog
 - [Open-Wine-Components/umu-launcher](https://github.com/Open-Wine-Components/umu-launcher) - Unified launcher for Windows games on Linux
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
-- [harbor-framework/terminal-bench-3](https://github.com/harbor-framework/terminal-bench-3) - Measuring agents' ability to get work done on a computer
+- [harbor-framework/frontier-bench](https://github.com/harbor-framework/frontier-bench) - Measuring agents' ability to get work done on a computer
 - [harbor-framework/terminal-bench](https://github.com/harbor-framework/terminal-bench) - A benchmark for LLMs on complicated tasks in the terminal
 - [harbor-framework/harbor](https://github.com/harbor-framework/harbor) - Framework for evaluating and improving agents
 - [scrapinghub/article-extraction-benchmark](https://github.com/scrapinghub/article-extraction-benchmark) - Article extraction benchmark: dataset and evaluation scripts
