@@ -563,7 +563,7 @@
 - [hexops/autogold](https://github.com/hexops/autogold) - Automatically update your Go tests
 - [deckarep/golang-set](https://github.com/deckarep/golang-set) - A simple, battle-tested and generic set type for the Go language. Trusted by GoogleCloudPlatform, Docker, 1Password, Ethereum and Hashicorp.
 - [stateless-minds/cyber-stasis](https://github.com/stateless-minds/cyber-stasis) - Post-money economy simulator in the form of a free fictional game based on gift economy that tests the hypothesis of having a market system without any exchange be it barters or money.
-- [mrusme/superhighway84](https://github.com/mrusme/superhighway84) - USENET-inspired, uncensorable, decentralized internet discussion system running on IPFS & OrbitDB (https://codeberg.org/mrus/superhighway84)
+- [mrusme/superhighway84](https://github.com/mrusme/superhighway84) - USENET-inspired, uncensorable, decentralized internet discussion system running on IPFS & OrbitDB (https://tty.fail/mrus/superhighway84)
 - [go-jet/jet](https://github.com/go-jet/jet) - Type safe SQL builder with code generation and automatic query result data mapping
 - [ipfs/go-bitswap](https://github.com/ipfs/go-bitswap) - The golang implementation of the bitswap protocol
 - [ipni/storetheindex](https://github.com/ipni/storetheindex) - A directory of CIDs
@@ -1583,7 +1583,7 @@
 - [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - The property-based testing library for Python
 - [pimutils/todoman](https://github.com/pimutils/todoman) - ✅ Simple, standards-based, command line todo (aka: task) manager.
 - [Open-Wine-Components/umu-launcher](https://github.com/Open-Wine-Components/umu-launcher) - Unified launcher for Windows games on Linux
-- [harbor-framework/frontier-bench](https://github.com/harbor-framework/frontier-bench) - Measuring agents' ability to get work done on a computer
+- [harbor-framework/frontier-bench](https://github.com/harbor-framework/frontier-bench) - Measuring and evolving with the frontier of agent work
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
 - [harbor-framework/terminal-bench](https://github.com/harbor-framework/terminal-bench) - A benchmark for LLMs on complicated tasks in the terminal
 - [harbor-framework/harbor](https://github.com/harbor-framework/harbor) - Framework for evaluating and improving agents
