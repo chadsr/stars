@@ -117,7 +117,7 @@
 - [PBearson/ESP32_Flash_Encryption_Tutorial](https://github.com/PBearson/ESP32_Flash_Encryption_Tutorial) - 
 - [ArtsyMacaw/wlogout](https://github.com/ArtsyMacaw/wlogout) - A wayland based logout menu
 - [WillPower3309/swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy!
-- [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
+- [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
 - [BlockchainCommons/bc-sskr](https://github.com/BlockchainCommons/bc-sskr) - Sharded Secret Key Reconstruction (SSKR) reference library in C
 - [eiln/ane](https://github.com/eiln/ane) - Reverse engineered Linux driver for the Apple Neural Engine (ANE).
 - [francma/wob](https://github.com/francma/wob) - Lightweight overlay volume, brightness (or anything) bar for Wayland
@@ -1911,7 +1911,7 @@
 - [influxdata/influxdb-python](https://github.com/influxdata/influxdb-python) - Python client for InfluxDB
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [hukkelas/DeepPrivacy](https://github.com/hukkelas/DeepPrivacy) - DeepPrivacy: A Generative Adversarial Network for Face Anonymization
-- [erpalma/throttled](https://github.com/erpalma/throttled) - Workaround for Intel throttling issues in Linux.
+- [erpalma/throttled](https://github.com/erpalma/throttled) - Linux daemon for Intel CPU power limits and firmware-induced throttling.
 - [amanusk/s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility
 - [ConsenSysDiligence/mythril](https://github.com/ConsenSysDiligence/mythril) - Mythril is a symbolic-execution-based securty analysis tool for EVM bytecode. It detects security vulnerabilities in smart contracts built for Ethereum and other EVM-compatible blockchains.
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
