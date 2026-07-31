@@ -289,7 +289,7 @@
 - [tom1422/ESPHome-HPMA115S0-Sensor-Component](https://github.com/tom1422/ESPHome-HPMA115S0-Sensor-Component) - Integration for the HPMA115S0 Dust and Particle Sensor into ESPHome
 - [kike-canaries/canairio_firmware](https://github.com/kike-canaries/canairio_firmware) - CanAirIO is a citizen science initiative. We are developing a mobile application that is able to set a PM2.5 or CO2 sensors, and other related sensors, as a fixed station using WiFi or mobile station 
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-- [jellyfin-archive/jellyfin-desktop-qt](https://github.com/jellyfin-archive/jellyfin-desktop-qt) - Jellyfin Desktop Client
+- [jellyfin/jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop) - Jellyfin Desktop Client
 - [CrealityOfficial/Ender-3S1](https://github.com/CrealityOfficial/Ender-3S1) - This Source code for Creality Ender-3S1 Series,MCU and Screen
 - [mriscoc/Ender3V2S1](https://github.com/mriscoc/Ender3V2S1) - This is optimized firmware for Ender3 V2/S1 3D printers.
 - [JasonRJ/RAK7200_Helium_Mapper](https://github.com/JasonRJ/RAK7200_Helium_Mapper) - RAK7200 Helium Mapper - S76G SiP (STM32l073RX, SX1276, CXD5603GF)
@@ -581,7 +581,7 @@
 - [eminetto/clean-architecture-go-v2](https://github.com/eminetto/clean-architecture-go-v2) - Clean Architecture sample
 - [ipfs/go-ipfs-blockstore](https://github.com/ipfs/go-ipfs-blockstore) - [ARCHIVED] This module provides a thin wrapper over a datastore and provides caching strategies.
 - [planetary-social/scuttlego](https://github.com/planetary-social/scuttlego) - A Go implementation of the Secure Scuttlebutt protocol.
-- [ipfs-shipyard/git-remote-ipld](https://github.com/ipfs-shipyard/git-remote-ipld) - 
+- [ipfs-shipyard/git-remote-ipld](https://github.com/ipfs-shipyard/git-remote-ipld) - Old (2019) proof of concept
 - [hsanjuan/ipfs-lite](https://github.com/hsanjuan/ipfs-lite) - IPFS-Lite is an embeddable, lightweight IPFS-network peer for IPLD applications
 - [t2bot/matrix-media-repo](https://github.com/t2bot/matrix-media-repo) - Highly configurable multi-domain media repository for Matrix.
 - [spf13/cast](https://github.com/spf13/cast) - safe and easy casting from one type to another in Go
@@ -1126,7 +1126,7 @@
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
-- [ipfs-shipyard/ipfs-deploy](https://github.com/ipfs-shipyard/ipfs-deploy) - Zero-Config CLI to Deploy Static Websites to IPFS
+- [ipfs-shipyard/ipfs-deploy](https://github.com/ipfs-shipyard/ipfs-deploy) - Old (2022) proof of concept:  Zero-Config CLI to Deploy Static Websites to IPFS
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [ConsenSysDiligence/vscode-solidity-auditor](https://github.com/ConsenSysDiligence/vscode-solidity-auditor) - Solidity language support and visual security auditor for Visual Studio Code
@@ -1639,6 +1639,7 @@
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [juftin/hatch-pip-compile](https://github.com/juftin/hatch-pip-compile) - hatch plugin to use pip-compile (or uv) to manage project dependencies and lockfiles
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [electric-capital/open-dev-data](https://github.com/electric-capital/open-dev-data) - A taxonomy for open source cryptocurrency, blockchain, and decentralized ecosystems
 - [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.
@@ -2324,7 +2325,7 @@
 - [firsttris/vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner) - Run and debug Jest, Vitest, Rstest, Node.js, Bun, Deno and Playwright tests with ease, right from your editor.
 - [capacitor-community/bluetooth-le](https://github.com/capacitor-community/bluetooth-le) - Capacitor plugin for Bluetooth Low Energy
 - [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) - Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
-- [j178/prek-action](https://github.com/j178/prek-action) - A GitHub Action that runs pre-commit hooks using prek in your CI/CD pipeline
+- [j178/prek-action](https://github.com/j178/prek-action) - Run prek in your GitHub Actions workflows
 - [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) - Set up your GitHub Actions workflow with a specific version of https://docs.astral.sh/uv/
 - [browserbase/mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase) - Allow LLMs to control a browser with Browserbase and Stagehand
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
@@ -2378,7 +2379,7 @@
 - [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 - [jakearchibald/idb](https://github.com/jakearchibald/idb) - IndexedDB, but with promises
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
-- [chakra-ui/zag](https://github.com/chakra-ui/zag) - Build your design system in React, Solid, Vue or Svelte. Powered by finite state machines
+- [chakra-ui/zag](https://github.com/chakra-ui/zag) - Build your design system in React, Solid, Vue, Svelte or Vanilla. Powered by finite state machines
 - [unplugin/unplugin-icons](https://github.com/unplugin/unplugin-icons) - 🤹 Access thousands of icons as components on-demand universally.
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - Skeleton is an adaptive design system powered by Tailwind CSS.
 - [AdrianGonz97/vite-plugin-tailwind-purgecss](https://github.com/AdrianGonz97/vite-plugin-tailwind-purgecss) - A simple Vite plugin that thoroughly purges excess TailwindCSS styles.
@@ -2390,7 +2391,6 @@
 - [vite-pwa/sveltekit](https://github.com/vite-pwa/sveltekit) - Zero-config PWA Plugin for SvelteKit
 - [apertureless/vue-chartjs](https://github.com/apertureless/vue-chartjs) - 📊  Vue.js wrapper for Chart.js
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
 - [streetsidesoftware/vscode-spell-checker](https://github.com/streetsidesoftware/vscode-spell-checker) - A simple source code spell checker for code
 - [bmatcuk/stylelint-lsp](https://github.com/bmatcuk/stylelint-lsp) - A stylelint Language Server
