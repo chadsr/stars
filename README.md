@@ -1586,9 +1586,9 @@
 - [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - The property-based testing library for Python
 - [pimutils/todoman](https://github.com/pimutils/todoman) - ✅ Simple, standards-based, command line todo (aka: task) manager.
 - [Open-Wine-Components/umu-launcher](https://github.com/Open-Wine-Components/umu-launcher) - Unified launcher for Windows games on Linux
-- [harbor-framework/frontier-bench](https://github.com/harbor-framework/frontier-bench) - Measuring and evolving with the frontier of agent work
+- [harbor-framework/terminal-bench](https://github.com/harbor-framework/terminal-bench) - Measuring and evolving with the frontier of agent work
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
-- [harbor-framework/terminal-bench](https://github.com/harbor-framework/terminal-bench) - A benchmark for LLMs on complicated tasks in the terminal
+- [harbor-framework/terminal-bench-1](https://github.com/harbor-framework/terminal-bench-1) - A benchmark for LLMs on complicated tasks in the terminal
 - [harbor-framework/harbor](https://github.com/harbor-framework/harbor) - Framework for evaluating and improving agents
 - [toon-format/toon-python](https://github.com/toon-format/toon-python) - 🐍 Community-driven Python implementation of TOON
 - [scrapinghub/article-extraction-benchmark](https://github.com/scrapinghub/article-extraction-benchmark) - Article extraction benchmark: dataset and evaluation scripts
