@@ -3551,6 +3551,7 @@
 
 ## others 
 
+- [htnabe/prettier-plugin-go-template](https://github.com/htnabe/prettier-plugin-go-template) - Fixes prettier formatting for go templates 🐹
 - [mimi89999/Authnkey](https://github.com/mimi89999/Authnkey) - Passkey credential provider for hardware security keys
 - [marocchino/sticky-pull-request-comment](https://github.com/marocchino/sticky-pull-request-comment) - create comment on pull request, if exists update that comment.
 - [mozilla/sccache](https://github.com/mozilla/sccache) - Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cl
