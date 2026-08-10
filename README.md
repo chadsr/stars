@@ -2311,6 +2311,7 @@
 
 ## TypeScript 
 
+- [htnabe/prettier-plugin-go-template](https://github.com/htnabe/prettier-plugin-go-template) - Fixes prettier formatting for go templates 🐹
 - [marocchino/sticky-pull-request-comment](https://github.com/marocchino/sticky-pull-request-comment) - create comment on pull request, if exists update that comment.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [MoldyTaint/Cinephage](https://github.com/MoldyTaint/Cinephage) - The AIO solution to your self hosted media gathering needs
