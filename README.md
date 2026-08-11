@@ -243,6 +243,8 @@
 
 ## C++ 
 
+- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
+- [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [hyprnux/hyprglass](https://github.com/hyprnux/hyprglass) - Hyprland plugin that add blur, lens, difraction, refraction effects to transparent windows. Inspired by Liquid Glass design
 - [maplibre/maplibre-native](https://github.com/maplibre/maplibre-native) - MapLibre Native - Interactive vector tile maps for iOS, Android and other platforms.
 - [uazo/cromite](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
@@ -1570,6 +1572,8 @@
 
 ## Python 
 
+- [fedora-python/lxml_html_clean](https://github.com/fedora-python/lxml_html_clean) - Separate project for HTML cleaning functionalities copied from lxml.html.clean.
+- [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 - [hermes-labs-ai/lintlang](https://github.com/hermes-labs-ai/lintlang) - Static analysis for AI agent configs, tool descriptions, and system prompts — catches vague tool descriptions, missing stop conditions, and schema gaps before they reach runtime. Zero-LLM, determinist
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [cisco-ai-defense/skill-scanner](https://github.com/cisco-ai-defense/skill-scanner) - Security Scanner for Agent Skills
@@ -2311,6 +2315,7 @@
 
 ## TypeScript 
 
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [htnabe/prettier-plugin-go-template](https://github.com/htnabe/prettier-plugin-go-template) - Fixes prettier formatting for go templates 🐹
 - [marocchino/sticky-pull-request-comment](https://github.com/marocchino/sticky-pull-request-comment) - create comment on pull request, if exists update that comment.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
