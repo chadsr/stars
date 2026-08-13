@@ -412,7 +412,7 @@
 
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [RedisGears/RedisGears](https://github.com/RedisGears/RedisGears) - Dynamic execution framework for your Redis data
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no tracking, self-hosted or in the cloud.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.
 - [apache/age](https://github.com/apache/age) - Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
 - [chadsr/MAD-EUParl](https://github.com/chadsr/MAD-EUParl) - European Parliament data mining/analytics, utilising linked data.
@@ -539,6 +539,7 @@
 
 ## archlinux 
 
+- [enhaoswen/Tide-island](https://github.com/enhaoswen/Tide-island) - Tide Island is a smooth, lightweight, and flexible interactive island for Hyprland.
 - [JamieMagee/aur-packages-template](https://github.com/JamieMagee/aur-packages-template) - Maintain your AUR packages automatically using Renovate
 - [KSXGitHub/github-actions-deploy-aur](https://github.com/KSXGitHub/github-actions-deploy-aur) - GitHub Actions to publish AUR package
 - [chadsr/aur-packages](https://github.com/chadsr/aur-packages) - AUR Packages
@@ -2946,6 +2947,7 @@
 
 ## linux 
 
+- [enhaoswen/Tide-island](https://github.com/enhaoswen/Tide-island) - Tide Island is a smooth, lightweight, and flexible interactive island for Hyprland.
 - [KiefStudioMA/ks-aur-scanner](https://github.com/KiefStudioMA/ks-aur-scanner) - A comprehensive security scanner for Arch Linux AUR packages that analyzes PKGBUILDs and install scripts for malicious patterns, suspicious behavior, and security vulnerabilities. Written in Rust for 
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
@@ -2969,7 +2971,7 @@
 - [fossable/goldboot](https://github.com/fossable/goldboot) - Build golden images with CI
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [anufrievroman/waypaper](https://github.com/anufrievroman/waypaper) - GUI wallpaper manager for Wayland and Xorg Linux systems
-- [apognu/tuigreet](https://github.com/apognu/tuigreet) - Graphical console greeter for greetd
+- [tuigreet/tuigreet](https://github.com/tuigreet/tuigreet) - Graphical console greeter for greetd
 - [hangxingliu/vscode-systemd](https://github.com/hangxingliu/vscode-systemd) - A Visual Studio Code extension to help you read and write Systemd unit config, mkosi config and Podman Quadlet unit files
 - [dimtpap/coppwr](https://github.com/dimtpap/coppwr) - Low level control GUI for the PipeWire multimedia server
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
@@ -3075,7 +3077,7 @@
 ## login 
 
 - [fairyglade/ly](https://github.com/fairyglade/ly) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
-- [apognu/tuigreet](https://github.com/apognu/tuigreet) - Graphical console greeter for greetd
+- [tuigreet/tuigreet](https://github.com/tuigreet/tuigreet) - Graphical console greeter for greetd
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 - [ory/kratos](https://github.com/ory/kratos) - Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, 
 
@@ -4748,6 +4750,7 @@
 
 ## python 
 
+- [seddonym/import-linter](https://github.com/seddonym/import-linter) - Lint your Python architecture.
 - [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [jwodder/versioningit](https://github.com/jwodder/versioningit) - Versioning It with your Version In Git
@@ -5432,7 +5435,7 @@
 
 ## statistics 
 
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no tracking, self-hosted or in the cloud.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.
 - [gonum/gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
 
 ## storybook 
@@ -5620,7 +5623,7 @@
 - [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi on Linux
 - [pythops/bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [apognu/tuigreet](https://github.com/apognu/tuigreet) - Graphical console greeter for greetd
+- [tuigreet/tuigreet](https://github.com/tuigreet/tuigreet) - Graphical console greeter for greetd
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 - [bluetuith-org/bluetuith](https://github.com/bluetuith-org/bluetuith) - A cross-platform TUI bluetooth manager.
