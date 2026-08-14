@@ -1232,6 +1232,7 @@
 
 ## data-visualization 
 
+- [MIERUNE/svelte-maplibre-gl](https://github.com/MIERUNE/svelte-maplibre-gl) - Svelte wrapper for 🗺 MapLibre GL JS — Build interactive web maps effortlessly with Svelte’s reactive and declarative power 🚀
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
@@ -1827,6 +1828,7 @@
 
 ## git 
 
+- [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [ViscousPot/GitSync](https://github.com/ViscousPot/GitSync) - Mobile Git client for syncing a repository between remote and a local directory
 - [jwodder/versioningit](https://github.com/jwodder/versioningit) - Versioning It with your Version In Git
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
@@ -1892,6 +1894,7 @@
 
 ## go 
 
+- [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [runkids/skillshare](https://github.com/runkids/skillshare) - 📚 Sync skills across all AI CLI tools with one command and simplify team sharing. Supporting Codex, Claude Code, OpenClaw & more
 - [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to p
 - [go-python/gopy](https://github.com/go-python/gopy) - gopy generates a CPython extension module from a go package.
@@ -2075,6 +2078,7 @@
 
 ## golang 
 
+- [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [brandonyoungdev/tldx](https://github.com/brandonyoungdev/tldx) - Bulk domain availability checking via RDAP, DNS, and WHOIS, with prefix/suffix permutations, regex patterns, MCP, and multiple output formats
 - [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to p
@@ -2344,6 +2348,8 @@
 
 ## hacktoberfest 
 
+- [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
+- [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in the browser
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [editorconfig-checker/editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) - A tool to verify that your files are in harmony with your .editorconfig
 - [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to p
@@ -3319,7 +3325,7 @@
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
-- [toluaina/pgsync](https://github.com/toluaina/pgsync) - Postgres to Elasticsearch/OpenSearch sync
+- [toluaina/pgsync](https://github.com/toluaina/pgsync) - Postgres, MySQL, or MariaDB  to Elasticsearch/OpenSearch sync
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [orlangure/gnomock](https://github.com/orlangure/gnomock) - Test your code without writing mocks with ephemeral Docker containers 📦 Setup popular services with just a couple lines of code ⏱️ No bash, no yaml, only code 💻
 - [jaredwray/keyv](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends
@@ -3561,6 +3567,8 @@
 
 ## others 
 
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
+- [jdx/hk](https://github.com/jdx/hk) - git hooks and project lints
 - [fedora-python/lxml_html_clean](https://github.com/fedora-python/lxml_html_clean) - Separate project for HTML cleaning functionalities copied from lxml.html.clean.
 - [htnabe/prettier-plugin-go-template](https://github.com/htnabe/prettier-plugin-go-template) - Fixes prettier formatting for go templates 🐹
 - [mimi89999/Authnkey](https://github.com/mimi89999/Authnkey) - Passkey credential provider for hardware security keys
@@ -4632,7 +4640,7 @@
 - [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
 - [go-pg/pg](https://github.com/go-pg/pg) - Golang ORM with focus on PostgreSQL features and performance
 - [supabase/realtime](https://github.com/supabase/realtime) - Broadcast, Presence, and Postgres Changes via WebSockets
-- [toluaina/pgsync](https://github.com/toluaina/pgsync) - Postgres to Elasticsearch/OpenSearch sync
+- [toluaina/pgsync](https://github.com/toluaina/pgsync) - Postgres, MySQL, or MariaDB  to Elasticsearch/OpenSearch sync
 - [skaiworldwide-oss/agensgraph](https://github.com/skaiworldwide-oss/agensgraph) - AgensGraph, a transactional graph database based on PostgreSQL
 - [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it's 2023
 
@@ -4878,7 +4886,7 @@
 - [floe/backscrub](https://github.com/floe/backscrub) - Virtual Video Device for Background Replacement with Deep Semantic Segmentation
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
-- [toluaina/pgsync](https://github.com/toluaina/pgsync) - Postgres to Elasticsearch/OpenSearch sync
+- [toluaina/pgsync](https://github.com/toluaina/pgsync) - Postgres, MySQL, or MariaDB  to Elasticsearch/OpenSearch sync
 - [lbryio/lbry-sdk](https://github.com/lbryio/lbry-sdk) - The LBRY SDK for building decentralized, censorship resistant, monetized digital content apps.
 - [apple/turicreate](https://github.com/apple/turicreate) - Turi Create simplifies the development of custom machine learning models.
 - [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is a free and open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.
@@ -5402,7 +5410,7 @@
 - [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
 - [go-pg/pg](https://github.com/go-pg/pg) - Golang ORM with focus on PostgreSQL features and performance
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
-- [toluaina/pgsync](https://github.com/toluaina/pgsync) - Postgres to Elasticsearch/OpenSearch sync
+- [toluaina/pgsync](https://github.com/toluaina/pgsync) - Postgres, MySQL, or MariaDB  to Elasticsearch/OpenSearch sync
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it's 2023
 - [CovenantSQL/CovenantSQL](https://github.com/CovenantSQL/CovenantSQL) - A decentralized, trusted, high performance, SQL database with blockchain features
@@ -5445,6 +5453,8 @@
 
 ## svelte 
 
+- [dimfeld/svelte-maplibre](https://github.com/dimfeld/svelte-maplibre) - Svelte bindings for the MapLibre mapping library
+- [MIERUNE/svelte-maplibre-gl](https://github.com/MIERUNE/svelte-maplibre-gl) - Svelte wrapper for 🗺 MapLibre GL JS — Build interactive web maps effortlessly with Svelte’s reactive and declarative power 🚀
 - [opral/paraglide-js](https://github.com/opral/paraglide-js) - Compiler-based i18n library that emits tree-shakable translations, leading to up to 70% smaller bundle sizes.
 - [chadsr/sveltekit-capacitor-starter](https://github.com/chadsr/sveltekit-capacitor-starter) - A (slightly opinionated) starter template for SvelteKit/Capacitor/Tailwind/Typescript projects
 - [themesberg/flowbite-svelte](https://github.com/themesberg/flowbite-svelte) - Official Svelte components built for Flowbite and Tailwind CSS
@@ -5640,6 +5650,7 @@
 
 ## typescript 
 
+- [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in the browser
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
 - [firsttris/vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner) - Run and debug Jest, Vitest, Rstest, Node.js, Bun, Deno and Playwright tests with ease, right from your editor.
@@ -5781,6 +5792,7 @@
 
 ## visualization 
 
+- [MIERUNE/svelte-maplibre-gl](https://github.com/MIERUNE/svelte-maplibre-gl) - Svelte wrapper for 🗺 MapLibre GL JS — Build interactive web maps effortlessly with Svelte’s reactive and declarative power 🚀
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [elsevierlabs-os/linked-data](https://github.com/elsevierlabs-os/linked-data) - Linked Data Extension for VSCode
 - [gephi/gephi](https://github.com/gephi/gephi) - Gephi - The Open Graph Viz Platform
