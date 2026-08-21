@@ -2325,6 +2325,7 @@
 
 ## TypeScript 
 
+- [dubzzz/fast-check](https://github.com/dubzzz/fast-check) - Property based testing framework for JavaScript (like QuickCheck) written in TypeScript
 - [schoero/eslint-plugin-better-tailwindcss](https://github.com/schoero/eslint-plugin-better-tailwindcss) - ESLint/Oxlint plugin to help you write better tailwindcss by improving readability with formatting rules and enforcing best practices with linting rules.
 - [sveltejs/svelte-eslint-parser](https://github.com/sveltejs/svelte-eslint-parser) - Svelte parser for ESLint
 - [huntabyte/bits-ui](https://github.com/huntabyte/bits-ui) - The headless components for Svelte.
