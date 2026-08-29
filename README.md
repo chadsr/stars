@@ -1608,7 +1608,7 @@
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
 - [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
-- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.
+- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.
 - [pytest-dev/pytest-xdist](https://github.com/pytest-dev/pytest-xdist) - pytest plugin for distributed testing and loop-on-failures testing modes.
 - [adsharma/schema-org-python](https://github.com/adsharma/schema-org-python) - Python models for schema.org
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
@@ -1636,7 +1636,7 @@
 - [cybertheory/AutonomousSphere](https://github.com/cybertheory/AutonomousSphere) - AutonomousSphere is an agentic collaboration server. Agents talk, act, and use tools like teammates. Federated servers form an internet of autonomous teams. Powered by Google’s A2A protocol.
 - [OKUA1/juvio](https://github.com/OKUA1/juvio) - UV kernel for Jupyter
 - [zongmin-yu/semantic-scholar-fastmcp-mcp-server](https://github.com/zongmin-yu/semantic-scholar-fastmcp-mcp-server) - A FastMCP server implementation for the Semantic Scholar API, providing comprehensive access to academic paper data, author information, and citation networks.
-- [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) - A Model Context Protocol server for searching and analyzing arXiv papers
+- [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) - A local MCP server for agent literature work. Original-LaTeX section reads, BibTeX from arXiv metadata, and topic watches. Papers stay on disk. Search is optional.
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
@@ -1935,7 +1935,7 @@
 - [herval/deepdream-docker](https://github.com/herval/deepdream-docker) - Docker Container for Google's DeepDream project
 - [ethereum/pydevp2p](https://github.com/ethereum/pydevp2p) - Python Implementation of the Ethereum P2P stack
 - [ethersphere/swarm-guide](https://github.com/ethersphere/swarm-guide) - Swarm Documentation
-- [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) - Ethereum Proof-of-Stake Consensus Specifications
+- [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) - Ethereum Consensus Specifications
 - [bmuller/kademlia](https://github.com/bmuller/kademlia) - A DHT in Python using asyncio
 - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 - [Mailu/Mailu](https://github.com/Mailu/Mailu) - Insular email distribution - mail server as Docker images
