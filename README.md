@@ -1674,7 +1674,7 @@
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [termux/termux-language-server](https://github.com/termux/termux-language-server) - 🛠️ A language server for some specific bash scripts
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [rseichter/fangfrisch](https://github.com/rseichter/fangfrisch) - Update and verify unofficial Clam Anti-Virus signatures
 - [pixray/pixray](https://github.com/pixray/pixray) - 
 - [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
@@ -2351,7 +2351,7 @@
 - [reviewdog/action-golangci-lint](https://github.com/reviewdog/action-golangci-lint) - Run golangci-lint with reviewdog
 - [dongdongbh/Mindwtr](https://github.com/dongdongbh/Mindwtr) - Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – compact, human-readable serialization of JSON data for LLM prompts. TypeScript SDK, CLI, benchmarks.
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [openlit/openlit](https://github.com/openlit/openlit) - Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 50+ LLM Providers, Ve
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [Inrixia/TidaLuna](https://github.com/Inrixia/TidaLuna) - A client mod for the Tidal music client & successor to Neptune
@@ -2451,7 +2451,6 @@
 - [firecamp-dev/firecamp](https://github.com/firecamp-dev/firecamp) - Developer-first OpenSource API DevTool, Postman/Insomnia alternative.
 - [taye/interact.js](https://github.com/taye/interact.js) - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+)
 - [catppuccin/vscode](https://github.com/catppuccin/vscode) - 🦌 Soothing pastel theme for VSCode
-- [krakenfx/wallet](https://github.com/krakenfx/wallet) - Kraken Wallet is a powerful self-custody wallet built for the decentralized web
 - [DonJayamanne/vscode-python-manager](https://github.com/DonJayamanne/vscode-python-manager) - Python Environment & Package Manager
 - [darrylyeo/blockhead](https://github.com/darrylyeo/blockhead) - An open-source interface for the decentralized web. Track, visualize and explore EVM-based blockchains, onchain accounts, smart contracts, transactions, DeFi apps and web3 protocols in one place – YOU
 - [astral-sh/ruff-vscode](https://github.com/astral-sh/ruff-vscode) - A Visual Studio Code extension with support for the Ruff linter.
