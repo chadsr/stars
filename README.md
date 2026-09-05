@@ -1025,7 +1025,7 @@
 - [fossas/fossa-cli](https://github.com/fossas/fossa-cli) - Fast, portable and reliable dependency analysis for any codebase.  Supports license & vulnerability scanning for large monoliths.  Language-agnostic; integrates with 20+ build systems.
 - [froozen/kademlia](https://github.com/froozen/kademlia) - A haskell library implementing the Kademlia DHT
 - [dapphub/dapptools](https://github.com/dapphub/dapptools) - Dapp, Seth, Hevm, and more
-- [Consensys/constellation](https://github.com/Consensys/constellation) - Peer-to-peer encrypted message exchange
+- [Consensys-Incorporated/constellation](https://github.com/Consensys-Incorporated/constellation) - Peer-to-peer encrypted message exchange
 - [digital-asset/daml](https://github.com/digital-asset/daml) - The Daml smart contract language
 - [chrisnc/tangaroa](https://github.com/chrisnc/tangaroa) - A toy implementation of the Raft protocol in Haskell, with an experimental BFT variant.
 - [argotorg/act](https://github.com/argotorg/act) - Smart contract specification language
@@ -2280,7 +2280,7 @@
 - [transmissions11/solmate](https://github.com/transmissions11/solmate) - Modern, opinionated, and gas optimized building blocks for smart contract development.
 - [pangolindex/exchange-contracts](https://github.com/pangolindex/exchange-contracts) - 
 - [reflexer-labs/geb](https://github.com/reflexer-labs/geb) - Core smart contracts for GEB
-- [Consensys/anonymous-zether](https://github.com/Consensys/anonymous-zether) - A private payment system for Ethereum-based blockchains, with no trusted setup.
+- [Consensys-Incorporated/anonymous-zether](https://github.com/Consensys-Incorporated/anonymous-zether) - A private payment system for Ethereum-based blockchains, with no trusted setup.
 - [starkware-libs/starkex-contracts](https://github.com/starkware-libs/starkex-contracts) - 
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 
@@ -2343,7 +2343,7 @@
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [opral/paraglide-js](https://github.com/opral/paraglide-js) - Compiler-based i18n library that emits tree-shakable translations, leading to up to 70% smaller bundle sizes.
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Drop your tokens. Ultrawork. Done.
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 - [testcontainers/testcontainers-node](https://github.com/testcontainers/testcontainers-node) - Testcontainers is a NodeJS library that supports tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
