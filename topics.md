@@ -881,6 +881,7 @@
 ## claude-code 
 
 - [runkids/skillshare](https://github.com/runkids/skillshare) - 📚 Sync skills across all AI CLI tools with one command and simplify team sharing. Supporting Codex, Claude Code, OpenClaw & more
+- [openlit/openlit](https://github.com/openlit/openlit) - Open-source observability & evaluation platform for AI agents and coding agents. Trace LLMs, tools, prompts, costs & agent workflows with OpenTelemetry.
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
 - [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management skill system for Agents that uses GitHub Issues and Git worktrees for parallel agent execution.
 
@@ -890,6 +891,7 @@
 
 ## cli 
 
+- [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [agent-sh/agnix](https://github.com/agent-sh/agnix) - The missing linter and lsp for AI coding assistants. Validate CLAUDE.md, AGENTS.md, SKILL.md, hooks, MCP. Plugin for all major IDEs included, with autofixes.
 - [runkids/skillshare](https://github.com/runkids/skillshare) - 📚 Sync skills across all AI CLI tools with one command and simplify team sharing. Supporting Codex, Claude Code, OpenClaw & more
@@ -980,6 +982,7 @@
 
 ## code-quality 
 
+- [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [agent-sh/agnix](https://github.com/agent-sh/agnix) - The missing linter and lsp for AI coding assistants. Validate CLAUDE.md, AGENTS.md, SKILL.md, hooks, MCP. Plugin for all major IDEs included, with autofixes.
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [editorconfig-checker/editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) - A tool to verify that your files are in harmony with your .editorconfig
@@ -1774,7 +1777,7 @@
 - [olahol/melody](https://github.com/olahol/melody) - :notes: Minimalist websocket framework for Go
 - [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app) - Bonfire - tend to your digital life in community. Customise and host your own online space and control your experience at the most granular level.
 - [mikestefanello/pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit and admin panel in Go
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The full-stack Vue framework.
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [graphql-python/graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
@@ -2420,7 +2423,7 @@
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [matrix-org/matrix-js-sdk](https://github.com/matrix-org/matrix-js-sdk) - Matrix Client-Server SDK for JavaScript
 - [soketi/soketi](https://github.com/soketi/soketi) - Next-gen, Pusher-compatible, open-source WebSockets server. Simple, fast, and resilient. 📣
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The full-stack Vue framework.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [drand/tlock](https://github.com/drand/tlock) - Timelock Encryption made practical. The Go `tlock` library and the `tle` cmd line tool home to encrypt towards the future.
 - [element-hq/element-android](https://github.com/element-hq/element-android) - A Matrix collaboration client for Android.
@@ -3419,7 +3422,7 @@
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [vikejs/vike](https://github.com/vikejs/vike) - (Replaces Next.js/Nuxt) 🔨 Build mission-critical applications with stability and development freedom.
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The full-stack Vue framework.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
 - [paritytech/substrate](https://github.com/paritytech/substrate) - Substrate: The platform for blockchain innovators
@@ -3517,7 +3520,7 @@
 ## open-source 
 
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
-- [openlit/openlit](https://github.com/openlit/openlit) - Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 50+ LLM Providers, Ve
+- [openlit/openlit](https://github.com/openlit/openlit) - Open-source observability & evaluation platform for AI agents and coding agents. Trace LLMs, tools, prompts, costs & agent workflows with OpenTelemetry.
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [nymtech/nym-vpn-client](https://github.com/nymtech/nym-vpn-client) - Cross-platform open source VPN client built in Rust, with mixnet anonymity and WireGuard speed. Protects metadata, not just IP addresses. Zero-knowledge payments for unlinkable online activities.
 - [activist-org/activist](https://github.com/activist-org/activist) - An open-source activism platform
@@ -3547,7 +3550,7 @@
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Drop your tokens. Ultrawork. Done.
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [tailcallhq/forgecode](https://github.com/tailcallhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
-- [openlit/openlit](https://github.com/openlit/openlit) - Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 50+ LLM Providers, Ve
+- [openlit/openlit](https://github.com/openlit/openlit) - Open-source observability & evaluation platform for AI agents and coding agents. Trace LLMs, tools, prompts, costs & agent workflows with OpenTelemetry.
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
@@ -4795,7 +4798,6 @@
 - [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - The property-based testing library for Python
 - [pimutils/todoman](https://github.com/pimutils/todoman) - ✅ Simple, standards-based, command line todo (aka: task) manager.
 - [toon-format/toon-python](https://github.com/toon-format/toon-python) - 🐍 Community-driven Python implementation of TOON
-- [openlit/openlit](https://github.com/openlit/openlit) - Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 50+ LLM Providers, Ve
 - [go-python/gopy](https://github.com/go-python/gopy) - gopy generates a CPython extension module from a go package.
 - [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.
 - [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
@@ -5149,6 +5151,7 @@
 
 ## rust 
 
+- [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [agent-sh/agnix](https://github.com/agent-sh/agnix) - The missing linter and lsp for AI coding assistants. Validate CLAUDE.md, AGENTS.md, SKILL.md, hooks, MCP. Plugin for all major IDEs included, with autofixes.
 - [WGUNDERWOOD/tex-fmt](https://github.com/WGUNDERWOOD/tex-fmt) - An extremely fast LaTeX formatter written in Rust
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
@@ -5880,7 +5883,7 @@
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [teambit/bit](https://github.com/teambit/bit) - AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
 - [YousefED/SyncedStore](https://github.com/YousefED/SyncedStore) - SyncedStore CRDT is an easy-to-use library for building live, collaborative applications that sync automatically.
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The full-stack Vue framework.
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [hexops/vecty](https://github.com/hexops/vecty) - Vecty lets you build responsive and dynamic web frontends in Go using WebAssembly, competing with modern web frameworks like React & VueJS.
 - [vinayakkulkarni/v-mapbox](https://github.com/vinayakkulkarni/v-mapbox) - Vue 3 wrapper for Mapbox GL & MapLibre GL JS with declarative component API.
