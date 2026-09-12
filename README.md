@@ -450,7 +450,7 @@
 - [phoenixframework/phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) - Rich, real-time user experiences with server-rendered HTML
 - [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code & data workflows with interactive Elixir notebooks
 - [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
-- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
+- [firezone/firezone](https://github.com/firezone/firezone) - Blazing-fast remote access
 - [supabase/realtime](https://github.com/supabase/realtime) - Broadcast, Presence, and Postgres Changes via WebSockets
 - [blockscout/blockscout](https://github.com/blockscout/blockscout) - Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.
 
@@ -487,6 +487,7 @@
 
 ## Go 
 
+- [chadsr/docker-secrets-engine-shim](https://github.com/chadsr/docker-secrets-engine-shim) - Docker Secrets Engine shim (docker-credential-helpers)
 - [crmne/hyprmoncfg](https://github.com/crmne/hyprmoncfg) - Arrange Hyprland monitors without doing coordinate math
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [docker/model-runner](https://github.com/docker/model-runner) - Docker Model Runner
@@ -1756,7 +1757,7 @@
 - [rachmadaniHaryono/we-get](https://github.com/rachmadaniHaryono/we-get) - :icecream: Command-line tool for searching torrents.
 - [Olen/home-assistant-openplantbook](https://github.com/Olen/home-assistant-openplantbook) - Integration to search and fetch data from Openplantbook.io
 - [erikbern/ann-benchmarks](https://github.com/erikbern/ann-benchmarks) - Benchmarks of approximate nearest neighbor libraries in Python
-- [apple/ml-neuman](https://github.com/apple/ml-neuman) - Official repository of NeuMan: Neural Human Radiance Field from a Single Video (ECCV 2022)
+- [apple-aiml-research/ml-neuman](https://github.com/apple-aiml-research/ml-neuman) - Official repository of NeuMan: Neural Human Radiance Field from a Single Video (ECCV 2022)
 - [adamerose/PandasGUI](https://github.com/adamerose/PandasGUI) - A GUI for Pandas DataFrames
 - [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType) - A Python library that generates static type annotations by collecting runtime types
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
@@ -2355,7 +2356,7 @@
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – compact, human-readable serialization of JSON data for LLM prompts. TypeScript SDK, CLI, benchmarks.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [openlit/openlit](https://github.com/openlit/openlit) - Open-source observability & evaluation platform for AI agents and coding agents. Trace LLMs, tools, prompts, costs & agent workflows with OpenTelemetry.
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.
 - [Inrixia/TidaLuna](https://github.com/Inrixia/TidaLuna) - A client mod for the Tidal music client & successor to Neptune
 - [huggingface/hf-mcp-server](https://github.com/huggingface/hf-mcp-server) - Hugging Face MCP Server
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
