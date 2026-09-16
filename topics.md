@@ -1205,7 +1205,7 @@
 
 ## data 
 
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - APIs for browser automation, testing, and bypassing bot-detection. Includes CDP Mode: A stealthy configuration for chromium that passes every bot detection test.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Browser automation, web scraping, and testing. CDP Mode provides a Stealthy Chromium instance that bypasses bot-detection systems. Includes an MCP server.
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - Browser compatibility data for Web technologies as displayed on MDN
 - [ali1k/ld-r](https://github.com/ali1k/ld-r) - Linked Data Reactor (LD-R)
@@ -1563,6 +1563,7 @@
 
 ## embedded 
 
+- [rmk-rs/rmk](https://github.com/rmk-rs/rmk) - A modern, easy-to-use, and feature-rich keyboard firmware written in Rust.
 - [esp-rs/esp-idf-svc](https://github.com/esp-rs/esp-idf-svc) - Type-Safe Rust Wrappers for various ESP-IDF services (WiFi, Network, Httpd, Logging, etc.)
 - [bblanchon/ArduinoJson](https://github.com/bblanchon/ArduinoJson) - 📟 JSON library for Arduino and embedded C++. Simple and efficient.
 - [trussed-dev/trussed](https://github.com/trussed-dev/trussed) - Modern Cryptographic Firmware
@@ -1602,6 +1603,7 @@
 
 ## esp32 
 
+- [rmk-rs/rmk](https://github.com/rmk-rs/rmk) - A modern, easy-to-use, and feature-rich keyboard firmware written in Rust.
 - [sqfmi/Watchy](https://github.com/sqfmi/Watchy) - Watchy - An Open Source E-Ink Smartwatch
 - [esp-rs/esp-idf-svc](https://github.com/esp-rs/esp-idf-svc) - Type-Safe Rust Wrappers for various ESP-IDF services (WiFi, Network, Httpd, Logging, etc.)
 - [bblanchon/ArduinoJson](https://github.com/bblanchon/ArduinoJson) - 📟 JSON library for Arduino and embedded C++. Simple and efficient.
@@ -2365,6 +2367,7 @@
 
 ## hacktoberfest 
 
+- [zmkfirmware/zmk](https://github.com/zmkfirmware/zmk) - ZMK Firmware Repository
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in the browser
@@ -4790,11 +4793,12 @@
 ## python 
 
 - [pydantic/logfire](https://github.com/pydantic/logfire) - AI observability platform for production LLM and agent systems.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - APIs for browser automation, testing, and bypassing bot-detection. Includes CDP Mode: A stealthy configuration for chromium that passes every bot detection test.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Browser automation, web scraping, and testing. CDP Mode provides a Stealthy Chromium instance that bypasses bot-detection systems. Includes an MCP server.
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray) - pytest plugin for easy integration of memray memory profiler
 - [seddonym/import-linter](https://github.com/seddonym/import-linter) - Lint your Python architecture.
 - [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
+- [hermes-labs-ai/lintlang](https://github.com/hermes-labs-ai/lintlang) - Static analysis for AI agent configs, tool descriptions, and system prompts — catches vague tool descriptions, missing stop conditions, and schema gaps before they reach runtime. Zero-LLM, determinist
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [jwodder/versioningit](https://github.com/jwodder/versioningit) - Versioning It with your Version In Git
 - [geopy/geopy](https://github.com/geopy/geopy) - Geocoding library for Python.
@@ -5157,6 +5161,8 @@
 
 ## rust 
 
+- [blacksky-algorithms/rsky](https://github.com/blacksky-algorithms/rsky) - An AT Protocol implementation prioritizing community safety and self-governance, written in Rust.
+- [rmk-rs/rmk](https://github.com/rmk-rs/rmk) - A modern, easy-to-use, and feature-rich keyboard firmware written in Rust.
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [agent-sh/agnix](https://github.com/agent-sh/agnix) - The missing linter and lsp for AI coding assistants. Validate CLAUDE.md, AGENTS.md, SKILL.md, hooks, MCP. Plugin for all major IDEs included, with autofixes.
 - [WGUNDERWOOD/tex-fmt](https://github.com/WGUNDERWOOD/tex-fmt) - An extremely fast LaTeX formatter written in Rust
@@ -5340,6 +5346,7 @@
 
 ## self-hosted 
 
+- [blacksky-algorithms/rsky](https://github.com/blacksky-algorithms/rsky) - An AT Protocol implementation prioritizing community safety and self-governance, written in Rust.
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
