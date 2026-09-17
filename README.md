@@ -109,6 +109,7 @@
 
 ## C 
 
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 - [zmkfirmware/zmk](https://github.com/zmkfirmware/zmk) - ZMK Firmware Repository
 - [openvenues/pypostal](https://github.com/openvenues/pypostal) - Python bindings to libpostal for fast international address parsing/normalization
 - [openvenues/libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
@@ -404,7 +405,7 @@
 
 ## Cuda 
 
-- [HigherOrderCO/HVM2](https://github.com/HigherOrderCO/HVM2) - A massively parallel, optimal functional runtime in Rust
+- [HigherOrderCO/HVM1](https://github.com/HigherOrderCO/HVM1) - HVM1 (2022): a massively parallel, optimal functional runtime in Rust
 - [mmitalidis/APSP-CUDA](https://github.com/mmitalidis/APSP-CUDA) - All-Pairs Shortest Path implementation on GPU, using CUDA.
 
 ## Cython 
@@ -487,7 +488,7 @@
 
 ## Go 
 
-- [chadsr/docker-secrets-engine-shim](https://github.com/chadsr/docker-secrets-engine-shim) - Docker Secrets Engine shim (docker-credential-helpers)
+- [chadsr/docker-secrets-engine-shim](https://github.com/chadsr/docker-secrets-engine-shim) - Unofficial Docker Secrets Engine implementation, via docker-credential-helpers
 - [crmne/hyprmoncfg](https://github.com/crmne/hyprmoncfg) - Arrange Hyprland monitors without doing coordinate math
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [docker/model-runner](https://github.com/docker/model-runner) - Docker Model Runner
@@ -1425,6 +1426,7 @@
 - [EliverLara/Sweet-kde](https://github.com/EliverLara/Sweet-kde) - Plasma desktop theme port of my Gtk theme
 - [AAkira/Kotlin-Multiplatform-Libraries](https://github.com/AAkira/Kotlin-Multiplatform-Libraries) - Kotlin Multiplatform Libraries. Welcome PR if you find or create new Kotlin Multiplatform Library.
 - [terrakok/kmp-awesome](https://github.com/terrakok/kmp-awesome) - An awesome list that curates the best Kotlin Multiplatform libraries, tools and more.
+- [bendlang/bend](https://github.com/bendlang/bend) - Bend 2: a fast language that blocks AI mistakes via proof. Coming soon.
 - [css-modules/css-modules](https://github.com/css-modules/css-modules) - Documentation about css-modules
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [jpmvferreira/espanso-mega-pack](https://github.com/jpmvferreira/espanso-mega-pack) - A collection of curated home built packages for the cross-platform text expander Espanso
@@ -1846,6 +1848,7 @@
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [csurfer/pyheatmagic](https://github.com/csurfer/pyheatmagic) - IPython magic command to profile and view your python code as a heat map.
+- [manjaro-sway/manjaro-sway](https://github.com/manjaro-sway/manjaro-sway) - manjaro linux with wayland 🖼, sway 🌴 and a lot of ♥
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [EUA/AsrLed](https://github.com/EUA/AsrLed) - AsRock LED Device Driver Script for Linux
 - [openworm/OpenWorm](https://github.com/openworm/OpenWorm) - Repository for the main Dockerfile with the OpenWorm software stack and project-wide issues
@@ -2068,7 +2071,6 @@
 - [timokoesters/conduit](https://github.com/timokoesters/conduit) - A simple, fast and reliable Matrix server (MIRROR, see https://conduit.rs )
 - [polachok/helix-gpui](https://github.com/polachok/helix-gpui) - helix gpui frontend
 - [coffebar/waybar-module-pacman-updates](https://github.com/coffebar/waybar-module-pacman-updates) - waybar module for Arch to show system updates available
-- [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [paritytech/smoldot-archive](https://github.com/paritytech/smoldot-archive) - Lightweight client for Substrate-based chains, such as Polkadot and Kusama.
 - [cilki/goldboot](https://github.com/cilki/goldboot) - Build golden images with CI
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
@@ -2239,7 +2241,6 @@
 - [chadsr/dotfiles](https://github.com/chadsr/dotfiles) - My dotfiles, managed with stow.
 - [reviewdog/action-black](https://github.com/reviewdog/action-black) - Run black with Reviewdog :dog:
 - [sonic2kk/steamtinkerlaunch](https://github.com/sonic2kk/steamtinkerlaunch) - Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs
-- [manjaro-sway/manjaro-sway](https://github.com/manjaro-sway/manjaro-sway) - manjaro linux with wayland 🖼, sway 🌴 and a lot of ♥
 - [TrueBrain/actions-flake8](https://github.com/TrueBrain/actions-flake8) - Flake8 with GitHub Actions -- including annotations for Pull Requests
 - [marian-code/python-lint-annotate](https://github.com/marian-code/python-lint-annotate) - Zero-configuration GitHub Action to maintain code quality with push and PR annotations.
 - [ekalinin/github-markdown-toc](https://github.com/ekalinin/github-markdown-toc) - Easy TOC creation for GitHub README.md
@@ -2365,7 +2366,7 @@
 - [Inrixia/TidaLuna](https://github.com/Inrixia/TidaLuna) - A client mod for the Tidal music client & successor to Neptune
 - [huggingface/hf-mcp-server](https://github.com/huggingface/hf-mcp-server) - Hugging Face MCP Server
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [microsoft/DebugMCP](https://github.com/microsoft/DebugMCP) - Gift your VS Code agent a real debugger: breakpoints, stepping, inspection.
