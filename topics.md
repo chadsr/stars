@@ -1218,7 +1218,7 @@
 
 ## data 
 
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Browser automation, web scraping, and testing. CDP Mode provides a Stealthy Chromium instance that bypasses bot-detection systems. Includes an MCP server.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Browser automation framework and MCP server for web-scraping and testing. CDP Mode makes Chrome stealthy for bypassing bot-detection.
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - Browser compatibility data for Web technologies as displayed on MDN
 - [ali1k/ld-r](https://github.com/ali1k/ld-r) - Linked Data Reactor (LD-R)
@@ -2472,7 +2472,6 @@
 - [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever!
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
-- [revive-lint/revive](https://github.com/revive-lint/revive) - 🔥 Fast, strict, configurable, extensible, and beautiful linter for Go
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [Clivern/Peanut](https://github.com/Clivern/Peanut) - 🐺 Deploy Databases and Services Easily for Development and Testing Pipelines.
 - [rotki/rotki](https://github.com/rotki/rotki) - A portfolio tracking, analytics, accounting and management application that protects your privacy
@@ -4814,7 +4813,7 @@
 ## python 
 
 - [pydantic/logfire](https://github.com/pydantic/logfire) - AI observability platform for production LLM and agent systems.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Browser automation, web scraping, and testing. CDP Mode provides a Stealthy Chromium instance that bypasses bot-detection systems. Includes an MCP server.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Browser automation framework and MCP server for web-scraping and testing. CDP Mode makes Chrome stealthy for bypassing bot-detection.
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray) - pytest plugin for easy integration of memray memory profiler
 - [seddonym/import-linter](https://github.com/seddonym/import-linter) - Lint your Python architecture.
