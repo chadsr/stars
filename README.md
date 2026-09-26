@@ -577,7 +577,7 @@
 - [ipni/storetheindex](https://github.com/ipni/storetheindex) - A directory of CIDs
 - [ipld/go-storethehash](https://github.com/ipld/go-storethehash) - Storage for hashes, targeted at content addressable systems
 - [opensearch-project/opensearch-go](https://github.com/opensearch-project/opensearch-go) - Go Client for OpenSearch
-- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
+- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker integrated in git
 - [kisielk/errcheck](https://github.com/kisielk/errcheck) - errcheck checks that you checked errors.
 - [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [ucan-wg/go-ucan](https://github.com/ucan-wg/go-ucan) - User-Controlled Authorization Network (UCAN) tokens in go
@@ -1028,7 +1028,7 @@
 - [fossas/fossa-cli](https://github.com/fossas/fossa-cli) - Fast, portable and reliable dependency analysis for any codebase.  Supports license & vulnerability scanning for large monoliths.  Language-agnostic; integrates with 20+ build systems.
 - [froozen/kademlia](https://github.com/froozen/kademlia) - A haskell library implementing the Kademlia DHT
 - [dapphub/dapptools](https://github.com/dapphub/dapptools) - Dapp, Seth, Hevm, and more
-- [Consensys-Incorporated/constellation](https://github.com/Consensys-Incorporated/constellation) - Peer-to-peer encrypted message exchange
+- [Consensys-inc-archive/constellation](https://github.com/Consensys-inc-archive/constellation) - Peer-to-peer encrypted message exchange
 - [digital-asset/daml](https://github.com/digital-asset/daml) - The Daml smart contract language
 - [chrisnc/tangaroa](https://github.com/chrisnc/tangaroa) - A toy implementation of the Raft protocol in Haskell, with an experimental BFT variant.
 - [argotorg/act](https://github.com/argotorg/act) - Smart contract specification language
@@ -1588,7 +1588,7 @@
 - [cisco-ai-defense/skill-scanner](https://github.com/cisco-ai-defense/skill-scanner) - Security Scanner for Agent Skills
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [scop/pre-commit-shfmt](https://github.com/scop/pre-commit-shfmt) - shfmt hook for prek and pre-commit, with auto install
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with SDD or any other process!
 - [camel-ai/oasis](https://github.com/camel-ai/oasis) - 🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.
 - [jwodder/versioningit](https://github.com/jwodder/versioningit) - Versioning It with your Version In Git
 - [geopy/geopy](https://github.com/geopy/geopy) - Geocoding library for Python.
@@ -2001,6 +2001,7 @@
 ## Rust 
 
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
+- [SylphxAI/anymd](https://github.com/SylphxAI/anymd) - Any file → clean Markdown for AI agents: PDF, Word, PowerPoint, Excel, EPUB, HTML and web pages, images (OCR), audio and video (metadata, subtitles, transcripts). A fast Rust MCP server and CLI that r
 - [blacksky-algorithms/rsky](https://github.com/blacksky-algorithms/rsky) - An AT Protocol implementation prioritizing community safety and self-governance, written in Rust.
 - [rmk-rs/rmk](https://github.com/rmk-rs/rmk) - A modern, easy-to-use, and feature-rich keyboard firmware written in Rust.
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
@@ -2290,7 +2291,7 @@
 - [transmissions11/solmate](https://github.com/transmissions11/solmate) - Modern, opinionated, and gas optimized building blocks for smart contract development.
 - [pangolindex/exchange-contracts](https://github.com/pangolindex/exchange-contracts) - 
 - [reflexer-labs/geb](https://github.com/reflexer-labs/geb) - Core smart contracts for GEB
-- [Consensys-Incorporated/anonymous-zether](https://github.com/Consensys-Incorporated/anonymous-zether) - A private payment system for Ethereum-based blockchains, with no trusted setup.
+- [Consensys-inc-archive/anonymous-zether](https://github.com/Consensys-inc-archive/anonymous-zether) - A private payment system for Ethereum-based blockchains, with no trusted setup.
 - [starkware-libs/starkex-contracts](https://github.com/starkware-libs/starkex-contracts) - 
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 
@@ -2336,7 +2337,6 @@
 ## TypeScript 
 
 - [halcyon-video/halcyon-video](https://github.com/halcyon-video/halcyon-video) - Your Jellyfin or Plex library as a walkable 1990s video rental store, self-hosted
-- [SylphxAI/citra](https://github.com/SylphxAI/citra) - Citra — PDF answers with page-level proof. Local-first structured text, tables, OCR, visual evidence, and citations via MCP, CLI, and SDK.
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
 - [dubzzz/fast-check](https://github.com/dubzzz/fast-check) - Property based testing framework for JavaScript (like QuickCheck) written in TypeScript
 - [schoero/eslint-plugin-better-tailwindcss](https://github.com/schoero/eslint-plugin-better-tailwindcss) - ESLint/Oxlint plugin to help you write better tailwindcss by improving readability with formatting rules and enforcing best practices with linting rules.
