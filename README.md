@@ -959,7 +959,7 @@
 - [linkeddata/gold](https://github.com/linkeddata/gold) - Linked Data server for Go
 - [google/badwolf](https://github.com/google/badwolf) - Temporal graph store abstraction layer.
 - [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - high-performance graph database for real-time use cases
-- [Consensys-Incorporated/quorum](https://github.com/Consensys-Incorporated/quorum) - A permissioned implementation of Ethereum supporting data privacy
+- [Consensys-inc-archive/quorum](https://github.com/Consensys-inc-archive/quorum) - A permissioned implementation of Ethereum supporting data privacy
 - [joernweissenborn/eventual2go](https://github.com/joernweissenborn/eventual2go) - Streams and Futures for Go.
 - [xlab/android-go](https://github.com/xlab/android-go) - The android-go project provides a platform for writing native Android apps in Go programming language.
 - [robfig/cron](https://github.com/robfig/cron) - a cron library for go
@@ -1089,6 +1089,7 @@
 - [tiagozip/cap](https://github.com/tiagozip/cap) - Free, open-source and self-hosted CAPTCHA alternative to reCAPTCHA. Privacy-first and powered by proof-of-work and instrumentation challenges.
 - [github-community-projects/safe-settings](https://github.com/github-community-projects/safe-settings) - 
 - [chkfung/android-version-actions](https://github.com/chkfung/android-version-actions) - 
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [digidem/comapeo-core](https://github.com/digidem/comapeo-core) - A local-first library for collaborating on mapping projects
 - [adoxography/tailwind-scrollbar](https://github.com/adoxography/tailwind-scrollbar) - Scrollbar plugin for Tailwind CSS
 - [r0adkll/upload-google-play](https://github.com/r0adkll/upload-google-play) - A GitHub action to upload an Android .apk or .aab file to the Google Play Console
@@ -1576,7 +1577,7 @@
 
 - [pydantic/httpx2](https://github.com/pydantic/httpx2) - A next generation HTTP client for Python. 🦋
 - [pydantic/logfire](https://github.com/pydantic/logfire) - AI observability platform for production LLM and agent systems.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Browser automation framework and MCP server for web-scraping and testing. CDP Mode makes Chrome stealthy for bypassing bot-detection.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - SeleniumBase is a browser automation framework for testing and web scraping. CDP Mode adds stealth for bypassing bot-detection. Supports MCP.
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray) - pytest plugin for easy integration of memray memory profiler
 - [seddonym/import-linter](https://github.com/seddonym/import-linter) - Lint your Python architecture.
@@ -2383,7 +2384,6 @@
 - [chadsr/sveltekit-capacitor-starter](https://github.com/chadsr/sveltekit-capacitor-starter) - A (slightly opinionated) starter template for SvelteKit/Capacitor/Tailwind/Typescript projects
 - [DetachHead/basedpyright](https://github.com/DetachHead/basedpyright) - pyright fork with various type checking improvements, improved vscode support and pylance features built into the language server
 - [damienaicheh/update-android-version-manifest-action](https://github.com/damienaicheh/update-android-version-manifest-action) - 
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [digidem/comapeo-mobile](https://github.com/digidem/comapeo-mobile) - The next version of Mapeo mobile
 - [EventSource/eventsource](https://github.com/EventSource/eventsource) - EventSource client for Node.js, browsers and other JavaScript runtimes
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
