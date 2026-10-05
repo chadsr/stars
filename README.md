@@ -498,7 +498,7 @@
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [docker/docker-credential-helpers](https://github.com/docker/docker-credential-helpers) - Programs to keep Docker login credentials safe by storing in platform keystores
 - [docker/mcp-gateway](https://github.com/docker/mcp-gateway) - docker mcp CLI plugin / MCP Gateway
-- [runkids/skillshare](https://github.com/runkids/skillshare) - 📚 Sync skills across all AI CLI tools with one command and simplify team sharing. Supporting Codex, Claude Code, OpenClaw & more
+- [runkids/skillshare](https://github.com/runkids/skillshare) - 📚 Sync skills, agents, MCP, plugins to all AI CLI tools with one command and simplify team sharing.
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - The most popular Kubernetes Operator for PostgreSQL.
 - [brandonyoungdev/tldx](https://github.com/brandonyoungdev/tldx) - Bulk domain availability checking via RDAP, DNS, and WHOIS, with prefix/suffix permutations, regex patterns, MCP, and multiple output formats
 - [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to p
@@ -1086,7 +1086,7 @@
 - [FanaticPythoner/better-todo-tree](https://github.com/FanaticPythoner/better-todo-tree) - An independent, actively maintained fork of Todo Tree for VS Code: the familiar workflow, major new features, active fixes, benchmarked speedups of 696+ folds, modern compatibility.
 - [aaif-goose/goosetown](https://github.com/aaif-goose/goosetown) - Steampunk geese run a parallel processing commune. Surprisingly effective.
 - [tsaridas/stremio-docker](https://github.com/tsaridas/stremio-docker) - Docker files for easy stremio server and client. Images pushed to Dockerhub
-- [tiagozip/cap](https://github.com/tiagozip/cap) - Free, open-source and self-hosted CAPTCHA alternative to reCAPTCHA. Privacy-first and powered by proof-of-work and instrumentation challenges.
+- [tiagozip/cap](https://github.com/tiagozip/cap) - privacy-first, open-source and self-hosted CAPTCHA alternative with PoW and instrumentation challenges.
 - [github-community-projects/safe-settings](https://github.com/github-community-projects/safe-settings) - 
 - [chkfung/android-version-actions](https://github.com/chkfung/android-version-actions) - 
 - [digidem/comapeo-core](https://github.com/digidem/comapeo-core) - A local-first library for collaborating on mapping projects
@@ -2368,7 +2368,7 @@
 - [Inrixia/TidaLuna](https://github.com/Inrixia/TidaLuna) - A client mod for the Tidal music client & successor to Neptune
 - [huggingface/hf-mcp-server](https://github.com/huggingface/hf-mcp-server) - Hugging Face MCP Server
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [microsoft/DebugMCP](https://github.com/microsoft/DebugMCP) - Gift your VS Code agent a real debugger: breakpoints, stepping, inspection.
