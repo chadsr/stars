@@ -1580,7 +1580,7 @@
 - [openags/paper-search-mcp](https://github.com/openags/paper-search-mcp) - MCP, CLI, Skills for searching and downloading academic papers from multiple sources like arXiv, PubMed, bioRxiv, etc.
 - [pydantic/httpx2](https://github.com/pydantic/httpx2) - A next generation HTTP client for Python. 🦋
 - [pydantic/logfire](https://github.com/pydantic/logfire) - AI observability platform for production LLM and agent systems.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Framework for Browser Automation, Web Scraping, and Testing. CDP Mode is undetectable to anti-bot systems and adds stealth to stock Playwright.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Python APIs for Web Automation, E2E Testing, and Data Scraping. UC & CDP modes bypass bot-detection and handle CAPTCHAs. Includes a Stealth mode for Playwright.
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray) - pytest plugin for easy integration of memray memory profiler
 - [seddonym/import-linter](https://github.com/seddonym/import-linter) - Lint your Python architecture.
@@ -2003,6 +2003,7 @@
 
 ## Rust 
 
+- [storytold/artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [SylphxAI/anymd](https://github.com/SylphxAI/anymd) - Any file → clean Markdown for AI agents: PDF, Word, PowerPoint, Excel, EPUB, HTML and web pages, images (OCR), audio and video (metadata, subtitles, transcripts). A fast Rust MCP server and CLI that r
 - [blacksky-algorithms/rsky](https://github.com/blacksky-algorithms/rsky) - An AT Protocol implementation prioritizing community safety and self-governance, written in Rust.
@@ -2521,7 +2522,7 @@
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [teambit/bit](https://github.com/teambit/bit) - AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
-- [dineug/erd-editor](https://github.com/dineug/erd-editor) - Entity-Relationship Diagram Editor
+- [dineug/erd-editor](https://github.com/dineug/erd-editor) - ERD Editor: design database schemas visually, import SQL DDL, GraphQL, DBML and AML, export DDL and code for 22 languages. Web app, Google Drive, VS Code, IntelliJ, Obsidian, a custom element, and an 
 - [matrix-org/matrix-appservice-bridge](https://github.com/matrix-org/matrix-appservice-bridge) - Bridging infrastructure for Application Services
 - [givepraise/praise](https://github.com/givepraise/praise) - Praise community contributions to build a culture of giving and gratitude.
 - [YousefED/Matrix-CRDT](https://github.com/YousefED/Matrix-CRDT) - Use Matrix as a backend for local-first applications with the Matrix-CRDT Yjs provider.
