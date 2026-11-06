@@ -910,7 +910,7 @@
 
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [runkids/skillshare](https://github.com/runkids/skillshare) - 📚 Sync skills, agents, MCP, plugins to all AI CLI tools with one command and simplify team sharing.
-- [openlit/openlit](https://github.com/openlit/openlit) - OpenLIT is the open-source agent harness engineering platform: trace, evaluate, guard, and improve everything around the model in your AI agents, on OTEL.
+- [openlit/openlit](https://github.com/openlit/openlit) - Same agent Smaller bill. The tools and infrastructure to get more work from your AI. Fewer tokens. Less compute. Lower cost.
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
 - [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management skill system for Agents that uses GitHub Issues and Git worktrees for parallel agent execution.
 
@@ -2779,7 +2779,7 @@
 - [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 - [ipfs/ipfs-webui](https://github.com/ipfs/ipfs-webui) - A frontend for an IPFS Kubo and IPFS Desktop
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
-- [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
+- [vercel/turborepo](https://github.com/vercel/turborepo) - The build system for coding agents.
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
@@ -3096,7 +3096,7 @@
 
 ## llm 
 
-- [cactus-compute/needle](https://github.com/cactus-compute/needle) - Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, ASR, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Sub-50mb agentic, voice and vision intelligence for consumer devices.
 - [SylphxAI/anymd](https://github.com/SylphxAI/anymd) - Any file → clean Markdown for AI agents: PDF, Word, PowerPoint, Excel, EPUB, HTML and web pages, images (OCR), audio and video (metadata, subtitles, transcripts). A fast Rust MCP server and CLI that r
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [agent-sh/agnix](https://github.com/agent-sh/agnix) - The missing linter and lsp for AI coding assistants. Validate CLAUDE.md, AGENTS.md, SKILL.md, hooks, MCP. Plugin for all major IDEs included, with autofixes.
@@ -3273,7 +3273,7 @@
 ## mcp 
 
 - [SylphxAI/anymd](https://github.com/SylphxAI/anymd) - Any file → clean Markdown for AI agents: PDF, Word, PowerPoint, Excel, EPUB, HTML and web pages, images (OCR), audio and video (metadata, subtitles, transcripts). A fast Rust MCP server and CLI that r
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Automate browsers without limits. SeleniumBase CDP Mode bypasses bot-detection and CAPTCHAs with ease. Check out the example tests!
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Browser automation, web scraping, E2E-testing, and stealth in one SDK. SeleniumBase CDP Mode can evade bot-detection and pass CAPTCHAs.
 - [agent-sh/agnix](https://github.com/agent-sh/agnix) - The missing linter and lsp for AI coding assistants. Validate CLAUDE.md, AGENTS.md, SKILL.md, hooks, MCP. Plugin for all major IDEs included, with autofixes.
 - [runkids/skillshare](https://github.com/runkids/skillshare) - 📚 Sync skills, agents, MCP, plugins to all AI CLI tools with one command and simplify team sharing.
 - [ergut/mcp-logseq](https://github.com/ergut/mcp-logseq) - MCP server to interact with LogSeq via its Local HTTP API - enabling AI assistants like Claude to seamlessly read, write, and manage your LogSeq graph.
@@ -3574,7 +3574,7 @@
 ## open-source 
 
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
-- [openlit/openlit](https://github.com/openlit/openlit) - OpenLIT is the open-source agent harness engineering platform: trace, evaluate, guard, and improve everything around the model in your AI agents, on OTEL.
+- [openlit/openlit](https://github.com/openlit/openlit) - Same agent Smaller bill. The tools and infrastructure to get more work from your AI. Fewer tokens. Less compute. Lower cost.
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.
 - [nymtech/nym-vpn-client](https://github.com/nymtech/nym-vpn-client) - Cross-platform open source VPN client built in Rust, with mixnet anonymity and WireGuard speed. Protects metadata, not just IP addresses. Zero-knowledge payments for unlinkable online activities.
 - [activist-org/activist](https://github.com/activist-org/activist) - An open-source activism platform
@@ -3604,7 +3604,7 @@
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
-- [openlit/openlit](https://github.com/openlit/openlit) - OpenLIT is the open-source agent harness engineering platform: trace, evaluate, guard, and improve everything around the model in your AI agents, on OTEL.
+- [openlit/openlit](https://github.com/openlit/openlit) - Same agent Smaller bill. The tools and infrastructure to get more work from your AI. Fewer tokens. Less compute. Lower cost.
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
@@ -3639,6 +3639,8 @@
 
 ## others 
 
+- [matrix-org/arewep2pyet](https://github.com/matrix-org/arewep2pyet) - arewep2pyet.com
+- [Tarquinen/opencode-dynamic-context-pruning](https://github.com/Tarquinen/opencode-dynamic-context-pruning) - Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage
 - [element-hq/element-x-android-neutrino](https://github.com/element-hq/element-x-android-neutrino) - Fork of element-x-android with an embedded Neutrino homeserver.
 - [element-hq/neutrino](https://github.com/element-hq/neutrino) - A lightweight, embedded homeserver written in Rust.
 - [agronholm/anyio](https://github.com/agronholm/anyio) - High level asynchronous concurrency and networking framework that works on top of either Trio or asyncio
@@ -4845,7 +4847,7 @@
 - [digitalbazaar/pyld](https://github.com/digitalbazaar/pyld) - JSON-LD processor written in Python
 - [RDFLib/rdflib](https://github.com/RDFLib/rdflib) - RDFLib is a Python library for working with RDF, a simple yet powerful language for representing information.
 - [pydantic/logfire](https://github.com/pydantic/logfire) - AI observability platform for production LLM and agent systems.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Automate browsers without limits. SeleniumBase CDP Mode bypasses bot-detection and CAPTCHAs with ease. Check out the example tests!
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Browser automation, web scraping, E2E-testing, and stealth in one SDK. SeleniumBase CDP Mode can evade bot-detection and pass CAPTCHAs.
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray) - pytest plugin for easy integration of memray memory profiler
 - [seddonym/import-linter](https://github.com/seddonym/import-linter) - Lint your Python architecture.
@@ -5788,7 +5790,7 @@
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [voodoocreation/ts-deepmerge](https://github.com/voodoocreation/ts-deepmerge) - A TypeScript deep merge function with automatically inferred types.
 - [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
-- [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
+- [vercel/turborepo](https://github.com/vercel/turborepo) - The build system for coding agents.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [taye/interact.js](https://github.com/taye/interact.js) - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+)
 - [zeshuaro/vscode-poetry](https://github.com/zeshuaro/vscode-poetry) - Python Poetry support for VS Code to manage Poetry commands
