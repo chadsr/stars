@@ -8,6 +8,7 @@
 - [3d](#3d)
 - [agent](#agent)
 - [agent-skills](#agent-skills)
+- [agentic-ai](#agentic-ai)
 - [agents](#agents)
 - [ai](#ai)
 - [ai-agent](#ai-agent)
@@ -345,6 +346,12 @@
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Sha
 - [hermes-labs-ai/lintlang](https://github.com/hermes-labs-ai/lintlang) - Static analysis for AI agent configs, tool descriptions, and system prompts — catches vague tool descriptions, missing stop conditions, and schema gaps before they reach runtime. Zero-LLM, determinist
 - [cisco-ai-defense/skill-scanner](https://github.com/cisco-ai-defense/skill-scanner) - Security Scanner for Agent Skills
+
+## agentic-ai 
+
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
+- [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, 
 
 ## agents 
 
@@ -2429,6 +2436,7 @@
 
 ## hacktoberfest 
 
+- [actions-rust-lang/setup-rust-toolchain](https://github.com/actions-rust-lang/setup-rust-toolchain) - Setup a specific Rust toolchain with extra features like problem matchers
 - [detekt/detekt](https://github.com/detekt/detekt) - Static code analysis for Kotlin
 - [zmkfirmware/zmk](https://github.com/zmkfirmware/zmk) - ZMK Firmware Repository
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
@@ -2725,7 +2733,7 @@
 ## ipfs 
 
 - [ipshipyard/ipfs-deploy-action](https://github.com/ipshipyard/ipfs-deploy-action) - Official IPFS GitHub Action for deploying static sites (or builds) to IPFS nodes/pinning services with CAR files, and addressing site builds with CIDs
-- [ipfs/ipfs-webui](https://github.com/ipfs/ipfs-webui) - A frontend for an IPFS Kubo and IPFS Desktop
+- [ipfs/ipfs-webui](https://github.com/ipfs/ipfs-webui) - [ BEWARE: NO MAINTAINER ] A frontend for an IPFS Kubo and IPFS Desktop
 - [tabcat/zzzync](https://github.com/tabcat/zzzync) - sync with peers that have gone to sleep 😴
 - [orbitdb/orbitdb](https://github.com/orbitdb/orbitdb) - Peer-to-Peer Databases for the Decentralized Web
 - [ipfs/helia](https://github.com/ipfs/helia) - An implementation of IPFS in TypeScript
@@ -2743,7 +2751,7 @@
 - [soketi/soketi](https://github.com/soketi/soketi) - Next-gen, Pusher-compatible, open-source WebSockets server. Simple, fast, and resilient. 📣
 - [Planetable/Planet](https://github.com/Planetable/Planet) - Build and host decentralized blogs and websites on your Mac
 - [ipfs-shipyard/ipfs-deploy](https://github.com/ipfs-shipyard/ipfs-deploy) - Old (2022) proof of concept:  Zero-Config CLI to Deploy Static Websites to IPFS
-- [ipfs/kubo](https://github.com/ipfs/kubo) - IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
+- [ipfs/kubo](https://github.com/ipfs/kubo) - [ BEWARE: NO MAINTAINER ] IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
 - [filecoin-project/lotus](https://github.com/filecoin-project/lotus) - Reference implementation of the Filecoin protocol, written in Go
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Management Platform (for humans and agents)
 - [ipld/specs](https://github.com/ipld/specs) - [ARCHIVED] Old specs repo, moved to https://github.com/ipld/ipld
@@ -2801,7 +2809,7 @@
 - [activist-org/activist](https://github.com/activist-org/activist) - An open-source activism platform
 - [kwhitley/itty-router](https://github.com/kwhitley/itty-router) - A little router.
 - [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
-- [ipfs/ipfs-webui](https://github.com/ipfs/ipfs-webui) - A frontend for an IPFS Kubo and IPFS Desktop
+- [ipfs/ipfs-webui](https://github.com/ipfs/ipfs-webui) - [ BEWARE: NO MAINTAINER ] A frontend for an IPFS Kubo and IPFS Desktop
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [vercel/turborepo](https://github.com/vercel/turborepo) - The build system for coding agents.
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
@@ -3308,7 +3316,7 @@
 
 - [kgoedecke/doop](https://github.com/kgoedecke/doop) - The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.
 - [SylphxAI/anymd](https://github.com/SylphxAI/anymd) - Any file → clean Markdown for AI agents: PDF, Word, PowerPoint, Excel, EPUB, HTML and web pages, images (OCR), audio and video (metadata, subtitles, transcripts). A fast Rust MCP server and CLI that r
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Blazing fast Python framework for web crawling, testing, scraping, and reporting. Supports pytest. Bypasses bot-detection with UC / CDP Mode or Stealthy Playwright Mode.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Blazing fast Python framework for web crawling, testing, scraping, and stealth. Supports pytest. Bypasses bot-detection with CDP Mode. Compatible with Playwright.
 - [agent-sh/agnix](https://github.com/agent-sh/agnix) - The missing linter and lsp for AI coding assistants. Validate CLAUDE.md, AGENTS.md, SKILL.md, hooks, MCP. Plugin for all major IDEs included, with autofixes.
 - [runkids/skillshare](https://github.com/runkids/skillshare) - 📚 Sync skills, agents, MCP, plugins to all AI CLI tools with one command and simplify team sharing.
 - [ergut/mcp-logseq](https://github.com/ergut/mcp-logseq) - MCP server to interact with LogSeq via its Local HTTP API - enabling AI assistants like Claude to seamlessly read, write, and manage your LogSeq graph.
@@ -4640,7 +4648,7 @@
 ## p2p 
 
 - [Mikerah/awesome-privacy-on-blockchains](https://github.com/Mikerah/awesome-privacy-on-blockchains) - A curated list of privacy on blockchains resources
-- [ipfs/ipfs-webui](https://github.com/ipfs/ipfs-webui) - A frontend for an IPFS Kubo and IPFS Desktop
+- [ipfs/ipfs-webui](https://github.com/ipfs/ipfs-webui) - [ BEWARE: NO MAINTAINER ] A frontend for an IPFS Kubo and IPFS Desktop
 - [orbitdb/orbitdb](https://github.com/orbitdb/orbitdb) - Peer-to-Peer Databases for the Decentralized Web
 - [ipdr/ipdr](https://github.com/ipdr/ipdr) - 🐋 IPFS-backed Docker Registry. By @miguelmota
 - [stateless-minds/cyber-stasis](https://github.com/stateless-minds/cyber-stasis) - Post-money economy simulator in the form of a free fictional game based on gift economy that tests the hypothesis of having a market system without any exchange be it barters or money.
@@ -4891,7 +4899,7 @@
 - [digitalbazaar/pyld](https://github.com/digitalbazaar/pyld) - JSON-LD processor written in Python
 - [RDFLib/rdflib](https://github.com/RDFLib/rdflib) - RDFLib is a Python library for working with RDF, a simple yet powerful language for representing information.
 - [pydantic/logfire](https://github.com/pydantic/logfire) - AI observability platform for production LLM and agent systems.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Blazing fast Python framework for web crawling, testing, scraping, and reporting. Supports pytest. Bypasses bot-detection with UC / CDP Mode or Stealthy Playwright Mode.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Blazing fast Python framework for web crawling, testing, scraping, and stealth. Supports pytest. Bypasses bot-detection with CDP Mode. Compatible with Playwright.
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray) - pytest plugin for easy integration of memray memory profiler
 - [import-linter/import-linter](https://github.com/import-linter/import-linter) - Lint your Python architecture.
@@ -5156,7 +5164,7 @@
 - [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
 - [vite-pwa/vite-plugin-pwa](https://github.com/vite-pwa/vite-plugin-pwa) - Zero-config PWA for Vite
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
-- [ipfs/ipfs-webui](https://github.com/ipfs/ipfs-webui) - A frontend for an IPFS Kubo and IPFS Desktop
+- [ipfs/ipfs-webui](https://github.com/ipfs/ipfs-webui) - [ BEWARE: NO MAINTAINER ] A frontend for an IPFS Kubo and IPFS Desktop
 - [phamfoo/figma-squircle](https://github.com/phamfoo/figma-squircle) - Figma-flavored squircles for everyone
 - [pycaret/pycaret](https://github.com/pycaret/pycaret) - Open-source, low-code AutoML platform for Python. PyCaret 4.0: sklearn-native engine + React control plane.
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
@@ -5213,7 +5221,7 @@
 
 ## redux 
 
-- [ipfs/ipfs-webui](https://github.com/ipfs/ipfs-webui) - A frontend for an IPFS Kubo and IPFS Desktop
+- [ipfs/ipfs-webui](https://github.com/ipfs/ipfs-webui) - [ BEWARE: NO MAINTAINER ] A frontend for an IPFS Kubo and IPFS Desktop
 - [syphon-org/syphon](https://github.com/syphon-org/syphon) - ⚗️  a privacy centric matrix client
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [influxdata/chronograf](https://github.com/influxdata/chronograf) - Open source monitoring and visualization UI for the TICK stack
@@ -5259,6 +5267,7 @@
 
 ## rust 
 
+- [actions-rust-lang/setup-rust-toolchain](https://github.com/actions-rust-lang/setup-rust-toolchain) - Setup a specific Rust toolchain with extra features like problem matchers
 - [rvben/rumdl](https://github.com/rvben/rumdl) - Fast Markdown linter and formatter written in Rust
 - [sheprd-labs/sheprd](https://github.com/sheprd-labs/sheprd) - Native client for Herdr on macOS, Linux, and Windows, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
@@ -5615,7 +5624,7 @@
 - [sveltejs/svelte-eslint-parser](https://github.com/sveltejs/svelte-eslint-parser) - Svelte parser for ESLint
 - [huntabyte/bits-ui](https://github.com/huntabyte/bits-ui) - The headless components for Svelte.
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
-- [EpicenterHQ/epicenter](https://github.com/EpicenterHQ/epicenter) - Open-source, local-first apps.
+- [EpicenterHQ/epicenter](https://github.com/EpicenterHQ/epicenter) - Where one person's software lives.
 - [dimfeld/svelte-maplibre](https://github.com/dimfeld/svelte-maplibre) - Svelte bindings for the MapLibre mapping library
 - [MIERUNE/svelte-maplibre-gl](https://github.com/MIERUNE/svelte-maplibre-gl) - Svelte wrapper for 🗺 MapLibre GL JS — Build interactive web maps effortlessly with Svelte’s reactive and declarative power 🚀
 - [generaltranslation/paraglide-js](https://github.com/generaltranslation/paraglide-js) - Compiler-based i18n library that emits tree-shakable translations, leading to up to 70% smaller bundle sizes.
@@ -5674,7 +5683,7 @@
 ## tailwindcss 
 
 - [schoero/eslint-plugin-better-tailwindcss](https://github.com/schoero/eslint-plugin-better-tailwindcss) - ESLint/Oxlint plugin to help you write better tailwindcss by improving readability with formatting rules and enforcing best practices with linting rules.
-- [EpicenterHQ/epicenter](https://github.com/EpicenterHQ/epicenter) - Open-source, local-first apps.
+- [EpicenterHQ/epicenter](https://github.com/EpicenterHQ/epicenter) - Where one person's software lives.
 - [chadsr/sveltekit-capacitor-starter](https://github.com/chadsr/sveltekit-capacitor-starter) - A (slightly opinionated) starter template for SvelteKit/Capacitor/Tailwind/Typescript projects
 - [themesberg/flowbite-svelte](https://github.com/themesberg/flowbite-svelte) - Official Svelte components built for Flowbite and Tailwind CSS
 - [activist-org/activist](https://github.com/activist-org/activist) - An open-source activism platform
