@@ -437,7 +437,6 @@
 
 ## Dockerfile 
 
-- [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [CaddyBuilds/caddy-cloudflare](https://github.com/CaddyBuilds/caddy-cloudflare) - Caddy Docker image with Cloudflare DNS module
 - [chadsr/ovsc-server](https://github.com/chadsr/ovsc-server) - Custom openvscode-server image
 - [pangeo-data/pangeo-docker-images](https://github.com/pangeo-data/pangeo-docker-images) - Docker Images For Pangeo Jupyter Environment
@@ -1599,6 +1598,7 @@
 - [cisco-ai-defense/skill-scanner](https://github.com/cisco-ai-defense/skill-scanner) - Security Scanner for Agent Skills
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [scop/pre-commit-shfmt](https://github.com/scop/pre-commit-shfmt) - shfmt hook for prek and pre-commit, with auto install
+- [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with SDD or any other process!
 - [camel-ai/oasis](https://github.com/camel-ai/oasis) - 🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.
 - [jwodder/versioningit](https://github.com/jwodder/versioningit) - Versioning It with your Version In Git
@@ -2681,7 +2681,7 @@
 - [Half-Shot/matrix-presents](https://github.com/Half-Shot/matrix-presents) - A presentation client that reads from a Matrix room and displays it as pretty slides!
 - [Idered/iridium](https://github.com/Idered/iridium) - 💎 VS Code extensions
 - [vinayakkulkarni/v-mapbox](https://github.com/vinayakkulkarni/v-mapbox) - Vue 3 wrapper for Mapbox GL & MapLibre GL JS with declarative component API.
-- [TheSpaghettiDetective/obico-server](https://github.com/TheSpaghettiDetective/obico-server) - Obico is a community-built, open-source smart 3D printing platform used by makers, enthusiasts, and tinkerers around the world.
+- [TheSpaghettiDetective/obico-server](https://github.com/TheSpaghettiDetective/obico-server) - Open-source AI failure detection and remote monitoring for 3D printers running OctoPrint or Klipper. Self-host it on your own computer.
 - [anthonybudd/VIPFS](https://github.com/anthonybudd/VIPFS) - Vue.js + IPFS = VIPFS. Create unstoppable applications
 - [dj-zombie/hashpass](https://github.com/dj-zombie/hashpass) - Hash cracking WebApp & Server for hashcat
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
