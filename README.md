@@ -672,7 +672,7 @@
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [orandin/sentrus](https://github.com/orandin/sentrus) - Sentry hook for sirupsen/logrus
 - [go-testfixtures/testfixtures](https://github.com/go-testfixtures/testfixtures) - Ruby on Rails like test fixtures for Go. Write tests against a real database
-- [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
+- [chromedp/chromedp](https://github.com/chromedp/chromedp) - Drive Chrome from Go over the Chrome DevTools Protocol: browser automation, web scraping, testing, screenshots and PDFs. No Node, Selenium or WebDriver.
 - [tebeka/selenium](https://github.com/tebeka/selenium) - Selenium/Webdriver client for Go
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
@@ -1584,7 +1584,7 @@
 - [openags/paper-search-mcp](https://github.com/openags/paper-search-mcp) - MCP, CLI, Skills for searching and downloading academic papers from multiple sources like arXiv, PubMed, bioRxiv, etc.
 - [pydantic/httpx2](https://github.com/pydantic/httpx2) - A next generation HTTP client for Python. 🦋
 - [pydantic/logfire](https://github.com/pydantic/logfire) - AI observability platform for production LLM and agent systems.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - SeleniumBase browser automation handles E2E testing, web scraping, and stealth. CDP Mode bypasses bot-detection. Lots of integrations.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A modern framework for E2E testing, web scraping, and CAPTCHA-bypass.
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray) - pytest plugin for easy integration of memray memory profiler
 - [import-linter/import-linter](https://github.com/import-linter/import-linter) - Lint your Python architecture.
